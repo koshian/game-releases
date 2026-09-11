@@ -1,6 +1,10 @@
 const DB = window.GAME_RELEASE_DB;
 const DEFAULT_SELECTED = new Set(["fc", "sfc", "ps1", "ps2", "switch", "ps5"]);
 const selected = new Set(DEFAULT_SELECTED);
+let panelIndex = null;
+const hiddenPanelSeries = new Set();
+let panelSearch = "";
+let restoreSearchFocus = false;
 const groups = [
   [
     "Nintendo",
@@ -83,6 +87,7 @@ function buildControls() {
         selected.delete(element.dataset.id);
       }
       render();
+      closePanel();
     });
   });
 }
@@ -296,12 +301,14 @@ function render() {
   }
 
   overlay.addEventListener("pointerleave", hide);
-  overlay.addEventListener("pointermove", (event) => {
+  const monthIndexForEvent = (event) => {
     const rect = svg.getBoundingClientRect();
     const scaleX = 1100 / rect.width;
     const px = (event.clientX - rect.left) * scaleX;
-    let index = Math.round(((px - margin.l) / innerWidth) * maxMonth);
-    index = Math.max(0, Math.min(maxMonth, index));
+    return Math.max(0, Math.min(maxMonth, Math.round(((px - margin.l) / innerWidth) * maxMonth)));
+  };
+  overlay.addEventListener("pointermove", (event) => {
+    const index = monthIndexForEvent(event);
     const centerX = x(index);
     cross.setAttribute("x1", centerX);
     cross.setAttribute("x2", centerX);
@@ -315,6 +322,7 @@ function render() {
         html += `<div class="tooltip-row"><span class="tooltip-dot" style="--c:${colorFor(id)}"></span><span>${DB.series[id].label} <span style="opacity:.6">${calendarMonth}</span></span><span class="tooltip-val">${mode === "ma12" ? value.toFixed(1) : value} 本</span></div>`;
       }
     });
+    html += '<div class="tooltip-hint">クリックでこの月のタイトル一覧</div>';
 
     tip.innerHTML = html;
     tip.style.display = "block";
@@ -330,6 +338,148 @@ function render() {
         tip.style.top = `${top - tip.offsetHeight - 28}px`;
     });
   });
+  overlay.addEventListener("click", (event) => openPanel(monthIndexForEvent(event)));
+}
+
+function closePanel() {
+  const panel = document.getElementById("titlePanel");
+  panel.classList.remove("is-open");
+  panel.setAttribute("aria-hidden", "true");
+}
+
+function panelText(parent, text, className) {
+  const element = document.createElement("span");
+  if (className) element.className = className;
+  element.textContent = text;
+  parent.appendChild(element);
+  return element;
+}
+
+function renderPanel(index) {
+  const panel = document.getElementById("titlePanel");
+  panel.innerHTML = "";
+  const header = document.createElement("div");
+  header.className = "title-panel-head";
+  const heading = document.createElement("h2");
+  heading.textContent = `発売後 ${index}か月（${(index / 12).toFixed(1)}年）`;
+  header.appendChild(heading);
+  const close = document.createElement("button");
+  close.className = "panel-close";
+  close.type = "button";
+  close.setAttribute("aria-label", "閉じる");
+  close.textContent = "×";
+  close.addEventListener("click", closePanel);
+  header.appendChild(close);
+  panel.appendChild(header);
+
+  const available = [];
+  DB.order.filter((id) => selected.has(id)).forEach((id) => {
+    const series = DB.series[id];
+    const source = window.GAME_RELEASE_TITLES && window.GAME_RELEASE_TITLES[series.source_id];
+    let rows = (source && source[String(index)]) || [];
+    if (series.package_filter === "true") rows = rows.filter((row) => row[2] === 1);
+    if (rows.length) available.push({ id, series, rows });
+  });
+
+  if (!available.length) {
+    restoreSearchFocus = false;
+    panelText(panel, "この月の新作タイトルはありません", "panel-empty");
+    return;
+  }
+
+  const chips = document.createElement("div");
+  chips.className = "panel-chips";
+  available.forEach(({ id, series, rows }) => {
+    const chip = document.createElement("button");
+    chip.type = "button";
+    chip.className = `panel-chip${hiddenPanelSeries.has(id) ? " is-muted" : ""}`;
+    const dot = document.createElement("span");
+    dot.className = "panel-dot";
+    dot.style.setProperty("--c", colorFor(id));
+    chip.append(dot);
+    panelText(chip, series.label);
+    panelText(chip, ` ${rows.length}`, "panel-chip-count");
+    chip.addEventListener("click", () => {
+      if (hiddenPanelSeries.has(id)) hiddenPanelSeries.delete(id); else hiddenPanelSeries.add(id);
+      renderPanel(index);
+    });
+    chips.appendChild(chip);
+  });
+  panel.appendChild(chips);
+
+  const search = document.createElement("input");
+  search.type = "search";
+  search.className = "panel-search";
+  search.placeholder = "タイトル・メーカーを検索";
+  search.value = panelSearch;
+  search.setAttribute("aria-label", "タイトルまたはメーカーを検索");
+  search.addEventListener("input", () => { panelSearch = search.value; restoreSearchFocus = true; renderPanel(index); });
+  panel.appendChild(search);
+  if (restoreSearchFocus) {
+    search.focus();
+    search.setSelectionRange(search.value.length, search.value.length);
+    restoreSearchFocus = false;
+  }
+
+  const query = panelSearch.trim().toLocaleLowerCase();
+  available.forEach(({ id, series, rows }) => {
+    if (hiddenPanelSeries.has(id)) return;
+    const filtered = rows.filter((row) => !query || `${row[1]} ${row[3]}`.toLocaleLowerCase().includes(query));
+    if (!filtered.length) return;
+    const group = document.createElement("section");
+    group.className = "panel-group";
+    const groupHead = document.createElement("h3");
+    const dot = document.createElement("span");
+    dot.className = "panel-dot";
+    dot.style.setProperty("--c", colorFor(id));
+    groupHead.append(dot);
+    panelText(groupHead, `${series.label}　${series.months[index] || ""}　${filtered.length}件`);
+    group.appendChild(groupHead);
+    filtered.forEach((row) => {
+      const item = document.createElement("div");
+      item.className = "title-row";
+      panelText(item, `${String(series.months[index] || "--").slice(5)}-${String(row[0]).padStart(2, "0")}`, "title-date");
+      const info = document.createElement("div");
+      info.className = "title-info";
+      panelText(info, row[1], "title-name");
+      const maker = document.createElement("span");
+      maker.className = "title-maker";
+      maker.textContent = row[3] || "—";
+      info.appendChild(maker);
+      if (row[2] === 0) panelText(info, "DL専売", "download-badge");
+      item.appendChild(info);
+      const link = document.createElement("a");
+      link.className = "wikipedia-link";
+      link.href = `https://ja.wikipedia.org/w/index.php?search=${encodeURIComponent(row[1])}`;
+      link.target = "_blank";
+      link.rel = "noreferrer";
+      link.textContent = "Wikipedia";
+      item.appendChild(link);
+      group.appendChild(item);
+    });
+    panel.appendChild(group);
+  });
+}
+
+function openPanel(index) {
+  const panel = document.getElementById("titlePanel");
+  panelIndex = index;
+  panel.classList.add("is-open");
+  panel.setAttribute("aria-hidden", "false");
+  if (window.GAME_RELEASE_TITLES) { renderPanel(index); return; }
+  panel.innerHTML = "";
+  panelText(panel, "タイトルデータを読み込み中…", "panel-loading");
+  if (document.querySelector('script[data-title-data]')) return;
+  const script = document.createElement("script");
+  script.src = "./titles.js";
+  script.dataset.titleData = "true";
+  script.onload = () => renderPanel(panelIndex);
+  script.onerror = () => {
+    script.remove();
+    panel.innerHTML = "";
+    panelText(panel, "読み込みに失敗しました。もう一度クリックしてください。", "panel-error");
+  };
+  document.head.appendChild(script);
 }
 
 function renderLegend(ids) {
@@ -362,19 +512,23 @@ document.getElementById("selectAll").onclick = () => {
   DB.order.forEach((id) => selected.add(id));
   syncChecks();
   render();
+  closePanel();
 };
 document.getElementById("clearAll").onclick = () => {
   selected.clear();
   syncChecks();
   render();
+  closePanel();
 };
 document.getElementById("preset").onclick = () => {
   selected.clear();
   DEFAULT_SELECTED.forEach((id) => selected.add(id));
   syncChecks();
   render();
+  closePanel();
 };
 document.getElementById("mode").addEventListener("change", render);
+document.addEventListener("keydown", (event) => { if (event.key === "Escape") closePanel(); });
 document.getElementById("platformTotal").textContent = DB.meta.platform_count;
 document.getElementById("titleTotal").textContent = fmt(DB.meta.unique_titles);
 buildControls();

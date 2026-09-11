@@ -344,6 +344,135 @@ button.wide {
   font-family: Georgia, serif;
   font-variant-numeric: tabular-nums;
 }
+.tooltip-hint {
+  margin-top: 7px;
+  padding-top: 6px;
+  border-top: 1px solid rgba(255, 255, 255, 0.22);
+  color: #d8d0c2;
+  font-size: 10px;
+}
+.title-panel {
+  position: fixed;
+  z-index: 20;
+  top: 0;
+  right: 0;
+  width: min(480px, 92vw);
+  height: 100vh;
+  overflow-y: auto;
+  padding: 26px 24px 42px;
+  background: #fbf9f3;
+  border-left: 1px solid #bdb3a2;
+  box-shadow: -14px 0 42px rgba(42, 35, 25, 0.18);
+  transform: translateX(100%);
+  transition: transform 0.28s ease;
+}
+.title-panel.is-open { transform: translateX(0); }
+.title-panel-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding-bottom: 15px;
+  border-bottom: 2px solid #4b463f;
+}
+.title-panel-head h2 {
+  margin: 0;
+  font: 600 19px/1.35 "Yu Mincho", "Hiragino Mincho ProN", Georgia, serif;
+}
+.panel-close {
+  flex: 0 0 auto;
+  width: 34px;
+  height: 34px;
+  padding: 0;
+  font-size: 25px;
+  line-height: 1;
+  border-radius: 50%;
+}
+.panel-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin: 17px 0 14px;
+}
+.panel-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 6px 8px;
+  font-size: 11px;
+  background: #f3eee5;
+}
+.panel-chip.is-muted { opacity: 0.42; }
+.panel-chip-count { color: #777064; font-family: Georgia, serif; }
+.panel-dot {
+  display: inline-block;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--c);
+}
+.panel-search {
+  display: block;
+  width: 100%;
+  padding: 9px 11px;
+  margin-bottom: 20px;
+  color: var(--ink);
+  background: #fffdf8;
+  border: 1px solid #bfb6a6;
+  border-radius: 2px;
+  font: inherit;
+  font-size: 12px;
+}
+.panel-group { margin: 0 0 22px; }
+.panel-group h3 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--rule);
+  font: 600 12px/1.5 "Yu Mincho", Georgia, serif;
+}
+.title-row {
+  display: grid;
+  grid-template-columns: 48px minmax(0, 1fr) auto;
+  gap: 8px;
+  align-items: start;
+  padding: 9px 0;
+  border-bottom: 1px solid var(--rule2);
+  font-size: 12px;
+}
+.title-date {
+  padding-top: 1px;
+  color: #756d61;
+  font: 11px Georgia, serif;
+  font-variant-numeric: tabular-nums;
+}
+.title-info { min-width: 0; }
+.title-name { display: block; line-height: 1.45; overflow-wrap: anywhere; }
+.title-maker { display: inline-block; margin-top: 3px; color: #777064; font-size: 10px; }
+.download-badge {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 1px 4px;
+  color: #8f3026;
+  border: 1px solid #d2a49d;
+  font-size: 9px;
+  white-space: nowrap;
+}
+.wikipedia-link {
+  align-self: center;
+  color: #7e4038;
+  font-size: 10px;
+  white-space: nowrap;
+}
+.panel-empty, .panel-loading, .panel-error {
+  padding: 48px 8px;
+  color: var(--muted);
+  text-align: center;
+  font-family: "Yu Mincho", Georgia, serif;
+  font-size: 13px;
+}
 .method {
   margin-top: 30px;
   padding: 22px 24px;
@@ -511,6 +640,9 @@ ol.refs li::before {
     padding-left: 18px;
     padding-right: 18px;
   }
+  .title-panel { padding-left: 17px; padding-right: 17px; }
+  .title-row { grid-template-columns: 44px minmax(0, 1fr); }
+  .wikipedia-link { grid-column: 2; justify-self: start; margin-top: 2px; }
 }
 
 @media print {

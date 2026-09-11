@@ -18,6 +18,7 @@ GitHub Pages では `index.html` をそのまま公開ページとして使用�
     を別系列として比較
 * 元データをCSVとして確認・修正
 * CSVから表示用データを再生成
+* グラフの月をクリックして、その月のタイトル一覧（発売日・メーカー・DL専売の別・Wikipedia検索リンク）を確認
 
 表示用HTMLには個々のゲームタイトルを直接埋め込まず、Gitで管理するCSVから生成した `data.js` を読み込んでいます。
 
@@ -29,6 +30,7 @@ GitHub Pages では `index.html` をそのまま公開ページとして使用�
 .
 ├── index.html
 ├── data.js
+├── titles.js
 ├── style.css
 ├── app.js
 │
@@ -38,7 +40,8 @@ GitHub Pages では `index.html` をそのまま公開ページとして使用�
 │   └── sources.csv
 │
 ├── scripts/
-│   └── build_viewer_data.rb
+│   ├── build_viewer_data.rb
+│   └── add_publisher.rb
 │
 ├── sources/
 │   └── ...
@@ -60,17 +63,19 @@ source_id
 release_date
 title
 package
+publisher
 ```
 
 例:
 
 ```csv
-switch,2024-03-14,Example Game,YES
+switch,2024-03-14,Example Game,true,Example Publisher
 ```
 
 `package` は、そのタイトルにパッケージ版が存在するかどうかを示します。
 
 Nintendo Switchの「パッケージあり」系列は、この値を使って生成しています。
+`publisher` はメーカー名です。空欄は不明を表します。Wikipedia由来の ps1/ps2/xbox/wii/wiiu などはメーカー情報がありません。
 
 ### `data/series.csv`
 
@@ -116,6 +121,10 @@ Nintendo Switchの「パッケージあり」系列は、この値を使って�
 **このファイルは直接編集しないでください。**
 
 `data/*.csv` を変更したあと、生成スクリプトを実行して更新します。
+
+### `titles.js`
+
+ブラウザの月別タイトル一覧で使用する生成物です。**直接編集しないでください。** `data.js` と同様、`ruby scripts/build_viewer_data.rb` で再生成されます。
 
 ---
 
