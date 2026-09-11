@@ -29,6 +29,8 @@ GitHub Pages では `index.html` をそのまま公開ページとして使用�
 .
 ├── index.html
 ├── data.js
+├── style.css
+├── app.js
 │
 ├── data/
 │   ├── releases.csv

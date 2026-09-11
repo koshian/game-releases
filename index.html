@@ -1,222 +1,102 @@
 <!doctype html>
 <html lang="ja">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>日本の家庭用ゲーム機 — 発売後の月別新作ソフト数</title>
-<style>
-:root{
-  color-scheme:light;
-  --paper:#f5f1e8; --paper2:#fbf9f3; --ink:#191814; --muted:#6c675d;
-  --rule:#cfc7b8; --rule2:#e0d9cd; --accent:#2d332d; --shadow:0 18px 60px rgba(42,35,25,.11);
-}
-*{box-sizing:border-box}
-html{background:#ebe5da}
-body{margin:0;font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Sans","Yu Gothic UI","Yu Gothic",Meiryo,sans-serif;color:var(--ink);background:linear-gradient(180deg,#e8e2d7 0,#f3eee5 22rem,#ebe5da 100%);}
-a{color:inherit;text-decoration-thickness:1px;text-underline-offset:3px}
-.page{width:min(1480px,calc(100% - 32px));margin:28px auto 80px;background:var(--paper2);border:1px solid #d3cbbb;box-shadow:var(--shadow)}
-.masthead{padding:52px 58px 34px;border-bottom:1px solid var(--rule);background:radial-gradient(circle at 82% 10%,rgba(100,83,56,.055),transparent 25rem)}
-.kicker{font-family:Georgia,"Times New Roman",serif;font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:#6e6658;margin-bottom:16px}
-h1{font-family:"Yu Mincho","Hiragino Mincho ProN",Georgia,serif;font-weight:600;font-size:clamp(30px,4vw,57px);line-height:1.15;letter-spacing:.025em;margin:0;max-width:1100px}
-.subtitle{margin-top:18px;font-family:Georgia,"Yu Mincho",serif;color:var(--muted);font-size:16px;line-height:1.8}
-.summaryline{margin-top:28px;padding-top:18px;border-top:1px solid var(--rule2);display:flex;gap:28px;flex-wrap:wrap;font-size:12px;letter-spacing:.04em;color:#565147}
-.summaryline strong{font-family:Georgia,serif;font-size:18px;font-weight:500;color:var(--ink);margin-right:5px}
-.workspace{display:grid;grid-template-columns:305px minmax(0,1fr);min-height:720px}
-.controls{padding:28px 26px 40px;border-right:1px solid var(--rule);background:#f2eee6}
-.controls h2,.graphhead h2,.references h2{font-family:"Yu Mincho","Hiragino Mincho ProN",Georgia,serif;font-size:19px;font-weight:600;letter-spacing:.04em;margin:0}
-.controlnote{font-size:12px;color:var(--muted);line-height:1.6;margin:8px 0 18px}
-.actions{display:grid;grid-template-columns:1fr 1fr;gap:7px;margin-bottom:22px}
-button,select{font:inherit;color:inherit;background:#faf7f0;border:1px solid #bfb6a6;border-radius:2px;padding:8px 10px;cursor:pointer}
-button:hover{background:white;border-color:#8c8272}
-button.wide{grid-column:1/-1}
-.group{border-top:1px solid var(--rule2);padding-top:14px;margin-top:14px}
-.group-title{font:600 11px/1.2 Georgia,serif;letter-spacing:.14em;text-transform:uppercase;color:#70695d;margin-bottom:8px}
-.platform-check{display:grid;grid-template-columns:16px 12px 1fr auto;align-items:center;gap:7px;padding:5px 2px;font-size:12.5px;cursor:pointer}
-.platform-check:hover{background:rgba(255,255,255,.45)}
-.platform-check input{margin:0;width:14px;height:14px}
-.swatch{width:10px;height:3px;border-radius:2px;background:var(--c)}
-.pcount{font:11px Georgia,serif;color:#8b8375}
-.display-options{margin-top:25px;padding-top:18px;border-top:1px solid var(--rule)}
-.display-options label{display:block;font-size:11px;letter-spacing:.08em;color:#6a6358;margin-bottom:6px;text-transform:uppercase}
-.display-options select{width:100%;font-size:12px}
-.main{padding:30px 34px 46px;min-width:0}
-.graphhead{display:flex;justify-content:space-between;align-items:end;gap:18px;margin-bottom:18px}
-.graphhead p{margin:6px 0 0;color:var(--muted);font-size:12px;line-height:1.6}
-.selection-count{font:12px Georgia,serif;color:#6d665b;white-space:nowrap}
-.chartbox{position:relative;border-top:1px solid #9d9588;border-bottom:1px solid var(--rule);background:#fffdf8;min-height:600px;overflow:hidden}
-#chart{display:block;width:100%;height:600px;touch-action:none}
-.gridline{stroke:#ded8cd;stroke-width:1;shape-rendering:crispEdges}
-.axisline{stroke:#6b655b;stroke-width:1;shape-rendering:crispEdges}
-.ticktext{font:11px Georgia,serif;fill:#6b655b}
-.axislabel{font:11px "Yu Mincho",Georgia,serif;fill:#544f47;letter-spacing:.05em}
-.data-line{fill:none;stroke-width:2;vector-effect:non-scaling-stroke;opacity:.88}
-.data-line.dim{opacity:.12}
-.legend{display:flex;gap:8px 16px;flex-wrap:wrap;padding:12px 3px 2px;font-size:11px;color:#554f45}
-.legend-item{display:inline-flex;align-items:center;gap:6px;cursor:default}
-.legend-swatch{width:14px;height:3px;border-radius:2px;background:var(--c)}
-.tooltip{position:absolute;z-index:5;pointer-events:none;display:none;background:rgba(29,27,24,.96);color:#f8f3e9;border:1px solid #524c43;box-shadow:0 8px 30px rgba(0,0,0,.18);padding:10px 12px;min-width:200px;max-width:330px;font-size:11px;line-height:1.5}
-.tooltip .month{font:600 12px Georgia,serif;margin-bottom:5px;color:#fff}
-.tooltip-row{display:grid;grid-template-columns:8px 1fr auto;gap:7px;align-items:center}
-.tooltip-dot{width:7px;height:2px;background:var(--c)}
-.tooltip-val{font-family:Georgia,serif;font-variant-numeric:tabular-nums}
-.method{margin-top:30px;padding:22px 24px;border:1px solid var(--rule);background:#f5f1e9;display:grid;grid-template-columns:150px 1fr;gap:20px}
-.method h3{margin:0;font:600 14px "Yu Mincho",Georgia,serif;letter-spacing:.06em}
-.method p{margin:0;font-size:12px;line-height:1.85;color:#595348}
-.references{padding:42px 58px 54px;border-top:1px solid var(--rule);background:#f7f3eb}
-.references-head{display:flex;justify-content:space-between;align-items:baseline;gap:20px;border-bottom:2px solid #4b463f;padding-bottom:12px;margin-bottom:24px}
-.references .latin{font:italic 13px Georgia,serif;color:#746c60}
-ol.refs{counter-reset:refs;list-style:none;margin:0;padding:0;max-width:1120px}
-ol.refs li{counter-increment:refs;position:relative;padding:0 0 16px 46px;margin:0 0 14px;border-bottom:1px solid var(--rule2);font:14px/1.75 Georgia,"Yu Mincho",serif}
-ol.refs li::before{content:"[" counter(refs) "]";position:absolute;left:0;top:0;width:36px;text-align:right;font-variant-numeric:tabular-nums;color:#504a42}
-.ref-platform{font-weight:700;font-style:normal}
-.ref-meta{color:#5e574d}
-.ref-url{font-size:12px;word-break:break-all;color:#514c44}
-.ref-note{display:block;margin-top:3px;font:11px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#7a7265}
-.caveat{margin-top:28px;padding-top:18px;border-top:1px solid #9d9588;font-size:11px;line-height:1.75;color:#70685b;max-width:1050px}
-.empty{display:flex;align-items:center;justify-content:center;height:540px;font-family:"Yu Mincho",Georgia,serif;color:#777064;text-align:center}
-@media(max-width:900px){.page{width:100%;margin:0;border-left:0;border-right:0}.masthead{padding:36px 24px 28px}.workspace{grid-template-columns:1fr}.controls{border-right:0;border-bottom:1px solid var(--rule);padding:22px 24px}.group{display:inline-block;vertical-align:top;width:min(48%,260px);margin-right:2%}.main{padding:24px 16px}.references{padding:34px 24px}.method{grid-template-columns:1fr}.chartbox,#chart{min-height:520px;height:520px}}
-@media(max-width:560px){.group{width:100%}.graphhead{align-items:start;flex-direction:column}.summaryline{gap:14px}.references{padding-left:18px;padding-right:18px}}
-@media print{html,body{background:white}.page{width:100%;margin:0;box-shadow:none;border:0}.controls{display:none}.workspace{display:block}.main{padding:28px 40px}.references{padding:36px 40px}.chartbox{break-inside:avoid}}
-</style>
-</head>
-<body>
-<div class="page">
-<header class="masthead">
-  <div class="kicker">Japanese Console Software Release Archive · 1983–2026</div>
-  <h1>日本の家庭用ゲーム機<br>発売後の月別新作ソフト数</h1>
-  <div class="subtitle">日本市場における各ハードの発売月を <strong>Month 0</strong> とし、その後毎月何本の新作タイトルが発売されたかを比較する。<br>機種を選択すると、同じ時間軸上で立ち上がり・ピーク・衰退を重ねて観察できる。</div>
-  <div class="summaryline">
-    <span><strong id="platformTotal">31</strong> platforms</span>
-    <span><strong id="titleTotal">41,217</strong> normalized titles</span>
-    <span><strong>Japan</strong> market only</span>
-    <span><strong>2026-09-11</strong> dataset snapshot</span>
-  </div>
-</header>
-<div class="workspace">
-  <aside class="controls">
-    <h2>表示系列</h2>
-    <p class="controlnote">線が重なりすぎる場合は数系列に絞ると、世代ごとの供給曲線が読みやすくなります。Nintendo Switchは全タイトルと「パッケージあり」を別々に選べます。</p>
-    <div class="actions">
-      <button id="preset">代表6機種</button>
-      <button id="selectAll">全選択</button>
-      <button id="clearAll" class="wide">全解除</button>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>日本の家庭用ゲーム機 — 発売後の月別新作ソフト数</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="masthead">
+        <div class="kicker">
+          Japanese Console Software Release Archive · 1983–2026
+        </div>
+        <h1>日本の家庭用ゲーム機<br />発売後の月別新作ソフト数</h1>
+        <div class="subtitle">
+          日本市場における各ハードの発売月を
+          <strong>Month 0</strong>
+          とし、その後毎月何本の新作タイトルが発売されたかを比較する。<br />
+          機種を選択すると、同じ時間軸上で立ち上がり・ピーク・衰退を重ねて観察できる。
+        </div>
+        <div class="summaryline">
+          <span><strong id="platformTotal">31</strong> platforms</span>
+          <span><strong id="titleTotal">41,217</strong> normalized titles</span>
+          <span><strong>Japan</strong> market only</span>
+          <span><strong>2026-09-11</strong> dataset snapshot</span>
+        </div>
+      </header>
+
+      <div class="workspace">
+        <aside class="controls">
+          <h2>表示系列</h2>
+          <p class="controlnote">
+            線が重なりすぎる場合は数系列に絞ると、世代ごとの供給曲線が読みやすくなります。Nintendo
+            Switchは全タイトルと「パッケージあり」を別々に選べます。
+          </p>
+          <div class="actions">
+            <button id="preset">代表6機種</button>
+            <button id="selectAll">全選択</button>
+            <button id="clearAll" class="wide">全解除</button>
+          </div>
+          <div id="checklist"></div>
+          <div class="display-options">
+            <label for="mode">系列の表示</label>
+            <select id="mode">
+              <option value="raw">月間新作本数</option>
+              <option value="ma12">12か月移動平均</option>
+            </select>
+          </div>
+        </aside>
+
+        <main class="main">
+          <div class="graphhead">
+            <div>
+              <h2>Release cadence after hardware launch</h2>
+              <p>
+                横軸：ハード発売からの経過年数　／　縦軸：その月の新作タイトル数
+              </p>
+            </div>
+            <div class="selection-count" id="selectionCount"></div>
+          </div>
+          <div class="chartbox" id="chartbox">
+            <svg
+              id="chart"
+              viewBox="0 0 1100 600"
+              preserveAspectRatio="none"
+              aria-label="系列別月間新作ソフト数の折れ線グラフ"
+            ></svg>
+            <div class="tooltip" id="tooltip"></div>
+          </div>
+          <div class="legend" id="legend"></div>
+          <section class="method">
+            <h3>集計方法</h3>
+            <p>
+              各機種について、日本でのハード発売月を
+              <strong>Month 0</strong>
+              とした。月ごとの本数は、その機種で日本発売されたタイトルの初回発売日を用いて集計し、同一タイトルの重複行は正規化して最初の発売日に統合した。通常系列は
+              <em>all_titles</em> を使用する。Nintendo Switchについては比較用に
+              <em>package_titles</em
+              >（原データの「パッケージ併売=YES」）だけを数えた「Nintendo
+              Switch（パッケージあり）」系列も用意した。全タイトル系列はダウンロード専売を含む。Wiiは現版ではディスクソフトのみでWiiWareを含まないため、世代間の絶対本数比較には留意が必要である。
+            </p>
+          </section>
+        </main>
+      </div>
+
+      <section class="references">
+        <div class="references-head">
+          <h2>参照文献・データソース</h2>
+          <div class="latin">References &amp; Data Provenance</div>
+        </div>
+        <ol class="refs" id="refs"></ol>
+        <div class="caveat">
+          注：下記は現在グラフで選択されている機種に対応する出典を表示する。取得日は2026年9月11日。Wikipediaを用いた補完データについては、日本発売日のある行のみを抽出し、ローカル保存したHTMLを監査可能な原資料として保持している。各CSVの原行数・正規化後タイトル数・日付不正行数は集計時に別途記録した。
+        </div>
+      </section>
     </div>
-    <div id="checklist"></div>
-    <div class="display-options">
-      <label for="mode">系列の表示</label>
-      <select id="mode">
-        <option value="raw">月間新作本数</option>
-        <option value="ma12">12か月移動平均</option>
-      </select>
-    </div>
-  </aside>
-  <main class="main">
-    <div class="graphhead">
-      <div><h2>Release cadence after hardware launch</h2><p>横軸：ハード発売からの経過年数　／　縦軸：その月の新作タイトル数</p></div>
-      <div class="selection-count" id="selectionCount"></div>
-    </div>
-    <div class="chartbox" id="chartbox">
-      <svg id="chart" viewBox="0 0 1100 600" preserveAspectRatio="none" aria-label="系列別月間新作ソフト数の折れ線グラフ"></svg>
-      <div class="tooltip" id="tooltip"></div>
-    </div>
-    <div class="legend" id="legend"></div>
-    <section class="method">
-      <h3>集計方法</h3>
-      <p>各機種について、日本でのハード発売月を <strong>Month 0</strong> とした。月ごとの本数は、その機種で日本発売されたタイトルの初回発売日を用いて集計し、同一タイトルの重複行は正規化して最初の発売日に統合した。通常系列は <em>all_titles</em> を使用する。Nintendo Switchについては比較用に <em>package_titles</em>（原データの「パッケージ併売=YES」）だけを数えた「Nintendo Switch（パッケージあり）」系列も用意した。全タイトル系列はダウンロード専売を含む。Wiiは現版ではディスクソフトのみでWiiWareを含まないため、世代間の絶対本数比較には留意が必要である。</p>
-    </section>
-  </main>
-</div>
-<section class="references">
-  <div class="references-head"><h2>参照文献・データソース</h2><div class="latin">References &amp; Data Provenance</div></div>
-  <ol class="refs" id="refs"></ol>
-  <div class="caveat">注：下記は現在グラフで選択されている機種に対応する出典を表示する。取得日は2026年9月11日。Wikipediaを用いた補完データについては、日本発売日のある行のみを抽出し、ローカル保存したHTMLを監査可能な原資料として保持している。各CSVの原行数・正規化後タイトル数・日付不正行数は集計時に別途記録した。</div>
-</section>
-</div>
-<script src="./data.js"></script>
-<script>
-const DB = window.GAME_RELEASE_DB;
-const DEFAULT_SELECTED = new Set(['fc','sfc','ps1','ps2','switch','ps5']);
-const selected = new Set(DEFAULT_SELECTED);
-const groups = [
-  ['Nintendo',['fc','fds','gb','sfc','n64','gba','gc','ds','wii','3ds','wiiu','switch','switchpkg']],
-  ['SEGA',['md','gg','saturn','dc']],
-  ['Sony',['ps1','ps2','psp','ps3','vita','ps4','ps5']],
-  ['Microsoft',['xbox','xbox360','xboxone','xboxseries']],
-  ['NEC / SNK / Bandai',['pce','neogeo','ngp','ws']]
-];
-function colorFor(id){
-  const i=DB.order.indexOf(id);
-  const base=['#b13b2e','#265ea8','#268b6e','#8a4fa1','#d17a13','#267e9d','#6b8135','#a8496e','#5d58a7','#9a6732'];
-  if(i<base.length) return base[i];
-  const hue=(i*137.508+18)%360;
-  return `hsl(${hue.toFixed(1)} 52% 43%)`;
-}
-function fmt(n){return n.toLocaleString('ja-JP')}
-function buildControls(){
- const root=document.getElementById('checklist'); root.innerHTML='';
- for(const [g,ids] of groups){
-   const sec=document.createElement('div'); sec.className='group';
-   sec.innerHTML=`<div class="group-title">${g}</div>`;
-   ids.forEach(id=>{
-     const s=DB.series[id]; if(!s) return;
-     const lab=document.createElement('label'); lab.className='platform-check';
-     lab.innerHTML=`<input type="checkbox" data-id="${id}" ${selected.has(id)?'checked':''}><span class="swatch" style="--c:${colorFor(id)}"></span><span>${s.label}</span><span class="pcount">${fmt(s.unique_titles)}</span>`;
-     sec.appendChild(lab);
-   }); root.appendChild(sec);
- }
- root.querySelectorAll('input').forEach(el=>el.addEventListener('change',()=>{ el.checked?selected.add(el.dataset.id):selected.delete(el.dataset.id); render(); }));
-}
-function syncChecks(){document.querySelectorAll('.platform-check input').forEach(x=>x.checked=selected.has(x.dataset.id));}
-function rolling12(a){return a.map((_,i)=>{let start=Math.max(0,i-11),sum=0;for(let j=start;j<=i;j++)sum+=a[j];return sum/(i-start+1);});}
-function niceMax(v){if(v<=0)return 10;const p=Math.pow(10,Math.floor(Math.log10(v)));const n=v/p;const m=n<=1?1:n<=2?2:n<=5?5:10;return m*p;}
-function pathFor(values,x,y){let d=''; values.forEach((v,i)=>{const px=x(i),py=y(v);d+=(i?'L':'M')+px.toFixed(2)+','+py.toFixed(2)});return d}
-function svgEl(name,attrs={}){const e=document.createElementNS('http://www.w3.org/2000/svg',name);for(const [k,v] of Object.entries(attrs))e.setAttribute(k,v);return e}
-function render(){
- const mode=document.getElementById('mode').value;
- const ids=DB.order.filter(id=>selected.has(id));
- document.getElementById('selectionCount').textContent=`${ids.length} / ${DB.order.length} 系列を表示`;
- renderLegend(ids); renderRefs(ids);
- const svg=document.getElementById('chart'); svg.innerHTML='';
- if(!ids.length){const fo=svgEl('foreignObject',{x:0,y:0,width:1100,height:600});fo.innerHTML='<div xmlns="http://www.w3.org/1999/xhtml" class="empty">左のチェックボックスから<br>表示する系列を選択してください。</div>';svg.appendChild(fo);return;}
- const W=1100,H=600,m={l:66,r:22,t:22,b:58}; const iw=W-m.l-m.r,ih=H-m.t-m.b;
- const vals={}; let maxMonth=0,maxY=0;
- ids.forEach(id=>{let a=DB.series[id].counts; if(mode==='ma12')a=rolling12(a); vals[id]=a;maxMonth=Math.max(maxMonth,a.length-1);for(const v of a)maxY=Math.max(maxY,v)});
- maxY=niceMax(maxY*1.04);
- const x=i=>m.l+(i/maxMonth)*iw; const y=v=>m.t+ih-(v/maxY)*ih;
- // grid y
- const ySteps=5;
- for(let j=0;j<=ySteps;j++){const val=maxY*j/ySteps,py=y(val);svg.appendChild(svgEl('line',{x1:m.l,y1:py,x2:W-m.r,y2:py,class:'gridline'}));const t=svgEl('text',{x:m.l-10,y:py+4,'text-anchor':'end',class:'ticktext'});t.textContent=mode==='ma12'?val.toFixed(val<10?1:0):Math.round(val);svg.appendChild(t)}
- // x grid per years
- const maxYears=maxMonth/12; const yearStep=maxYears>14?2:1;
- for(let yr=0;yr<=Math.floor(maxYears);yr+=yearStep){const px=x(yr*12);svg.appendChild(svgEl('line',{x1:px,y1:m.t,x2:px,y2:m.t+ih,class:'gridline'}));const t=svgEl('text',{x:px,y:H-31,'text-anchor':'middle',class:'ticktext'});t.textContent=yr;svg.appendChild(t)}
- svg.appendChild(svgEl('line',{x1:m.l,y1:m.t+ih,x2:W-m.r,y2:m.t+ih,class:'axisline'}));
- svg.appendChild(svgEl('line',{x1:m.l,y1:m.t,x2:m.l,y2:m.t+ih,class:'axisline'}));
- let xt=svgEl('text',{x:m.l+iw/2,y:H-7,'text-anchor':'middle',class:'axislabel'});xt.textContent='発売からの経過年数';svg.appendChild(xt);
- let yt=svgEl('text',{x:16,y:m.t+ih/2,'text-anchor':'middle',class:'axislabel',transform:`rotate(-90 16 ${m.t+ih/2})`});yt.textContent=mode==='ma12'?'月間新作本数（12か月移動平均）':'月間新作本数';svg.appendChild(yt);
- // series
- ids.forEach(id=>{const p=svgEl('path',{d:pathFor(vals[id],x,y),stroke:colorFor(id),class:'data-line','data-id':id});svg.appendChild(p)});
- // hover layer
- const cross=svgEl('line',{x1:m.l,y1:m.t,x2:m.l,y2:m.t+ih,stroke:'#6f695f','stroke-width':'1','stroke-dasharray':'3 4',visibility:'hidden'});svg.appendChild(cross);
- const overlay=svgEl('rect',{x:m.l,y:m.t,width:iw,height:ih,fill:'transparent',style:'cursor:crosshair'});svg.appendChild(overlay);
- const tip=document.getElementById('tooltip'),box=document.getElementById('chartbox');
- function hide(){cross.setAttribute('visibility','hidden');tip.style.display='none';}
- overlay.addEventListener('pointerleave',hide);
- overlay.addEventListener('pointermove',ev=>{
-   const rect=svg.getBoundingClientRect(); const sx=1100/rect.width; const px=(ev.clientX-rect.left)*sx; let idx=Math.round(((px-m.l)/iw)*maxMonth);idx=Math.max(0,Math.min(maxMonth,idx));const cx=x(idx);cross.setAttribute('x1',cx);cross.setAttribute('x2',cx);cross.setAttribute('visibility','visible');
-   let html=`<div class="month">発売後 ${idx}か月（${(idx/12).toFixed(1)}年）</div>`;
-   ids.forEach(id=>{if(idx<vals[id].length){const v=vals[id][idx];const cal=DB.series[id].months[idx]||'';html+=`<div class="tooltip-row"><span class="tooltip-dot" style="--c:${colorFor(id)}"></span><span>${DB.series[id].label} <span style="opacity:.6">${cal}</span></span><span class="tooltip-val">${mode==='ma12'?v.toFixed(1):v} 本</span></div>`}});
-   tip.innerHTML=html;tip.style.display='block';
-   const br=box.getBoundingClientRect();let left=ev.clientX-br.left+14,top=ev.clientY-br.top+14;tip.style.left=left+'px';tip.style.top=top+'px';requestAnimationFrame(()=>{if(left+tip.offsetWidth>br.width-8)tip.style.left=(left-tip.offsetWidth-28)+'px';if(top+tip.offsetHeight>br.height-8)tip.style.top=(top-tip.offsetHeight-28)+'px';});
- });
-}
-function renderLegend(ids){const root=document.getElementById('legend');root.innerHTML='';ids.forEach(id=>{const e=document.createElement('span');e.className='legend-item';e.innerHTML=`<span class="legend-swatch" style="--c:${colorFor(id)}"></span>${DB.series[id].label}`;root.appendChild(e)})}
-function renderRefs(ids){const root=document.getElementById('refs');root.innerHTML='';ids.forEach(id=>{const s=DB.series[id],r=DB.sources[id];const li=document.createElement('li');const href=r.url?`<a class="ref-url" href="${r.url}" target="_blank" rel="noreferrer">${r.url}</a>`:'URL unavailable';li.innerHTML=`<span class="ref-platform">${s.label}.</span> ${r.author}. “${r.title}.” <span class="ref-meta">${r.container}. Retrieved ${r.accessed}.</span><br>${href}<span class="ref-note">${r.note}　正規化後 ${fmt(s.unique_titles)} タイトル、観測 ${s.duration_months} か月。</span>`;root.appendChild(li)})}
-document.getElementById('selectAll').onclick=()=>{DB.order.forEach(x=>selected.add(x));syncChecks();render()};
-document.getElementById('clearAll').onclick=()=>{selected.clear();syncChecks();render()};
-document.getElementById('preset').onclick=()=>{selected.clear();DEFAULT_SELECTED.forEach(x=>selected.add(x));syncChecks();render()};
-document.getElementById('mode').addEventListener('change',render);
-document.getElementById('platformTotal').textContent=DB.meta.platform_count;
-document.getElementById('titleTotal').textContent=fmt(DB.meta.unique_titles);
-buildControls(); render();
-</script>
-</body></html>
+
+    <script src="./data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
