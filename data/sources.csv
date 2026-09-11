@@ -1,0 +1,33 @@
+id,source_id,raw_rows,normalized_titles,invalid_date_rows,filename,author,title,url,container,accessed,note
+fc,fc,1053,1052,,,game-soft,famicom/data/soft_list.csv,https://raw.githubusercontent.com/game-soft/famicom/master/data/soft_list.csv,GitHub repository data file,2026-09-11,取得CSVを日本発売月単位に正規化。
+fds,fds,200,200,,,game-soft,disk-system/data/soft_list.csv,https://raw.githubusercontent.com/game-soft/disk-system/master/data/soft_list.csv,GitHub repository data file,2026-09-11,取得CSVを日本発売月単位に正規化。
+pce,pce,650,648,,,game-soft,pc-engine/data/soft_list.csv,https://raw.githubusercontent.com/game-soft/pc-engine/master/data/soft_list.csv,GitHub repository data file,2026-09-11,取得CSVを日本発売月単位に正規化。
+md,md,555,549,,,game-soft,mega-drive/data/soft_list.csv,https://raw.githubusercontent.com/game-soft/mega-drive/master/data/soft_list.csv,GitHub repository data file,2026-09-11,取得CSVを日本発売月単位に正規化。
+gb,gb,1244,1243,,,game-soft,gameboy/data/soft_list.csv,https://raw.githubusercontent.com/game-soft/gameboy/master/data/soft_list.csv,GitHub repository data file,2026-09-11,取得CSVを日本発売月単位に正規化。
+gg,gg,196,196,,,game-soft,gamegear/data/soft_list.csv,https://raw.githubusercontent.com/game-soft/gamegear/master/data/soft_list.csv,GitHub repository data file,2026-09-11,取得CSVを日本発売月単位に正規化。
+sfc,sfc,1447,1447,,,game-soft,super-famicom/data/soft_list.csv,https://raw.githubusercontent.com/game-soft/super-famicom/master/data/soft_list.csv,GitHub repository data file,2026-09-11,取得CSVを日本発売月単位に正規化。
+neogeo,neogeo,117,106,,,game-soft,neogeo/data/soft_list.csv,https://raw.githubusercontent.com/game-soft/neogeo/master/data/soft_list.csv,GitHub repository data file,2026-09-11,取得CSVを日本発売月単位に正規化。
+saturn,saturn,1057,1057,,,sakanaclub,game-ss.csv,https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-ss.csv,Japanese game release dataset,2026-09-11,取得CSVを日本発売月単位に正規化。
+ps1,ps1,3289,3288,,,Wikipedia contributors,PlayStationのゲームタイトル一覧（年別分割ページを含む）,https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧,"Wikipedia, the free encyclopedia",2026-09-11,年別一覧から日本発売日を抽出し、同一タイトルの重複を初回発売日に統合。
+n64,n64,207,207,,,game-soft,nintendo64/data/soft_list.csv,https://raw.githubusercontent.com/game-soft/nintendo64/master/data/soft_list.csv,GitHub repository data file,2026-09-11,取得CSVを日本発売月単位に正規化。
+ngp,ngp,82,81,,,game-soft,neogeo-pocket/data/soft_list.csv,https://raw.githubusercontent.com/game-soft/neogeo-pocket/master/data/soft_list.csv,GitHub repository data file,2026-09-11,取得CSVを日本発売月単位に正規化。
+dc,dc,497,497,,,sakanaclub,game-dreamcast.csv,https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-dreamcast.csv,Japanese game release dataset,2026-09-11,取得CSVを日本発売月単位に正規化。
+ws,ws,199,199,,,game-soft,wonder-swan/data/soft_list.csv,https://raw.githubusercontent.com/game-soft/wonder-swan/master/data/soft_list.csv,GitHub repository data file,2026-09-11,取得CSVを日本発売月単位に正規化。
+ps2,ps2,2928,2927,,,Wikipedia contributors,PlayStation 2のゲームタイトル一覧（年別分割ページを含む）,https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧,"Wikipedia, the free encyclopedia",2026-09-11,年別一覧から日本発売日を抽出し、同一タイトルの重複を初回発売日に統合。
+gba,gba,793,793,,,game-soft,gameboy-advance/data/soft_list.csv,https://raw.githubusercontent.com/game-soft/gameboy-advance/master/data/soft_list.csv,GitHub repository data file,2026-09-11,取得CSVを日本発売月単位に正規化。
+gc,gc,276,276,,,game-soft,gamecube/data/soft_list.csv,https://raw.githubusercontent.com/game-soft/gamecube/master/data/soft_list.csv,GitHub repository data file,2026-09-11,取得CSVを日本発売月単位に正規化。
+xbox,xbox,222,222,,,Wikipedia contributors,Xboxのゲームタイトル一覧,https://ja.wikipedia.org/wiki/Xboxのゲームタイトル一覧,"Wikipedia, the free encyclopedia",2026-09-11,表の「日本」発売日列のみを抽出。
+ds,ds,1840,1825,,,game-soft,nintendo-ds/data/soft_list.csv,https://raw.githubusercontent.com/game-soft/nintendo-ds/master/data/soft_list.csv,GitHub repository data file,2026-09-11,取得CSVを日本発売月単位に正規化。
+psp,psp,1564,1563,,,sakanaclub,game-psp.csv,https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-psp.csv,Japanese game release dataset,2026-09-11,取得CSVを日本発売月単位に正規化。
+xbox360,xbox360,724,724,,,sakanaclub,game-xbox360.csv,https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-xbox360.csv,Japanese game release dataset,2026-09-11,取得CSVを日本発売月単位に正規化。
+ps3,ps3,981,981,,,sakanaclub,game-ps3.csv,https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-ps3.csv,Japanese game release dataset,2026-09-11,取得CSVを日本発売月単位に正規化。
+wii,wii,461,461,,,Wikipedia contributors,Wiiのゲームタイトル一覧,https://ja.wikipedia.org/wiki/Wiiのゲームタイトル一覧,"Wikipedia, the free encyclopedia",2026-09-11,日本向けWiiディスクソフトを収録。WiiWareは現版では未収録。
+3ds,3ds,1369,1365,,,sakanaclub,game-3ds.csv,https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-3ds.csv,Japanese game release dataset,2026-09-11,取得CSVを日本発売月単位に正規化。
+vita,vita,1174,1174,,,sakanaclub,game-vita.csv,https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-vita.csv,Japanese game release dataset,2026-09-11,取得CSVを日本発売月単位に正規化。
+wiiu,wiiu,249,249,,,Wikipedia contributors,Wii Uのゲームタイトル一覧,https://ja.wikipedia.org/wiki/Wii_Uのゲームタイトル一覧,"Wikipedia, the free encyclopedia",2026-09-11,日本発売日のあるWii U専用タイトルを抽出。
+ps4,ps4,2497,2482,,,sakanaclub,game-ps4.csv,https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-ps4.csv,Japanese game release dataset,2026-09-11,取得CSVを日本発売月単位に正規化。
+xboxone,xboxone,2777,2737,,,sakanaclub,game-xboxone.csv,https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-xboxone.csv,Japanese game release dataset,2026-09-11,取得CSVを日本発売月単位に正規化。
+switch,switch,13421,13385,,,sakanaclub,game-switch.csv,https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-switch.csv,Japanese game release dataset,2026-09-11,取得CSVを日本発売月単位に正規化。2023年・2024年のダウンロード専売欠落分はWikipedia年別一覧から補完。
+switchpkg,switch,1920,1920,,,sakanaclub,game-switch.csv（パッケージ併売フラグ抽出）,https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-switch.csv,Japanese game release dataset,2026-09-11,Nintendo Switch全タイトル系列と同一の原データから「パッケージ併売=YES」のタイトルのみを抽出。ダウンロード専売を除いた比較用系列。
+xboxseries,xboxseries,777,750,,,sakanaclub,game-xboxseries.csv,https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-xboxseries.csv,Japanese game release dataset,2026-09-11,取得CSVを日本発売月単位に正規化。
+ps5,ps5,2152,2096,,,sakanaclub,game-ps5.csv,https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-ps5.csv,Japanese game release dataset,2026-09-11,取得CSVを日本発売月単位に正規化。

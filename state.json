@@ -1,0 +1,290 @@
+{
+  "version": 1,
+  "sources": {
+    "fc": {
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/game-soft/famicom/master/data/soft_list.csv",
+      "fetched_at": "2026-09-11T09:07:58+09:00",
+      "etag": "W/\"271b6147430dea71729378590989cfffac21274cff56e0c235078549e7c9991e\"",
+      "last_modified": null,
+      "sha256": "693afe34029932c247d76038a0f4b7bf003c5f467d0720b19fbb8d267f9eb95d",
+      "bytes": 76827,
+      "rows": 1053
+    },
+    "fds": {
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/game-soft/disk-system/master/data/soft_list.csv",
+      "fetched_at": "2026-09-11T09:08:28+09:00",
+      "etag": "W/\"96b5bf66de45851768ace5634234afe64fc2b40c683fcdc4cfb253fd29f7712a\"",
+      "last_modified": null,
+      "sha256": "f86dfac0977497948c359182fb218391bbb9937780896552e8cd4693e9ad6125",
+      "bytes": 13555,
+      "rows": 200
+    },
+    "pce": {
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/game-soft/pc-engine/master/data/soft_list.csv",
+      "fetched_at": "2026-09-11T09:08:59+09:00",
+      "etag": "W/\"131c5ce341f8bf6ae2fe486b30c169b20646bfce11f76ebd2180c490990f500d\"",
+      "last_modified": null,
+      "sha256": "89fa05f958311a79bb4156843a73f1739b9adcd07efd320354ed8ae8194417c9",
+      "bytes": 44511,
+      "rows": 650
+    },
+    "md": {
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/game-soft/mega-drive/master/data/soft_list.csv",
+      "fetched_at": "2026-09-11T09:18:45+09:00",
+      "etag": "W/\"f6961ba9af7750447edd436b86036015522b082cd1e83f5f9bf6a32238b409ee\"",
+      "last_modified": null,
+      "sha256": "535ddf8f6f5a0cf2d20169e2dd58d0382b2a2ff411d78bd9011befedba801a63",
+      "bytes": 37077,
+      "rows": 555
+    },
+    "gb": {
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/game-soft/gameboy/master/data/soft_list.csv",
+      "fetched_at": "2026-09-11T09:19:16+09:00",
+      "etag": "W/\"8b96e677760ac3f365ffa3f57da15f7fa0f03c24dfcad75d4761f211e53e003e\"",
+      "last_modified": null,
+      "sha256": "61f7974c929a38506622e82f7bf8b8cdd799f2f6b96c87b97316f0adcd1903e7",
+      "bytes": 95452,
+      "rows": 1244
+    },
+    "gg": {
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/game-soft/gamegear/master/data/soft_list.csv",
+      "fetched_at": "2026-09-11T09:19:46+09:00",
+      "etag": "W/\"d80e30de4a4b282883b12b6a29ab8fcbe8275373330fb29310225592906636ec\"",
+      "last_modified": null,
+      "sha256": "c517a986d99ba272543098f284388465169fb26568c014cc3585e62180bc3873",
+      "bytes": 12986,
+      "rows": 196
+    },
+    "sfc": {
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/game-soft/super-famicom/master/data/soft_list.csv",
+      "fetched_at": "2026-09-11T09:20:17+09:00",
+      "etag": "W/\"2fd6bf9de76235396d22ca64debf2bf0672abcd38ae6cd9f87c779e6074a3442\"",
+      "last_modified": null,
+      "sha256": "e1af0150f746932a50db415adaf878dd64d96a3e375a301845aa3ba0fcd9d06e",
+      "bytes": 108914,
+      "rows": 1447
+    },
+    "neogeo": {
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/game-soft/neogeo/master/data/soft_list.csv",
+      "fetched_at": "2026-09-11T09:20:47+09:00",
+      "etag": "W/\"70fad8a36cb5e29c9db96c390d596888b9f07bd453d159626afa2b71ad74d7de\"",
+      "last_modified": null,
+      "sha256": "c8db38e2ce230a8de14b908249fc1a87e1ed112e8360dac8cf089377a9f34400",
+      "bytes": 8135,
+      "rows": 117
+    },
+    "saturn": {
+      "status": "ok",
+      "url": "https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-ss.csv",
+      "fetched_at": "2026-09-11T09:21:17+09:00",
+      "etag": "\"1adee-656a058cf4a40\"",
+      "last_modified": "Wed, 15 Jul 2026 06:22:25 GMT",
+      "sha256": "2170ceeafc4c7ba7c96fbe93be17278849198680587e3bc55835966013af2e43",
+      "bytes": 110062,
+      "rows": 1057
+    },
+    "ps1": {
+      "status": "unavailable",
+      "checked_at": "2026-09-11T09:29:36+09:00",
+      "error": "RuntimeError: received HTML instead of CSV @ https://github.com/game-soft/playstation/raw/refs/heads/main/data/soft_list.csv"
+    },
+    "n64": {
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/game-soft/nintendo64/master/data/soft_list.csv",
+      "fetched_at": "2026-09-11T09:30:07+09:00",
+      "etag": "W/\"9b8a43fe73b081c734877d9febbc0f494a4a6bc5977a4ddad761cc6a0b971eb1\"",
+      "last_modified": null,
+      "sha256": "99f26f4b580c5d9d977f7c3e1753f7cac3b3c2ce07b322704862b684cdf64a03",
+      "bytes": 15379,
+      "rows": 207
+    },
+    "ngp": {
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/game-soft/neogeo-pocket/master/data/soft_list.csv",
+      "fetched_at": "2026-09-11T09:30:38+09:00",
+      "etag": "W/\"c9725eef89e6afd4509cd9fcdafaeddbdaf291e07dde435522d7b7f423a32c33\"",
+      "last_modified": null,
+      "sha256": "b5e1ae3db4c75379b6e7e83034c431e8d9a31b55fdc833c50988ff9c8e852103",
+      "bytes": 5993,
+      "rows": 82
+    },
+    "dc": {
+      "status": "ok",
+      "url": "https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-dreamcast.csv",
+      "fetched_at": "2026-09-11T09:31:08+09:00",
+      "etag": "\"d9a3-6554aa21cc800\"",
+      "last_modified": "Sun, 28 Jun 2026 06:41:36 GMT",
+      "sha256": "ff20b9fbc78153f126bd5feec282abc5ddce95fb4047c7927d98900a5fef287e",
+      "bytes": 55715,
+      "rows": 497
+    },
+    "ws": {
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/game-soft/wonder-swan/master/data/soft_list.csv",
+      "fetched_at": "2026-09-11T09:31:39+09:00",
+      "etag": "W/\"4c6ad923ff75e0a397401f9411407d4a5d967004cc511c216e58d113cdc4d911\"",
+      "last_modified": null,
+      "sha256": "b9126b99f3d4d61579bf0d81567ca5aa6750c0f2b234a4016997e3a89d08a8ec",
+      "bytes": 15318,
+      "rows": 199
+    },
+    "ps2": {
+      "status": "unavailable",
+      "checked_at": "2026-09-11T09:39:55+09:00",
+      "error": "RuntimeError: received HTML instead of CSV @ https://github.com/game-soft/playstation2/raw/refs/heads/main/data/soft_list.csv"
+    },
+    "gba": {
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/game-soft/gameboy-advance/master/data/soft_list.csv",
+      "fetched_at": "2026-09-11T09:40:26+09:00",
+      "etag": "W/\"420a48921d25d0738b1868c8265c2aafe26786616b4bc6ab6eb62e9dd5581675\"",
+      "last_modified": null,
+      "sha256": "3df2b2ef5b76a382a497df1e2734963040c60d0d79d59b2f4e1b1ec75cada587",
+      "bytes": 66619,
+      "rows": 793
+    },
+    "gc": {
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/game-soft/gamecube/master/data/soft_list.csv",
+      "fetched_at": "2026-09-11T09:40:56+09:00",
+      "etag": "W/\"7ca3db816e78160eae7cf33409c20ba653701a37b5126777a3fa9c1b3ab00478\"",
+      "last_modified": null,
+      "sha256": "22252a7f465225567297a042decdce366f961ddb83926747d58617d963ff03fd",
+      "bytes": 23368,
+      "rows": 276
+    },
+    "xbox": {
+      "status": "unavailable",
+      "checked_at": "2026-09-11T09:49:09+09:00",
+      "error": "RuntimeError: received HTML instead of CSV @ https://github.com/game-soft/xbox/raw/refs/heads/main/data/soft_list.csv"
+    },
+    "ds": {
+      "status": "ok",
+      "url": "https://raw.githubusercontent.com/game-soft/nintendo-ds/master/data/soft_list.csv",
+      "fetched_at": "2026-09-11T09:49:40+09:00",
+      "etag": "W/\"f834abb88f7e8066a91faa7dddc0bec5d0547f1611a2664dcc77fa4419ab6a33\"",
+      "last_modified": null,
+      "sha256": "25484db5401524e6b7f7f74eed4c08cac6adb32840a163b0cbf06239c0019d59",
+      "bytes": 185545,
+      "rows": 1840
+    },
+    "psp": {
+      "status": "ok",
+      "url": "https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-psp.csv",
+      "fetched_at": "2026-09-11T09:50:10+09:00",
+      "etag": "\"334a9-6554aa21cc800\"",
+      "last_modified": "Sun, 28 Jun 2026 06:41:36 GMT",
+      "sha256": "693cc725069a859cfb45de1b94c203ed2f370fbec7102eebb87700fd1f85d84b",
+      "bytes": 210089,
+      "rows": 1564
+    },
+    "xbox360": {
+      "status": "ok",
+      "url": "https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-xbox360.csv",
+      "fetched_at": "2026-09-11T09:50:41+09:00",
+      "etag": "\"17b1d-6554aa21cc800\"",
+      "last_modified": "Sun, 28 Jun 2026 06:41:36 GMT",
+      "sha256": "5a1f5ec689bbaae27b727f647d874ab6d0d6f967589ffcbbb07a44ce3ed2d444",
+      "bytes": 97053,
+      "rows": 724
+    },
+    "ps3": {
+      "status": "ok",
+      "url": "https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-ps3.csv",
+      "fetched_at": "2026-09-11T09:51:11+09:00",
+      "etag": "\"1e5c8-6554aa21cc800\"",
+      "last_modified": "Sun, 28 Jun 2026 06:41:36 GMT",
+      "sha256": "78ade35168ead260da8cb2b1d2cfba55e3f87428e23202233c3dae17be32236f",
+      "bytes": 124360,
+      "rows": 981
+    },
+    "wii": {
+      "status": "unavailable",
+      "checked_at": "2026-09-11T09:59:30+09:00",
+      "error": "RuntimeError: received HTML instead of CSV @ https://github.com/game-soft/wii/raw/refs/heads/main/data/soft_list.csv"
+    },
+    "3ds": {
+      "status": "ok",
+      "url": "https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-3ds.csv",
+      "fetched_at": "2026-09-11T10:00:00+09:00",
+      "etag": "\"319bd-6554aa21cc800\"",
+      "last_modified": "Sun, 28 Jun 2026 06:41:36 GMT",
+      "sha256": "3db3b561f34da2e60e62878e47900004c6997f94872cf52b2aecd4f8334554b9",
+      "bytes": 203197,
+      "rows": 1369
+    },
+    "vita": {
+      "status": "ok",
+      "url": "https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-vita.csv",
+      "fetched_at": "2026-09-11T10:00:30+09:00",
+      "etag": "\"28f72-6554aa21cc800\"",
+      "last_modified": "Sun, 28 Jun 2026 06:41:36 GMT",
+      "sha256": "a9c65eec9463ac965f48d4dd996f5d17cf971aad2a7a53ba3b769e87528c852e",
+      "bytes": 167794,
+      "rows": 1174
+    },
+    "wiiu": {
+      "status": "unavailable",
+      "checked_at": "2026-09-11T10:01:02+09:00",
+      "error": "404 https://github.com/yoshinaga-ken/laravel-vue-dashboard-dc/raw/refs/heads/main/public/data/game-wiiu.csv"
+    },
+    "ps4": {
+      "status": "ok",
+      "url": "https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-ps4.csv",
+      "fetched_at": "2026-09-11T10:01:32+09:00",
+      "etag": "\"53278-6554aa21cc800\"",
+      "last_modified": "Sun, 28 Jun 2026 06:41:36 GMT",
+      "sha256": "3b349728208866d017042b4f1dd9d3e89768150d86c66f30354a1497f50a500e",
+      "bytes": 340600,
+      "rows": 2497
+    },
+    "xboxone": {
+      "status": "ok",
+      "url": "https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-xboxone.csv",
+      "fetched_at": "2026-09-11T10:02:03+09:00",
+      "etag": "\"47560-6554aa21cc800\"",
+      "last_modified": "Sun, 28 Jun 2026 06:41:36 GMT",
+      "sha256": "1b9793cd557995b3037c2204123a41b714a1096872f819d1275c18462c18ea4b",
+      "bytes": 292192,
+      "rows": 2777
+    },
+    "switch": {
+      "status": "ok",
+      "url": "https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-switch.csv",
+      "fetched_at": "2026-09-11T10:02:33+09:00",
+      "etag": "\"10ed81-6554aa21cc800\"",
+      "last_modified": "Sun, 28 Jun 2026 06:41:36 GMT",
+      "sha256": "c16d3ee33daf297583ebf4a8f70bea950fd897d6e25bc79f066588b077db3627",
+      "bytes": 1109377,
+      "rows": 9850
+    },
+    "xboxseries": {
+      "status": "ok",
+      "url": "https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-xboxseries.csv",
+      "fetched_at": "2026-09-11T10:03:04+09:00",
+      "etag": "\"163be-6554aa21cc800\"",
+      "last_modified": "Sun, 28 Jun 2026 06:41:36 GMT",
+      "sha256": "da132186848aaeec34bd86f105c08d2b70b9a7bf656263f7642b7c3581f5d645",
+      "bytes": 91070,
+      "rows": 777
+    },
+    "ps5": {
+      "status": "ok",
+      "url": "https://sakanaclub.xsrv.jp/laravel-sports-hp/public/data/game-ps5.csv",
+      "fetched_at": "2026-09-11T10:03:35+09:00",
+      "etag": "\"3d6b2-6554aa21cc800\"",
+      "last_modified": "Sun, 28 Jun 2026 06:41:36 GMT",
+      "sha256": "6d671f3408cfe07a8dc68886a5be8fa61bdf2ae201fd1ed9968e16fc5fbacf24",
+      "bytes": 251570,
+      "rows": 2152
+    }
+  }
+}

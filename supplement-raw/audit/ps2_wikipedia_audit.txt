@@ -1,0 +1,26 @@
+ps2 audit
+raw rows: 2928
+unique normalized titles (earliest release): 2927
+declared year-label sum: 2928
+main declared total: 2927
+
+year,declared,parsed_raw,unique_after_title_dedupe,diff_raw
+2000,122,122,122,0
+2001,228,228,228,0
+2002,346,346,346,0
+2003,453,455,454,2
+2004,465,464,464,-1
+2005,460,460,460,0
+2006,339,338,338,-1
+2007,241,241,241,0
+2008,149,149,149,0
+2009,78,78,78,0
+2010,40,40,40,0
+2011,6,6,6,0
+2012,0,0,0,0
+2013,1,1,1,0
+
+launch 2000-03-04: 10 titles (expected 10)
+
+suspicious rows:
+PlayStation 2のゲームタイトル一覧 (2006年): NO_DATE: 10月12SIMPLE2000シリーズ Vol.110 THE 逃亡プリズナーディースリー・パブリッシャー冤罪の証明を題材としたステルスアクションゲーム。

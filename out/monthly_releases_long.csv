@@ -1,0 +1,3301 @@
+platform,source_id,month_index,calendar_month,all_titles,package_titles,package_flag_coverage
+Family Computer,fc,0,1983-07,3,3,1.0
+Family Computer,fc,1,1983-08,2,2,1.0
+Family Computer,fc,2,1983-09,1,1,1.0
+Family Computer,fc,3,1983-10,0,0,
+Family Computer,fc,4,1983-11,1,1,1.0
+Family Computer,fc,5,1983-12,2,2,1.0
+Family Computer,fc,6,1984-01,1,1,1.0
+Family Computer,fc,7,1984-02,2,2,1.0
+Family Computer,fc,8,1984-03,0,0,
+Family Computer,fc,9,1984-04,1,1,1.0
+Family Computer,fc,10,1984-05,1,1,1.0
+Family Computer,fc,11,1984-06,2,2,1.0
+Family Computer,fc,12,1984-07,3,3,1.0
+Family Computer,fc,13,1984-08,0,0,
+Family Computer,fc,14,1984-09,1,1,1.0
+Family Computer,fc,15,1984-10,1,1,1.0
+Family Computer,fc,16,1984-11,8,8,1.0
+Family Computer,fc,17,1984-12,0,0,
+Family Computer,fc,18,1985-01,2,2,1.0
+Family Computer,fc,19,1985-02,4,4,1.0
+Family Computer,fc,20,1985-03,0,0,
+Family Computer,fc,21,1985-04,6,6,1.0
+Family Computer,fc,22,1985-05,2,2,1.0
+Family Computer,fc,23,1985-06,7,7,1.0
+Family Computer,fc,24,1985-07,7,7,1.0
+Family Computer,fc,25,1985-08,7,7,1.0
+Family Computer,fc,26,1985-09,5,5,1.0
+Family Computer,fc,27,1985-10,2,2,1.0
+Family Computer,fc,28,1985-11,10,10,1.0
+Family Computer,fc,29,1985-12,17,17,1.0
+Family Computer,fc,30,1986-01,1,1,1.0
+Family Computer,fc,31,1986-02,2,2,1.0
+Family Computer,fc,32,1986-03,6,6,1.0
+Family Computer,fc,33,1986-04,12,12,1.0
+Family Computer,fc,34,1986-05,2,2,1.0
+Family Computer,fc,35,1986-06,7,7,1.0
+Family Computer,fc,36,1986-07,4,4,1.0
+Family Computer,fc,37,1986-08,6,6,1.0
+Family Computer,fc,38,1986-09,10,10,1.0
+Family Computer,fc,39,1986-10,5,5,1.0
+Family Computer,fc,40,1986-11,11,11,1.0
+Family Computer,fc,41,1986-12,20,20,1.0
+Family Computer,fc,42,1987-01,4,4,1.0
+Family Computer,fc,43,1987-02,5,5,1.0
+Family Computer,fc,44,1987-03,8,8,1.0
+Family Computer,fc,45,1987-04,7,7,1.0
+Family Computer,fc,46,1987-05,3,3,1.0
+Family Computer,fc,47,1987-06,9,9,1.0
+Family Computer,fc,48,1987-07,11,11,1.0
+Family Computer,fc,49,1987-08,13,13,1.0
+Family Computer,fc,50,1987-09,12,12,1.0
+Family Computer,fc,51,1987-10,12,12,1.0
+Family Computer,fc,52,1987-11,7,7,1.0
+Family Computer,fc,53,1987-12,27,27,1.0
+Family Computer,fc,54,1988-01,6,6,1.0
+Family Computer,fc,55,1988-02,10,10,1.0
+Family Computer,fc,56,1988-03,14,14,1.0
+Family Computer,fc,57,1988-04,8,8,1.0
+Family Computer,fc,58,1988-05,8,8,1.0
+Family Computer,fc,59,1988-06,6,6,1.0
+Family Computer,fc,60,1988-07,14,14,1.0
+Family Computer,fc,61,1988-08,16,16,1.0
+Family Computer,fc,62,1988-09,10,10,1.0
+Family Computer,fc,63,1988-10,8,8,1.0
+Family Computer,fc,64,1988-11,11,11,1.0
+Family Computer,fc,65,1988-12,31,31,1.0
+Family Computer,fc,66,1989-01,11,11,1.0
+Family Computer,fc,67,1989-02,11,11,1.0
+Family Computer,fc,68,1989-03,13,13,1.0
+Family Computer,fc,69,1989-04,9,9,1.0
+Family Computer,fc,70,1989-05,7,7,1.0
+Family Computer,fc,71,1989-06,5,5,1.0
+Family Computer,fc,72,1989-07,15,15,1.0
+Family Computer,fc,73,1989-08,9,9,1.0
+Family Computer,fc,74,1989-09,13,13,1.0
+Family Computer,fc,75,1989-10,10,10,1.0
+Family Computer,fc,76,1989-11,10,10,1.0
+Family Computer,fc,77,1989-12,34,34,1.0
+Family Computer,fc,78,1990-01,4,4,1.0
+Family Computer,fc,79,1990-02,10,10,1.0
+Family Computer,fc,80,1990-03,16,16,1.0
+Family Computer,fc,81,1990-04,12,12,1.0
+Family Computer,fc,82,1990-05,6,6,1.0
+Family Computer,fc,83,1990-06,7,7,1.0
+Family Computer,fc,84,1990-07,17,17,1.0
+Family Computer,fc,85,1990-08,19,19,1.0
+Family Computer,fc,86,1990-09,13,13,1.0
+Family Computer,fc,87,1990-10,12,12,1.0
+Family Computer,fc,88,1990-11,9,9,1.0
+Family Computer,fc,89,1990-12,32,32,1.0
+Family Computer,fc,90,1991-01,7,7,1.0
+Family Computer,fc,91,1991-02,12,12,1.0
+Family Computer,fc,92,1991-03,16,16,1.0
+Family Computer,fc,93,1991-04,15,15,1.0
+Family Computer,fc,94,1991-05,8,8,1.0
+Family Computer,fc,95,1991-06,8,8,1.0
+Family Computer,fc,96,1991-07,12,12,1.0
+Family Computer,fc,97,1991-08,14,14,1.0
+Family Computer,fc,98,1991-09,9,9,1.0
+Family Computer,fc,99,1991-10,7,7,1.0
+Family Computer,fc,100,1991-11,11,11,1.0
+Family Computer,fc,101,1991-12,31,31,1.0
+Family Computer,fc,102,1992-01,10,10,1.0
+Family Computer,fc,103,1992-02,5,5,1.0
+Family Computer,fc,104,1992-03,13,13,1.0
+Family Computer,fc,105,1992-04,6,6,1.0
+Family Computer,fc,106,1992-05,2,2,1.0
+Family Computer,fc,107,1992-06,8,8,1.0
+Family Computer,fc,108,1992-07,10,10,1.0
+Family Computer,fc,109,1992-08,6,6,1.0
+Family Computer,fc,110,1992-09,6,6,1.0
+Family Computer,fc,111,1992-10,6,6,1.0
+Family Computer,fc,112,1992-11,7,7,1.0
+Family Computer,fc,113,1992-12,16,16,1.0
+Family Computer,fc,114,1993-01,4,4,1.0
+Family Computer,fc,115,1993-02,4,4,1.0
+Family Computer,fc,116,1993-03,12,12,1.0
+Family Computer,fc,117,1993-04,6,6,1.0
+Family Computer,fc,118,1993-05,1,1,1.0
+Family Computer,fc,119,1993-06,3,3,1.0
+Family Computer,fc,120,1993-07,4,4,1.0
+Family Computer,fc,121,1993-08,3,3,1.0
+Family Computer,fc,122,1993-09,2,2,1.0
+Family Computer,fc,123,1993-10,3,3,1.0
+Family Computer,fc,124,1993-11,3,3,1.0
+Family Computer,fc,125,1993-12,7,7,1.0
+Family Computer,fc,126,1994-01,0,0,
+Family Computer,fc,127,1994-02,3,3,1.0
+Family Computer,fc,128,1994-03,0,0,
+Family Computer,fc,129,1994-04,1,1,1.0
+Family Computer,fc,130,1994-05,2,2,1.0
+Family Computer,fc,131,1994-06,1,1,1.0
+Famicom Disk System,fds,0,1986-02,7,7,1.0
+Famicom Disk System,fds,1,1986-03,0,0,
+Famicom Disk System,fds,2,1986-04,1,1,1.0
+Famicom Disk System,fds,3,1986-05,0,0,
+Famicom Disk System,fds,4,1986-06,1,1,1.0
+Famicom Disk System,fds,5,1986-07,2,2,1.0
+Famicom Disk System,fds,6,1986-08,2,2,1.0
+Famicom Disk System,fds,7,1986-09,3,3,1.0
+Famicom Disk System,fds,8,1986-10,2,2,1.0
+Famicom Disk System,fds,9,1986-11,6,6,1.0
+Famicom Disk System,fds,10,1986-12,10,10,1.0
+Famicom Disk System,fds,11,1987-01,3,3,1.0
+Famicom Disk System,fds,12,1987-02,3,3,1.0
+Famicom Disk System,fds,13,1987-03,10,10,1.0
+Famicom Disk System,fds,14,1987-04,8,8,1.0
+Famicom Disk System,fds,15,1987-05,8,8,1.0
+Famicom Disk System,fds,16,1987-06,6,6,1.0
+Famicom Disk System,fds,17,1987-07,6,6,1.0
+Famicom Disk System,fds,18,1987-08,6,6,1.0
+Famicom Disk System,fds,19,1987-09,2,2,1.0
+Famicom Disk System,fds,20,1987-10,8,8,1.0
+Famicom Disk System,fds,21,1987-11,3,3,1.0
+Famicom Disk System,fds,22,1987-12,7,7,1.0
+Famicom Disk System,fds,23,1988-01,3,3,1.0
+Famicom Disk System,fds,24,1988-02,3,3,1.0
+Famicom Disk System,fds,25,1988-03,7,7,1.0
+Famicom Disk System,fds,26,1988-04,7,7,1.0
+Famicom Disk System,fds,27,1988-05,1,1,1.0
+Famicom Disk System,fds,28,1988-06,3,3,1.0
+Famicom Disk System,fds,29,1988-07,7,7,1.0
+Famicom Disk System,fds,30,1988-08,5,5,1.0
+Famicom Disk System,fds,31,1988-09,3,3,1.0
+Famicom Disk System,fds,32,1988-10,6,6,1.0
+Famicom Disk System,fds,33,1988-11,6,6,1.0
+Famicom Disk System,fds,34,1988-12,4,4,1.0
+Famicom Disk System,fds,35,1989-01,2,2,1.0
+Famicom Disk System,fds,36,1989-02,4,4,1.0
+Famicom Disk System,fds,37,1989-03,4,4,1.0
+Famicom Disk System,fds,38,1989-04,1,1,1.0
+Famicom Disk System,fds,39,1989-05,2,2,1.0
+Famicom Disk System,fds,40,1989-06,2,2,1.0
+Famicom Disk System,fds,41,1989-07,0,0,
+Famicom Disk System,fds,42,1989-08,1,1,1.0
+Famicom Disk System,fds,43,1989-09,0,0,
+Famicom Disk System,fds,44,1989-10,2,2,1.0
+Famicom Disk System,fds,45,1989-11,2,2,1.0
+Famicom Disk System,fds,46,1989-12,0,0,
+Famicom Disk System,fds,47,1990-01,0,0,
+Famicom Disk System,fds,48,1990-02,0,0,
+Famicom Disk System,fds,49,1990-03,1,1,1.0
+Famicom Disk System,fds,50,1990-04,1,1,1.0
+Famicom Disk System,fds,51,1990-05,2,2,1.0
+Famicom Disk System,fds,52,1990-06,2,2,1.0
+Famicom Disk System,fds,53,1990-07,2,2,1.0
+Famicom Disk System,fds,54,1990-08,1,1,1.0
+Famicom Disk System,fds,55,1990-09,1,1,1.0
+Famicom Disk System,fds,56,1990-10,1,1,1.0
+Famicom Disk System,fds,57,1990-11,1,1,1.0
+Famicom Disk System,fds,58,1990-12,1,1,1.0
+Famicom Disk System,fds,59,1991-01,1,1,1.0
+Famicom Disk System,fds,60,1991-02,1,1,1.0
+Famicom Disk System,fds,61,1991-03,0,0,
+Famicom Disk System,fds,62,1991-04,1,1,1.0
+Famicom Disk System,fds,63,1991-05,0,0,
+Famicom Disk System,fds,64,1991-06,0,0,
+Famicom Disk System,fds,65,1991-07,2,2,1.0
+Famicom Disk System,fds,66,1991-08,0,0,
+Famicom Disk System,fds,67,1991-09,0,0,
+Famicom Disk System,fds,68,1991-10,1,1,1.0
+Famicom Disk System,fds,69,1991-11,0,0,
+Famicom Disk System,fds,70,1991-12,0,0,
+Famicom Disk System,fds,71,1992-01,0,0,
+Famicom Disk System,fds,72,1992-02,0,0,
+Famicom Disk System,fds,73,1992-03,0,0,
+Famicom Disk System,fds,74,1992-04,1,1,1.0
+Famicom Disk System,fds,75,1992-05,0,0,
+Famicom Disk System,fds,76,1992-06,0,0,
+Famicom Disk System,fds,77,1992-07,0,0,
+Famicom Disk System,fds,78,1992-08,0,0,
+Famicom Disk System,fds,79,1992-09,0,0,
+Famicom Disk System,fds,80,1992-10,0,0,
+Famicom Disk System,fds,81,1992-11,0,0,
+Famicom Disk System,fds,82,1992-12,1,1,1.0
+PC Engine,pce,0,1987-10,2,2,1.0
+PC Engine,pce,1,1987-11,2,2,1.0
+PC Engine,pce,2,1987-12,1,1,1.0
+PC Engine,pce,3,1988-01,1,1,1.0
+PC Engine,pce,4,1988-02,1,1,1.0
+PC Engine,pce,5,1988-03,1,1,1.0
+PC Engine,pce,6,1988-04,1,1,1.0
+PC Engine,pce,7,1988-05,1,1,1.0
+PC Engine,pce,8,1988-06,2,2,1.0
+PC Engine,pce,9,1988-07,2,2,1.0
+PC Engine,pce,10,1988-08,2,2,1.0
+PC Engine,pce,11,1988-09,3,3,1.0
+PC Engine,pce,12,1988-10,1,1,1.0
+PC Engine,pce,13,1988-11,1,1,1.0
+PC Engine,pce,14,1988-12,5,5,1.0
+PC Engine,pce,15,1989-01,2,2,1.0
+PC Engine,pce,16,1989-02,2,2,1.0
+PC Engine,pce,17,1989-03,12,12,1.0
+PC Engine,pce,18,1989-04,4,4,1.0
+PC Engine,pce,19,1989-05,2,2,1.0
+PC Engine,pce,20,1989-06,8,8,1.0
+PC Engine,pce,21,1989-07,4,4,1.0
+PC Engine,pce,22,1989-08,6,6,1.0
+PC Engine,pce,23,1989-09,6,6,1.0
+PC Engine,pce,24,1989-10,4,4,1.0
+PC Engine,pce,25,1989-11,7,7,1.0
+PC Engine,pce,26,1989-12,17,17,1.0
+PC Engine,pce,27,1990-01,4,4,1.0
+PC Engine,pce,28,1990-02,7,7,1.0
+PC Engine,pce,29,1990-03,17,17,1.0
+PC Engine,pce,30,1990-04,11,11,1.0
+PC Engine,pce,31,1990-05,2,2,1.0
+PC Engine,pce,32,1990-06,9,9,1.0
+PC Engine,pce,33,1990-07,11,11,1.0
+PC Engine,pce,34,1990-08,8,8,1.0
+PC Engine,pce,35,1990-09,15,15,1.0
+PC Engine,pce,36,1990-10,7,7,1.0
+PC Engine,pce,37,1990-11,5,5,1.0
+PC Engine,pce,38,1990-12,20,20,1.0
+PC Engine,pce,39,1991-01,5,5,1.0
+PC Engine,pce,40,1991-02,6,6,1.0
+PC Engine,pce,41,1991-03,19,19,1.0
+PC Engine,pce,42,1991-04,11,11,1.0
+PC Engine,pce,43,1991-05,2,2,1.0
+PC Engine,pce,44,1991-06,6,6,1.0
+PC Engine,pce,45,1991-07,9,9,1.0
+PC Engine,pce,46,1991-08,9,9,1.0
+PC Engine,pce,47,1991-09,5,5,1.0
+PC Engine,pce,48,1991-10,7,7,1.0
+PC Engine,pce,49,1991-11,12,12,1.0
+PC Engine,pce,50,1991-12,19,19,1.0
+PC Engine,pce,51,1992-01,7,7,1.0
+PC Engine,pce,52,1992-02,11,11,1.0
+PC Engine,pce,53,1992-03,16,16,1.0
+PC Engine,pce,54,1992-04,8,8,1.0
+PC Engine,pce,55,1992-05,3,3,1.0
+PC Engine,pce,56,1992-06,7,7,1.0
+PC Engine,pce,57,1992-07,10,10,1.0
+PC Engine,pce,58,1992-08,6,6,1.0
+PC Engine,pce,59,1992-09,10,10,1.0
+PC Engine,pce,60,1992-10,11,11,1.0
+PC Engine,pce,61,1992-11,7,7,1.0
+PC Engine,pce,62,1992-12,23,23,1.0
+PC Engine,pce,63,1993-01,4,4,1.0
+PC Engine,pce,64,1993-02,10,10,1.0
+PC Engine,pce,65,1993-03,12,12,1.0
+PC Engine,pce,66,1993-04,6,6,1.0
+PC Engine,pce,67,1993-05,3,3,1.0
+PC Engine,pce,68,1993-06,4,4,1.0
+PC Engine,pce,69,1993-07,9,9,1.0
+PC Engine,pce,70,1993-08,3,3,1.0
+PC Engine,pce,71,1993-09,6,6,1.0
+PC Engine,pce,72,1993-10,8,8,1.0
+PC Engine,pce,73,1993-11,5,5,1.0
+PC Engine,pce,74,1993-12,15,15,1.0
+PC Engine,pce,75,1994-01,5,5,1.0
+PC Engine,pce,76,1994-02,5,5,1.0
+PC Engine,pce,77,1994-03,9,9,1.0
+PC Engine,pce,78,1994-04,5,5,1.0
+PC Engine,pce,79,1994-05,2,2,1.0
+PC Engine,pce,80,1994-06,6,6,1.0
+PC Engine,pce,81,1994-07,8,8,1.0
+PC Engine,pce,82,1994-08,5,5,1.0
+PC Engine,pce,83,1994-09,8,8,1.0
+PC Engine,pce,84,1994-10,4,4,1.0
+PC Engine,pce,85,1994-11,8,8,1.0
+PC Engine,pce,86,1994-12,9,9,1.0
+PC Engine,pce,87,1995-01,3,3,1.0
+PC Engine,pce,88,1995-02,5,5,1.0
+PC Engine,pce,89,1995-03,3,3,1.0
+PC Engine,pce,90,1995-04,2,2,1.0
+PC Engine,pce,91,1995-05,4,4,1.0
+PC Engine,pce,92,1995-06,6,6,1.0
+PC Engine,pce,93,1995-07,2,2,1.0
+PC Engine,pce,94,1995-08,3,3,1.0
+PC Engine,pce,95,1995-09,2,2,1.0
+PC Engine,pce,96,1995-10,2,2,1.0
+PC Engine,pce,97,1995-11,2,2,1.0
+PC Engine,pce,98,1995-12,1,1,1.0
+PC Engine,pce,99,1996-01,0,0,
+PC Engine,pce,100,1996-02,0,0,
+PC Engine,pce,101,1996-03,2,2,1.0
+PC Engine,pce,102,1996-04,0,0,
+PC Engine,pce,103,1996-05,1,1,1.0
+PC Engine,pce,104,1996-06,1,1,1.0
+PC Engine,pce,105,1996-07,2,2,1.0
+PC Engine,pce,106,1996-08,0,0,
+PC Engine,pce,107,1996-09,0,0,
+PC Engine,pce,108,1996-10,0,0,
+PC Engine,pce,109,1996-11,0,0,
+PC Engine,pce,110,1996-12,1,1,1.0
+PC Engine,pce,111,1997-01,0,0,
+PC Engine,pce,112,1997-02,0,0,
+PC Engine,pce,113,1997-03,1,1,1.0
+PC Engine,pce,114,1997-04,0,0,
+PC Engine,pce,115,1997-05,0,0,
+PC Engine,pce,116,1997-06,0,0,
+PC Engine,pce,117,1997-07,0,0,
+PC Engine,pce,118,1997-08,0,0,
+PC Engine,pce,119,1997-09,0,0,
+PC Engine,pce,120,1997-10,0,0,
+PC Engine,pce,121,1997-11,0,0,
+PC Engine,pce,122,1997-12,0,0,
+PC Engine,pce,123,1998-01,0,0,
+PC Engine,pce,124,1998-02,0,0,
+PC Engine,pce,125,1998-03,0,0,
+PC Engine,pce,126,1998-04,0,0,
+PC Engine,pce,127,1998-05,0,0,
+PC Engine,pce,128,1998-06,0,0,
+PC Engine,pce,129,1998-07,0,0,
+PC Engine,pce,130,1998-08,0,0,
+PC Engine,pce,131,1998-09,0,0,
+PC Engine,pce,132,1998-10,0,0,
+PC Engine,pce,133,1998-11,0,0,
+PC Engine,pce,134,1998-12,0,0,
+PC Engine,pce,135,1999-01,0,0,
+PC Engine,pce,136,1999-02,0,0,
+PC Engine,pce,137,1999-03,0,0,
+PC Engine,pce,138,1999-04,0,0,
+PC Engine,pce,139,1999-05,0,0,
+PC Engine,pce,140,1999-06,1,1,1.0
+Mega Drive,md,0,1988-10,2,2,1.0
+Mega Drive,md,1,1988-11,1,1,1.0
+Mega Drive,md,2,1988-12,1,1,1.0
+Mega Drive,md,3,1989-01,0,0,
+Mega Drive,md,4,1989-02,1,1,1.0
+Mega Drive,md,5,1989-03,1,1,1.0
+Mega Drive,md,6,1989-04,2,2,1.0
+Mega Drive,md,7,1989-05,0,0,
+Mega Drive,md,8,1989-06,1,1,1.0
+Mega Drive,md,9,1989-07,2,2,1.0
+Mega Drive,md,10,1989-08,1,1,1.0
+Mega Drive,md,11,1989-09,1,1,1.0
+Mega Drive,md,12,1989-10,3,3,1.0
+Mega Drive,md,13,1989-11,2,2,1.0
+Mega Drive,md,14,1989-12,7,7,1.0
+Mega Drive,md,15,1990-01,2,2,1.0
+Mega Drive,md,16,1990-02,1,1,1.0
+Mega Drive,md,17,1990-03,6,6,1.0
+Mega Drive,md,18,1990-04,3,3,1.0
+Mega Drive,md,19,1990-05,2,2,1.0
+Mega Drive,md,20,1990-06,5,5,1.0
+Mega Drive,md,21,1990-07,4,4,1.0
+Mega Drive,md,22,1990-08,5,5,1.0
+Mega Drive,md,23,1990-09,5,5,1.0
+Mega Drive,md,24,1990-10,6,6,1.0
+Mega Drive,md,25,1990-11,5,5,1.0
+Mega Drive,md,26,1990-12,16,16,1.0
+Mega Drive,md,27,1991-01,4,4,1.0
+Mega Drive,md,28,1991-02,5,5,1.0
+Mega Drive,md,29,1991-03,11,11,1.0
+Mega Drive,md,30,1991-04,7,7,1.0
+Mega Drive,md,31,1991-05,3,3,1.0
+Mega Drive,md,32,1991-06,9,9,1.0
+Mega Drive,md,33,1991-07,5,5,1.0
+Mega Drive,md,34,1991-08,8,8,1.0
+Mega Drive,md,35,1991-09,6,6,1.0
+Mega Drive,md,36,1991-10,6,6,1.0
+Mega Drive,md,37,1991-11,8,8,1.0
+Mega Drive,md,38,1991-12,21,21,1.0
+Mega Drive,md,39,1992-01,6,6,1.0
+Mega Drive,md,40,1992-02,6,6,1.0
+Mega Drive,md,41,1992-03,11,11,1.0
+Mega Drive,md,42,1992-04,7,7,1.0
+Mega Drive,md,43,1992-05,5,5,1.0
+Mega Drive,md,44,1992-06,8,8,1.0
+Mega Drive,md,45,1992-07,9,9,1.0
+Mega Drive,md,46,1992-08,6,6,1.0
+Mega Drive,md,47,1992-09,5,5,1.0
+Mega Drive,md,48,1992-10,10,10,1.0
+Mega Drive,md,49,1992-11,9,9,1.0
+Mega Drive,md,50,1992-12,16,16,1.0
+Mega Drive,md,51,1993-01,5,5,1.0
+Mega Drive,md,52,1993-02,6,6,1.0
+Mega Drive,md,53,1993-03,11,11,1.0
+Mega Drive,md,54,1993-04,13,13,1.0
+Mega Drive,md,55,1993-05,7,7,1.0
+Mega Drive,md,56,1993-06,11,11,1.0
+Mega Drive,md,57,1993-07,11,11,1.0
+Mega Drive,md,58,1993-08,8,8,1.0
+Mega Drive,md,59,1993-09,14,14,1.0
+Mega Drive,md,60,1993-10,5,5,1.0
+Mega Drive,md,61,1993-11,14,14,1.0
+Mega Drive,md,62,1993-12,18,18,1.0
+Mega Drive,md,63,1994-01,5,5,1.0
+Mega Drive,md,64,1994-02,12,12,1.0
+Mega Drive,md,65,1994-03,18,18,1.0
+Mega Drive,md,66,1994-04,12,12,1.0
+Mega Drive,md,67,1994-05,9,9,1.0
+Mega Drive,md,68,1994-06,11,11,1.0
+Mega Drive,md,69,1994-07,7,7,1.0
+Mega Drive,md,70,1994-08,4,4,1.0
+Mega Drive,md,71,1994-09,9,9,1.0
+Mega Drive,md,72,1994-10,3,3,1.0
+Mega Drive,md,73,1994-11,4,4,1.0
+Mega Drive,md,74,1994-12,14,14,1.0
+Mega Drive,md,75,1995-01,4,4,1.0
+Mega Drive,md,76,1995-02,8,8,1.0
+Mega Drive,md,77,1995-03,6,6,1.0
+Mega Drive,md,78,1995-04,3,3,1.0
+Mega Drive,md,79,1995-05,3,3,1.0
+Mega Drive,md,80,1995-06,0,0,
+Mega Drive,md,81,1995-07,3,3,1.0
+Mega Drive,md,82,1995-08,1,1,1.0
+Mega Drive,md,83,1995-09,6,6,1.0
+Mega Drive,md,84,1995-10,3,3,1.0
+Mega Drive,md,85,1995-11,0,0,
+Mega Drive,md,86,1995-12,3,3,1.0
+Mega Drive,md,87,1996-01,0,0,
+Mega Drive,md,88,1996-02,1,1,1.0
+Mega Drive,md,89,1996-03,1,1,1.0
+Game Boy,gb,0,1989-04,4,4,1.0
+Game Boy,gb,1,1989-05,1,1,1.0
+Game Boy,gb,2,1989-06,1,1,1.0
+Game Boy,gb,3,1989-07,1,1,1.0
+Game Boy,gb,4,1989-08,0,0,
+Game Boy,gb,5,1989-09,4,4,1.0
+Game Boy,gb,6,1989-10,3,3,1.0
+Game Boy,gb,7,1989-11,2,2,1.0
+Game Boy,gb,8,1989-12,9,9,1.0
+Game Boy,gb,9,1990-01,4,4,1.0
+Game Boy,gb,10,1990-02,3,3,1.0
+Game Boy,gb,11,1990-03,9,9,1.0
+Game Boy,gb,12,1990-04,13,13,1.0
+Game Boy,gb,13,1990-05,5,5,1.0
+Game Boy,gb,14,1990-06,8,8,1.0
+Game Boy,gb,15,1990-07,7,7,1.0
+Game Boy,gb,16,1990-08,11,11,1.0
+Game Boy,gb,17,1990-09,8,8,1.0
+Game Boy,gb,18,1990-10,13,13,1.0
+Game Boy,gb,19,1990-11,9,9,1.0
+Game Boy,gb,20,1990-12,28,28,1.0
+Game Boy,gb,21,1991-01,4,4,1.0
+Game Boy,gb,22,1991-02,7,7,1.0
+Game Boy,gb,23,1991-03,9,9,1.0
+Game Boy,gb,24,1991-04,15,15,1.0
+Game Boy,gb,25,1991-05,9,9,1.0
+Game Boy,gb,26,1991-06,8,8,1.0
+Game Boy,gb,27,1991-07,8,8,1.0
+Game Boy,gb,28,1991-08,10,10,1.0
+Game Boy,gb,29,1991-09,7,7,1.0
+Game Boy,gb,30,1991-10,3,3,1.0
+Game Boy,gb,31,1991-11,7,7,1.0
+Game Boy,gb,32,1991-12,23,23,1.0
+Game Boy,gb,33,1992-01,8,8,1.0
+Game Boy,gb,34,1992-02,8,8,1.0
+Game Boy,gb,35,1992-03,14,14,1.0
+Game Boy,gb,36,1992-04,7,7,1.0
+Game Boy,gb,37,1992-05,3,3,1.0
+Game Boy,gb,38,1992-06,3,3,1.0
+Game Boy,gb,39,1992-07,12,12,1.0
+Game Boy,gb,40,1992-08,8,8,1.0
+Game Boy,gb,41,1992-09,8,8,1.0
+Game Boy,gb,42,1992-10,9,9,1.0
+Game Boy,gb,43,1992-11,11,11,1.0
+Game Boy,gb,44,1992-12,24,24,1.0
+Game Boy,gb,45,1993-01,4,4,1.0
+Game Boy,gb,46,1993-02,6,6,1.0
+Game Boy,gb,47,1993-03,10,10,1.0
+Game Boy,gb,48,1993-04,4,4,1.0
+Game Boy,gb,49,1993-05,5,5,1.0
+Game Boy,gb,50,1993-06,4,4,1.0
+Game Boy,gb,51,1993-07,12,12,1.0
+Game Boy,gb,52,1993-08,9,9,1.0
+Game Boy,gb,53,1993-09,5,5,1.0
+Game Boy,gb,54,1993-10,5,5,1.0
+Game Boy,gb,55,1993-11,6,6,1.0
+Game Boy,gb,56,1993-12,11,11,1.0
+Game Boy,gb,57,1994-01,3,3,1.0
+Game Boy,gb,58,1994-02,6,6,1.0
+Game Boy,gb,59,1994-03,11,11,1.0
+Game Boy,gb,60,1994-04,12,12,1.0
+Game Boy,gb,61,1994-05,1,1,1.0
+Game Boy,gb,62,1994-06,7,7,1.0
+Game Boy,gb,63,1994-07,13,13,1.0
+Game Boy,gb,64,1994-08,6,6,1.0
+Game Boy,gb,65,1994-09,8,8,1.0
+Game Boy,gb,66,1994-10,9,9,1.0
+Game Boy,gb,67,1994-11,7,7,1.0
+Game Boy,gb,68,1994-12,10,10,1.0
+Game Boy,gb,69,1995-01,5,5,1.0
+Game Boy,gb,70,1995-02,1,1,1.0
+Game Boy,gb,71,1995-03,11,11,1.0
+Game Boy,gb,72,1995-04,9,9,1.0
+Game Boy,gb,73,1995-05,1,1,1.0
+Game Boy,gb,74,1995-06,6,6,1.0
+Game Boy,gb,75,1995-07,5,5,1.0
+Game Boy,gb,76,1995-08,5,5,1.0
+Game Boy,gb,77,1995-09,1,1,1.0
+Game Boy,gb,78,1995-10,6,6,1.0
+Game Boy,gb,79,1995-11,2,2,1.0
+Game Boy,gb,80,1995-12,6,6,1.0
+Game Boy,gb,81,1996-01,0,0,
+Game Boy,gb,82,1996-02,3,3,1.0
+Game Boy,gb,83,1996-03,1,1,1.0
+Game Boy,gb,84,1996-04,1,1,1.0
+Game Boy,gb,85,1996-05,3,3,1.0
+Game Boy,gb,86,1996-06,1,1,1.0
+Game Boy,gb,87,1996-07,3,3,1.0
+Game Boy,gb,88,1996-08,2,2,1.0
+Game Boy,gb,89,1996-09,4,4,1.0
+Game Boy,gb,90,1996-10,3,3,1.0
+Game Boy,gb,91,1996-11,6,6,1.0
+Game Boy,gb,92,1996-12,14,14,1.0
+Game Boy,gb,93,1997-01,3,3,1.0
+Game Boy,gb,94,1997-02,3,3,1.0
+Game Boy,gb,95,1997-03,1,1,1.0
+Game Boy,gb,96,1997-04,1,1,1.0
+Game Boy,gb,97,1997-05,1,1,1.0
+Game Boy,gb,98,1997-06,6,6,1.0
+Game Boy,gb,99,1997-07,7,7,1.0
+Game Boy,gb,100,1997-08,5,5,1.0
+Game Boy,gb,101,1997-09,7,7,1.0
+Game Boy,gb,102,1997-10,5,5,1.0
+Game Boy,gb,103,1997-11,7,7,1.0
+Game Boy,gb,104,1997-12,9,9,1.0
+Game Boy,gb,105,1998-01,5,5,1.0
+Game Boy,gb,106,1998-02,4,4,1.0
+Game Boy,gb,107,1998-03,14,14,1.0
+Game Boy,gb,108,1998-04,4,4,1.0
+Game Boy,gb,109,1998-05,5,5,1.0
+Game Boy,gb,110,1998-06,8,8,1.0
+Game Boy,gb,111,1998-07,12,12,1.0
+Game Boy,gb,112,1998-08,6,6,1.0
+Game Boy,gb,113,1998-09,7,7,1.0
+Game Boy,gb,114,1998-10,8,8,1.0
+Game Boy,gb,115,1998-11,8,8,1.0
+Game Boy,gb,116,1998-12,18,18,1.0
+Game Boy,gb,117,1999-01,4,4,1.0
+Game Boy,gb,118,1999-02,6,6,1.0
+Game Boy,gb,119,1999-03,16,16,1.0
+Game Boy,gb,120,1999-04,20,20,1.0
+Game Boy,gb,121,1999-05,4,4,1.0
+Game Boy,gb,122,1999-06,9,9,1.0
+Game Boy,gb,123,1999-07,19,19,1.0
+Game Boy,gb,124,1999-08,9,9,1.0
+Game Boy,gb,125,1999-09,6,6,1.0
+Game Boy,gb,126,1999-10,18,18,1.0
+Game Boy,gb,127,1999-11,9,9,1.0
+Game Boy,gb,128,1999-12,27,27,1.0
+Game Boy,gb,129,2000-01,7,7,1.0
+Game Boy,gb,130,2000-02,11,11,1.0
+Game Boy,gb,131,2000-03,29,29,1.0
+Game Boy,gb,132,2000-04,16,16,1.0
+Game Boy,gb,133,2000-05,3,3,1.0
+Game Boy,gb,134,2000-06,8,8,1.0
+Game Boy,gb,135,2000-07,16,16,1.0
+Game Boy,gb,136,2000-08,19,19,1.0
+Game Boy,gb,137,2000-09,14,14,1.0
+Game Boy,gb,138,2000-10,7,7,1.0
+Game Boy,gb,139,2000-11,18,18,1.0
+Game Boy,gb,140,2000-12,26,26,1.0
+Game Boy,gb,141,2001-01,6,6,1.0
+Game Boy,gb,142,2001-02,17,17,1.0
+Game Boy,gb,143,2001-03,20,20,1.0
+Game Boy,gb,144,2001-04,16,16,1.0
+Game Boy,gb,145,2001-05,2,2,1.0
+Game Boy,gb,146,2001-06,6,6,1.0
+Game Boy,gb,147,2001-07,15,15,1.0
+Game Boy,gb,148,2001-08,5,5,1.0
+Game Boy,gb,149,2001-09,5,5,1.0
+Game Boy,gb,150,2001-10,3,3,1.0
+Game Boy,gb,151,2001-11,4,4,1.0
+Game Boy,gb,152,2001-12,12,12,1.0
+Game Boy,gb,153,2002-01,0,0,
+Game Boy,gb,154,2002-02,2,2,1.0
+Game Boy,gb,155,2002-03,4,4,1.0
+Game Boy,gb,156,2002-04,3,3,1.0
+Game Boy,gb,157,2002-05,0,0,
+Game Boy,gb,158,2002-06,1,1,1.0
+Game Boy,gb,159,2002-07,1,1,1.0
+Game Boy,gb,160,2002-08,2,2,1.0
+Game Boy,gb,161,2002-09,0,0,
+Game Boy,gb,162,2002-10,1,1,1.0
+Game Boy,gb,163,2002-11,0,0,
+Game Boy,gb,164,2002-12,0,0,
+Game Boy,gb,165,2003-01,0,0,
+Game Boy,gb,166,2003-02,0,0,
+Game Boy,gb,167,2003-03,0,0,
+Game Boy,gb,168,2003-04,0,0,
+Game Boy,gb,169,2003-05,0,0,
+Game Boy,gb,170,2003-06,1,1,1.0
+Game Boy,gb,171,2003-07,1,1,1.0
+Game Gear,gg,0,1990-10,4,4,1.0
+Game Gear,gg,1,1990-11,1,1,1.0
+Game Gear,gg,2,1990-12,5,5,1.0
+Game Gear,gg,3,1991-01,2,2,1.0
+Game Gear,gg,4,1991-02,3,3,1.0
+Game Gear,gg,5,1991-03,7,7,1.0
+Game Gear,gg,6,1991-04,5,5,1.0
+Game Gear,gg,7,1991-05,2,2,1.0
+Game Gear,gg,8,1991-06,2,2,1.0
+Game Gear,gg,9,1991-07,5,5,1.0
+Game Gear,gg,10,1991-08,3,3,1.0
+Game Gear,gg,11,1991-09,2,2,1.0
+Game Gear,gg,12,1991-10,1,1,1.0
+Game Gear,gg,13,1991-11,4,4,1.0
+Game Gear,gg,14,1991-12,7,7,1.0
+Game Gear,gg,15,1992-01,0,0,
+Game Gear,gg,16,1992-02,1,1,1.0
+Game Gear,gg,17,1992-03,4,4,1.0
+Game Gear,gg,18,1992-04,1,1,1.0
+Game Gear,gg,19,1992-05,2,2,1.0
+Game Gear,gg,20,1992-06,2,2,1.0
+Game Gear,gg,21,1992-07,1,1,1.0
+Game Gear,gg,22,1992-08,2,2,1.0
+Game Gear,gg,23,1992-09,1,1,1.0
+Game Gear,gg,24,1992-10,4,4,1.0
+Game Gear,gg,25,1992-11,2,2,1.0
+Game Gear,gg,26,1992-12,3,3,1.0
+Game Gear,gg,27,1993-01,0,0,
+Game Gear,gg,28,1993-02,2,2,1.0
+Game Gear,gg,29,1993-03,2,2,1.0
+Game Gear,gg,30,1993-04,2,2,1.0
+Game Gear,gg,31,1993-05,1,1,1.0
+Game Gear,gg,32,1993-06,2,2,1.0
+Game Gear,gg,33,1993-07,4,4,1.0
+Game Gear,gg,34,1993-08,0,0,
+Game Gear,gg,35,1993-09,0,0,
+Game Gear,gg,36,1993-10,2,2,1.0
+Game Gear,gg,37,1993-11,1,1,1.0
+Game Gear,gg,38,1993-12,6,6,1.0
+Game Gear,gg,39,1994-01,2,2,1.0
+Game Gear,gg,40,1994-02,3,3,1.0
+Game Gear,gg,41,1994-03,6,6,1.0
+Game Gear,gg,42,1994-04,4,4,1.0
+Game Gear,gg,43,1994-05,3,3,1.0
+Game Gear,gg,44,1994-06,3,3,1.0
+Game Gear,gg,45,1994-07,5,5,1.0
+Game Gear,gg,46,1994-08,3,3,1.0
+Game Gear,gg,47,1994-09,7,7,1.0
+Game Gear,gg,48,1994-10,1,1,1.0
+Game Gear,gg,49,1994-11,4,4,1.0
+Game Gear,gg,50,1994-12,5,5,1.0
+Game Gear,gg,51,1995-01,5,5,1.0
+Game Gear,gg,52,1995-02,6,6,1.0
+Game Gear,gg,53,1995-03,5,5,1.0
+Game Gear,gg,54,1995-04,3,3,1.0
+Game Gear,gg,55,1995-05,3,3,1.0
+Game Gear,gg,56,1995-06,1,1,1.0
+Game Gear,gg,57,1995-07,2,2,1.0
+Game Gear,gg,58,1995-08,1,1,1.0
+Game Gear,gg,59,1995-09,3,3,1.0
+Game Gear,gg,60,1995-10,3,3,1.0
+Game Gear,gg,61,1995-11,4,4,1.0
+Game Gear,gg,62,1995-12,4,4,1.0
+Game Gear,gg,63,1996-01,2,2,1.0
+Game Gear,gg,64,1996-02,0,0,
+Game Gear,gg,65,1996-03,2,2,1.0
+Game Gear,gg,66,1996-04,1,1,1.0
+Game Gear,gg,67,1996-05,0,0,
+Game Gear,gg,68,1996-06,0,0,
+Game Gear,gg,69,1996-07,1,1,1.0
+Game Gear,gg,70,1996-08,1,1,1.0
+Game Gear,gg,71,1996-09,0,0,
+Game Gear,gg,72,1996-10,0,0,
+Game Gear,gg,73,1996-11,3,3,1.0
+Game Gear,gg,74,1996-12,2,2,1.0
+Super Famicom,sfc,0,1990-11,2,2,1.0
+Super Famicom,sfc,1,1990-12,7,7,1.0
+Super Famicom,sfc,2,1991-01,0,0,
+Super Famicom,sfc,3,1991-02,1,1,1.0
+Super Famicom,sfc,4,1991-03,2,2,1.0
+Super Famicom,sfc,5,1991-04,3,3,1.0
+Super Famicom,sfc,6,1991-05,3,3,1.0
+Super Famicom,sfc,7,1991-06,1,1,1.0
+Super Famicom,sfc,8,1991-07,8,8,1.0
+Super Famicom,sfc,9,1991-08,4,4,1.0
+Super Famicom,sfc,10,1991-09,3,3,1.0
+Super Famicom,sfc,11,1991-10,4,4,1.0
+Super Famicom,sfc,12,1991-11,2,2,1.0
+Super Famicom,sfc,13,1991-12,16,16,1.0
+Super Famicom,sfc,14,1992-01,5,5,1.0
+Super Famicom,sfc,15,1992-02,4,4,1.0
+Super Famicom,sfc,16,1992-03,19,19,1.0
+Super Famicom,sfc,17,1992-04,13,13,1.0
+Super Famicom,sfc,18,1992-05,4,4,1.0
+Super Famicom,sfc,19,1992-06,7,7,1.0
+Super Famicom,sfc,20,1992-07,26,26,1.0
+Super Famicom,sfc,21,1992-08,14,14,1.0
+Super Famicom,sfc,22,1992-09,13,13,1.0
+Super Famicom,sfc,23,1992-10,8,8,1.0
+Super Famicom,sfc,24,1992-11,21,21,1.0
+Super Famicom,sfc,25,1992-12,42,42,1.0
+Super Famicom,sfc,26,1993-01,16,16,1.0
+Super Famicom,sfc,27,1993-02,17,17,1.0
+Super Famicom,sfc,28,1993-03,32,32,1.0
+Super Famicom,sfc,29,1993-04,13,13,1.0
+Super Famicom,sfc,30,1993-05,6,6,1.0
+Super Famicom,sfc,31,1993-06,17,17,1.0
+Super Famicom,sfc,32,1993-07,31,31,1.0
+Super Famicom,sfc,33,1993-08,18,18,1.0
+Super Famicom,sfc,34,1993-09,18,18,1.0
+Super Famicom,sfc,35,1993-10,21,21,1.0
+Super Famicom,sfc,36,1993-11,28,28,1.0
+Super Famicom,sfc,37,1993-12,52,52,1.0
+Super Famicom,sfc,38,1994-01,15,15,1.0
+Super Famicom,sfc,39,1994-02,24,24,1.0
+Super Famicom,sfc,40,1994-03,46,46,1.0
+Super Famicom,sfc,41,1994-04,24,24,1.0
+Super Famicom,sfc,42,1994-05,10,10,1.0
+Super Famicom,sfc,43,1994-06,24,24,1.0
+Super Famicom,sfc,44,1994-07,33,33,1.0
+Super Famicom,sfc,45,1994-08,30,30,1.0
+Super Famicom,sfc,46,1994-09,34,34,1.0
+Super Famicom,sfc,47,1994-10,30,30,1.0
+Super Famicom,sfc,48,1994-11,31,31,1.0
+Super Famicom,sfc,49,1994-12,69,69,1.0
+Super Famicom,sfc,50,1995-01,19,19,1.0
+Super Famicom,sfc,51,1995-02,33,33,1.0
+Super Famicom,sfc,52,1995-03,46,46,1.0
+Super Famicom,sfc,53,1995-04,26,26,1.0
+Super Famicom,sfc,54,1995-05,14,14,1.0
+Super Famicom,sfc,55,1995-06,26,26,1.0
+Super Famicom,sfc,56,1995-07,34,34,1.0
+Super Famicom,sfc,57,1995-08,23,23,1.0
+Super Famicom,sfc,58,1995-09,39,39,1.0
+Super Famicom,sfc,59,1995-10,26,26,1.0
+Super Famicom,sfc,60,1995-11,18,18,1.0
+Super Famicom,sfc,61,1995-12,56,56,1.0
+Super Famicom,sfc,62,1996-01,12,12,1.0
+Super Famicom,sfc,63,1996-02,10,10,1.0
+Super Famicom,sfc,64,1996-03,36,36,1.0
+Super Famicom,sfc,65,1996-04,13,13,1.0
+Super Famicom,sfc,66,1996-05,8,8,1.0
+Super Famicom,sfc,67,1996-06,12,12,1.0
+Super Famicom,sfc,68,1996-07,13,13,1.0
+Super Famicom,sfc,69,1996-08,13,13,1.0
+Super Famicom,sfc,70,1996-09,11,11,1.0
+Super Famicom,sfc,71,1996-10,5,5,1.0
+Super Famicom,sfc,72,1996-11,5,5,1.0
+Super Famicom,sfc,73,1996-12,14,14,1.0
+Super Famicom,sfc,74,1997-01,6,6,1.0
+Super Famicom,sfc,75,1997-02,3,3,1.0
+Super Famicom,sfc,76,1997-03,9,9,1.0
+Super Famicom,sfc,77,1997-04,2,2,1.0
+Super Famicom,sfc,78,1997-05,2,2,1.0
+Super Famicom,sfc,79,1997-06,0,0,
+Super Famicom,sfc,80,1997-07,0,0,
+Super Famicom,sfc,81,1997-08,2,2,1.0
+Super Famicom,sfc,82,1997-09,1,1,1.0
+Super Famicom,sfc,83,1997-10,0,0,
+Super Famicom,sfc,84,1997-11,0,0,
+Super Famicom,sfc,85,1997-12,4,4,1.0
+Super Famicom,sfc,86,1998-01,3,3,1.0
+Super Famicom,sfc,87,1998-02,1,1,1.0
+Super Famicom,sfc,88,1998-03,3,3,1.0
+Super Famicom,sfc,89,1998-04,2,2,1.0
+Super Famicom,sfc,90,1998-05,1,1,1.0
+Super Famicom,sfc,91,1998-06,3,3,1.0
+Super Famicom,sfc,92,1998-07,1,1,1.0
+Super Famicom,sfc,93,1998-08,2,2,1.0
+Super Famicom,sfc,94,1998-09,0,0,
+Super Famicom,sfc,95,1998-10,1,1,1.0
+Super Famicom,sfc,96,1998-11,0,0,
+Super Famicom,sfc,97,1998-12,0,0,
+Super Famicom,sfc,98,1999-01,2,2,1.0
+Super Famicom,sfc,99,1999-02,0,0,
+Super Famicom,sfc,100,1999-03,0,0,
+Super Famicom,sfc,101,1999-04,1,1,1.0
+Super Famicom,sfc,102,1999-05,1,1,1.0
+Super Famicom,sfc,103,1999-06,3,3,1.0
+Super Famicom,sfc,104,1999-07,1,1,1.0
+Super Famicom,sfc,105,1999-08,2,2,1.0
+Super Famicom,sfc,106,1999-09,1,1,1.0
+Super Famicom,sfc,107,1999-10,1,1,1.0
+Super Famicom,sfc,108,1999-11,1,1,1.0
+Super Famicom,sfc,109,1999-12,1,1,1.0
+Super Famicom,sfc,110,2000-01,0,0,
+Super Famicom,sfc,111,2000-02,1,1,1.0
+Super Famicom,sfc,112,2000-03,0,0,
+Super Famicom,sfc,113,2000-04,1,1,1.0
+Super Famicom,sfc,114,2000-05,0,0,
+Super Famicom,sfc,115,2000-06,1,1,1.0
+Super Famicom,sfc,116,2000-07,0,0,
+Super Famicom,sfc,117,2000-08,0,0,
+Super Famicom,sfc,118,2000-09,0,0,
+Super Famicom,sfc,119,2000-10,0,0,
+Super Famicom,sfc,120,2000-11,1,1,1.0
+Neo Geo,neogeo,0,1991-07,6,6,1.0
+Neo Geo,neogeo,1,1991-08,3,3,1.0
+Neo Geo,neogeo,2,1991-09,0,0,
+Neo Geo,neogeo,3,1991-10,2,2,1.0
+Neo Geo,neogeo,4,1991-11,1,1,1.0
+Neo Geo,neogeo,5,1991-12,4,4,1.0
+Neo Geo,neogeo,6,1992-01,0,0,
+Neo Geo,neogeo,7,1992-02,1,1,1.0
+Neo Geo,neogeo,8,1992-03,1,1,1.0
+Neo Geo,neogeo,9,1992-04,4,4,1.0
+Neo Geo,neogeo,10,1992-05,1,1,1.0
+Neo Geo,neogeo,11,1992-06,1,1,1.0
+Neo Geo,neogeo,12,1992-07,1,1,1.0
+Neo Geo,neogeo,13,1992-08,0,0,
+Neo Geo,neogeo,14,1992-09,1,1,1.0
+Neo Geo,neogeo,15,1992-10,0,0,
+Neo Geo,neogeo,16,1992-11,0,0,
+Neo Geo,neogeo,17,1992-12,2,2,1.0
+Neo Geo,neogeo,18,1993-01,0,0,
+Neo Geo,neogeo,19,1993-02,1,1,1.0
+Neo Geo,neogeo,20,1993-03,1,1,1.0
+Neo Geo,neogeo,21,1993-04,2,2,1.0
+Neo Geo,neogeo,22,1993-05,0,0,
+Neo Geo,neogeo,23,1993-06,1,1,1.0
+Neo Geo,neogeo,24,1993-07,0,0,
+Neo Geo,neogeo,25,1993-08,1,1,1.0
+Neo Geo,neogeo,26,1993-09,0,0,
+Neo Geo,neogeo,27,1993-10,0,0,
+Neo Geo,neogeo,28,1993-11,0,0,
+Neo Geo,neogeo,29,1993-12,1,1,1.0
+Neo Geo,neogeo,30,1994-01,0,0,
+Neo Geo,neogeo,31,1994-02,1,1,1.0
+Neo Geo,neogeo,32,1994-03,1,1,1.0
+Neo Geo,neogeo,33,1994-04,2,2,1.0
+Neo Geo,neogeo,34,1994-05,1,1,1.0
+Neo Geo,neogeo,35,1994-06,2,2,1.0
+Neo Geo,neogeo,36,1994-07,0,0,
+Neo Geo,neogeo,37,1994-08,2,2,1.0
+Neo Geo,neogeo,38,1994-09,0,0,
+Neo Geo,neogeo,39,1994-10,1,1,1.0
+Neo Geo,neogeo,40,1994-11,0,0,
+Neo Geo,neogeo,41,1994-12,2,2,1.0
+Neo Geo,neogeo,42,1995-01,0,0,
+Neo Geo,neogeo,43,1995-02,1,1,1.0
+Neo Geo,neogeo,44,1995-03,2,2,1.0
+Neo Geo,neogeo,45,1995-04,2,2,1.0
+Neo Geo,neogeo,46,1995-05,1,1,1.0
+Neo Geo,neogeo,47,1995-06,1,1,1.0
+Neo Geo,neogeo,48,1995-07,1,1,1.0
+Neo Geo,neogeo,49,1995-08,0,0,
+Neo Geo,neogeo,50,1995-09,2,2,1.0
+Neo Geo,neogeo,51,1995-10,3,3,1.0
+Neo Geo,neogeo,52,1995-11,1,1,1.0
+Neo Geo,neogeo,53,1995-12,1,1,1.0
+Neo Geo,neogeo,54,1996-01,2,2,1.0
+Neo Geo,neogeo,55,1996-02,0,0,
+Neo Geo,neogeo,56,1996-03,1,1,1.0
+Neo Geo,neogeo,57,1996-04,2,2,1.0
+Neo Geo,neogeo,58,1996-05,2,2,1.0
+Neo Geo,neogeo,59,1996-06,1,1,1.0
+Neo Geo,neogeo,60,1996-07,1,1,1.0
+Neo Geo,neogeo,61,1996-08,0,0,
+Neo Geo,neogeo,62,1996-09,1,1,1.0
+Neo Geo,neogeo,63,1996-10,0,0,
+Neo Geo,neogeo,64,1996-11,2,2,1.0
+Neo Geo,neogeo,65,1996-12,3,3,1.0
+Neo Geo,neogeo,66,1997-01,1,1,1.0
+Neo Geo,neogeo,67,1997-02,1,1,1.0
+Neo Geo,neogeo,68,1997-03,1,1,1.0
+Neo Geo,neogeo,69,1997-04,1,1,1.0
+Neo Geo,neogeo,70,1997-05,0,0,
+Neo Geo,neogeo,71,1997-06,0,0,
+Neo Geo,neogeo,72,1997-07,0,0,
+Neo Geo,neogeo,73,1997-08,0,0,
+Neo Geo,neogeo,74,1997-09,1,1,1.0
+Neo Geo,neogeo,75,1997-10,0,0,
+Neo Geo,neogeo,76,1997-11,0,0,
+Neo Geo,neogeo,77,1997-12,0,0,
+Neo Geo,neogeo,78,1998-01,1,1,1.0
+Neo Geo,neogeo,79,1998-02,1,1,1.0
+Neo Geo,neogeo,80,1998-03,0,0,
+Neo Geo,neogeo,81,1998-04,2,2,1.0
+Neo Geo,neogeo,82,1998-05,0,0,
+Neo Geo,neogeo,83,1998-06,1,1,1.0
+Neo Geo,neogeo,84,1998-07,1,1,1.0
+Neo Geo,neogeo,85,1998-08,0,0,
+Neo Geo,neogeo,86,1998-09,1,1,1.0
+Neo Geo,neogeo,87,1998-10,0,0,
+Neo Geo,neogeo,88,1998-11,0,0,
+Neo Geo,neogeo,89,1998-12,0,0,
+Neo Geo,neogeo,90,1999-01,1,1,1.0
+Neo Geo,neogeo,91,1999-02,0,0,
+Neo Geo,neogeo,92,1999-03,0,0,
+Neo Geo,neogeo,93,1999-04,0,0,
+Neo Geo,neogeo,94,1999-05,1,1,1.0
+Neo Geo,neogeo,95,1999-06,0,0,
+Neo Geo,neogeo,96,1999-07,0,0,
+Neo Geo,neogeo,97,1999-08,0,0,
+Neo Geo,neogeo,98,1999-09,1,1,1.0
+Neo Geo,neogeo,99,1999-10,0,0,
+Neo Geo,neogeo,100,1999-11,0,0,
+Neo Geo,neogeo,101,1999-12,0,0,
+Neo Geo,neogeo,102,2000-01,0,0,
+Neo Geo,neogeo,103,2000-02,1,1,1.0
+Neo Geo,neogeo,104,2000-03,0,0,
+Neo Geo,neogeo,105,2000-04,0,0,
+Neo Geo,neogeo,106,2000-05,0,0,
+Neo Geo,neogeo,107,2000-06,1,1,1.0
+Neo Geo,neogeo,108,2000-07,0,0,
+Neo Geo,neogeo,109,2000-08,0,0,
+Neo Geo,neogeo,110,2000-09,0,0,
+Neo Geo,neogeo,111,2000-10,0,0,
+Neo Geo,neogeo,112,2000-11,0,0,
+Neo Geo,neogeo,113,2000-12,1,1,1.0
+Neo Geo,neogeo,114,2001-01,0,0,
+Neo Geo,neogeo,115,2001-02,0,0,
+Neo Geo,neogeo,116,2001-03,0,0,
+Neo Geo,neogeo,117,2001-04,0,0,
+Neo Geo,neogeo,118,2001-05,0,0,
+Neo Geo,neogeo,119,2001-06,0,0,
+Neo Geo,neogeo,120,2001-07,0,0,
+Neo Geo,neogeo,121,2001-08,0,0,
+Neo Geo,neogeo,122,2001-09,0,0,
+Neo Geo,neogeo,123,2001-10,1,1,1.0
+Neo Geo,neogeo,124,2001-11,0,0,
+Neo Geo,neogeo,125,2001-12,0,0,
+Neo Geo,neogeo,126,2002-01,0,0,
+Neo Geo,neogeo,127,2002-02,0,0,
+Neo Geo,neogeo,128,2002-03,1,1,1.0
+Neo Geo,neogeo,129,2002-04,0,0,
+Neo Geo,neogeo,130,2002-05,0,0,
+Neo Geo,neogeo,131,2002-06,1,1,1.0
+Neo Geo,neogeo,132,2002-07,0,0,
+Neo Geo,neogeo,133,2002-08,0,0,
+Neo Geo,neogeo,134,2002-09,1,1,1.0
+Neo Geo,neogeo,135,2002-10,0,0,
+Neo Geo,neogeo,136,2002-11,0,0,
+Neo Geo,neogeo,137,2002-12,1,1,1.0
+Neo Geo,neogeo,138,2003-01,0,0,
+Neo Geo,neogeo,139,2003-02,0,0,
+Neo Geo,neogeo,140,2003-03,0,0,
+Neo Geo,neogeo,141,2003-04,0,0,
+Neo Geo,neogeo,142,2003-05,1,1,1.0
+Neo Geo,neogeo,143,2003-06,0,0,
+Neo Geo,neogeo,144,2003-07,0,0,
+Neo Geo,neogeo,145,2003-08,0,0,
+Neo Geo,neogeo,146,2003-09,0,0,
+Neo Geo,neogeo,147,2003-10,0,0,
+Neo Geo,neogeo,148,2003-11,1,1,1.0
+Neo Geo,neogeo,149,2003-12,1,1,1.0
+Neo Geo,neogeo,150,2004-01,0,0,
+Neo Geo,neogeo,151,2004-02,1,1,1.0
+Neo Geo,neogeo,152,2004-03,1,1,1.0
+Neo Geo,neogeo,153,2004-04,0,0,
+Neo Geo,neogeo,154,2004-05,0,0,
+Neo Geo,neogeo,155,2004-06,0,0,
+Neo Geo,neogeo,156,2004-07,1,1,1.0
+Sega Saturn,saturn,0,1994-11,5,5,1.0
+Sega Saturn,saturn,1,1994-12,3,3,1.0
+Sega Saturn,saturn,2,1995-01,2,2,1.0
+Sega Saturn,saturn,3,1995-02,4,4,1.0
+Sega Saturn,saturn,4,1995-03,6,6,1.0
+Sega Saturn,saturn,5,1995-04,8,8,1.0
+Sega Saturn,saturn,6,1995-05,4,4,1.0
+Sega Saturn,saturn,7,1995-06,6,6,1.0
+Sega Saturn,saturn,8,1995-07,12,12,1.0
+Sega Saturn,saturn,9,1995-08,14,14,1.0
+Sega Saturn,saturn,10,1995-09,20,20,1.0
+Sega Saturn,saturn,11,1995-10,16,16,1.0
+Sega Saturn,saturn,12,1995-11,21,21,1.0
+Sega Saturn,saturn,13,1995-12,31,31,1.0
+Sega Saturn,saturn,14,1996-01,9,9,1.0
+Sega Saturn,saturn,15,1996-02,20,20,1.0
+Sega Saturn,saturn,16,1996-03,49,49,1.0
+Sega Saturn,saturn,17,1996-04,21,21,1.0
+Sega Saturn,saturn,18,1996-05,12,12,1.0
+Sega Saturn,saturn,19,1996-06,18,18,1.0
+Sega Saturn,saturn,20,1996-07,20,20,1.0
+Sega Saturn,saturn,21,1996-08,35,35,1.0
+Sega Saturn,saturn,22,1996-09,28,28,1.0
+Sega Saturn,saturn,23,1996-10,20,20,1.0
+Sega Saturn,saturn,24,1996-11,33,33,1.0
+Sega Saturn,saturn,25,1996-12,54,54,1.0
+Sega Saturn,saturn,26,1997-01,24,24,1.0
+Sega Saturn,saturn,27,1997-02,31,31,1.0
+Sega Saturn,saturn,28,1997-03,31,31,1.0
+Sega Saturn,saturn,29,1997-04,31,31,1.0
+Sega Saturn,saturn,30,1997-05,21,21,1.0
+Sega Saturn,saturn,31,1997-06,33,33,1.0
+Sega Saturn,saturn,32,1997-07,24,24,1.0
+Sega Saturn,saturn,33,1997-08,29,29,1.0
+Sega Saturn,saturn,34,1997-09,28,28,1.0
+Sega Saturn,saturn,35,1997-10,25,25,1.0
+Sega Saturn,saturn,36,1997-11,31,31,1.0
+Sega Saturn,saturn,37,1997-12,43,43,1.0
+Sega Saturn,saturn,38,1998-01,25,25,1.0
+Sega Saturn,saturn,39,1998-02,20,20,1.0
+Sega Saturn,saturn,40,1998-03,25,25,1.0
+Sega Saturn,saturn,41,1998-04,27,27,1.0
+Sega Saturn,saturn,42,1998-05,11,11,1.0
+Sega Saturn,saturn,43,1998-06,17,17,1.0
+Sega Saturn,saturn,44,1998-07,24,24,1.0
+Sega Saturn,saturn,45,1998-08,13,13,1.0
+Sega Saturn,saturn,46,1998-09,11,11,1.0
+Sega Saturn,saturn,47,1998-10,18,18,1.0
+Sega Saturn,saturn,48,1998-11,11,11,1.0
+Sega Saturn,saturn,49,1998-12,13,13,1.0
+Sega Saturn,saturn,50,1999-01,2,2,1.0
+Sega Saturn,saturn,51,1999-02,1,1,1.0
+Sega Saturn,saturn,52,1999-03,7,7,1.0
+Sega Saturn,saturn,53,1999-04,3,3,1.0
+Sega Saturn,saturn,54,1999-05,0,0,
+Sega Saturn,saturn,55,1999-06,0,0,
+Sega Saturn,saturn,56,1999-07,2,2,1.0
+Sega Saturn,saturn,57,1999-08,1,1,1.0
+Sega Saturn,saturn,58,1999-09,0,0,
+Sega Saturn,saturn,59,1999-10,1,1,1.0
+Sega Saturn,saturn,60,1999-11,0,0,
+Sega Saturn,saturn,61,1999-12,0,0,
+Sega Saturn,saturn,62,2000-01,0,0,
+Sega Saturn,saturn,63,2000-02,0,0,
+Sega Saturn,saturn,64,2000-03,2,2,1.0
+Sega Saturn,saturn,65,2000-04,0,0,
+Sega Saturn,saturn,66,2000-05,0,0,
+Sega Saturn,saturn,67,2000-06,0,0,
+Sega Saturn,saturn,68,2000-07,0,0,
+Sega Saturn,saturn,69,2000-08,0,0,
+Sega Saturn,saturn,70,2000-09,0,0,
+Sega Saturn,saturn,71,2000-10,0,0,
+Sega Saturn,saturn,72,2000-11,0,0,
+Sega Saturn,saturn,73,2000-12,1,1,1.0
+PlayStation,ps1,0,1994-12,17,17,1.0
+PlayStation,ps1,1,1995-01,7,7,1.0
+PlayStation,ps1,2,1995-02,1,1,1.0
+PlayStation,ps1,3,1995-03,7,7,1.0
+PlayStation,ps1,4,1995-04,6,6,1.0
+PlayStation,ps1,5,1995-05,4,4,1.0
+PlayStation,ps1,6,1995-06,8,8,1.0
+PlayStation,ps1,7,1995-07,10,10,1.0
+PlayStation,ps1,8,1995-08,6,6,1.0
+PlayStation,ps1,9,1995-09,18,18,1.0
+PlayStation,ps1,10,1995-10,11,11,1.0
+PlayStation,ps1,11,1995-11,15,15,1.0
+PlayStation,ps1,12,1995-12,39,39,1.0
+PlayStation,ps1,13,1996-01,21,21,1.0
+PlayStation,ps1,14,1996-02,22,22,1.0
+PlayStation,ps1,15,1996-03,43,43,1.0
+PlayStation,ps1,16,1996-04,22,22,1.0
+PlayStation,ps1,17,1996-05,26,26,1.0
+PlayStation,ps1,18,1996-06,26,26,1.0
+PlayStation,ps1,19,1996-07,26,26,1.0
+PlayStation,ps1,20,1996-08,34,34,1.0
+PlayStation,ps1,21,1996-09,40,40,1.0
+PlayStation,ps1,22,1996-10,42,42,1.0
+PlayStation,ps1,23,1996-11,48,48,1.0
+PlayStation,ps1,24,1996-12,65,65,1.0
+PlayStation,ps1,25,1997-01,34,34,1.0
+PlayStation,ps1,26,1997-02,41,41,1.0
+PlayStation,ps1,27,1997-03,34,34,1.0
+PlayStation,ps1,28,1997-04,42,42,1.0
+PlayStation,ps1,29,1997-05,33,33,1.0
+PlayStation,ps1,30,1997-06,28,28,1.0
+PlayStation,ps1,31,1997-07,53,53,1.0
+PlayStation,ps1,32,1997-08,30,30,1.0
+PlayStation,ps1,33,1997-09,32,32,1.0
+PlayStation,ps1,34,1997-10,35,35,1.0
+PlayStation,ps1,35,1997-11,45,45,1.0
+PlayStation,ps1,36,1997-12,60,60,1.0
+PlayStation,ps1,37,1998-01,34,34,1.0
+PlayStation,ps1,38,1998-02,39,39,1.0
+PlayStation,ps1,39,1998-03,57,57,1.0
+PlayStation,ps1,40,1998-04,47,47,1.0
+PlayStation,ps1,41,1998-05,29,29,1.0
+PlayStation,ps1,42,1998-06,51,51,1.0
+PlayStation,ps1,43,1998-07,50,50,1.0
+PlayStation,ps1,44,1998-08,47,47,1.0
+PlayStation,ps1,45,1998-09,51,51,1.0
+PlayStation,ps1,46,1998-10,51,51,1.0
+PlayStation,ps1,47,1998-11,57,57,1.0
+PlayStation,ps1,48,1998-12,67,67,1.0
+PlayStation,ps1,49,1999-01,34,34,1.0
+PlayStation,ps1,50,1999-02,48,48,1.0
+PlayStation,ps1,51,1999-03,62,62,1.0
+PlayStation,ps1,52,1999-04,52,52,1.0
+PlayStation,ps1,53,1999-05,34,34,1.0
+PlayStation,ps1,54,1999-06,39,39,1.0
+PlayStation,ps1,55,1999-07,54,54,1.0
+PlayStation,ps1,56,1999-08,42,42,1.0
+PlayStation,ps1,57,1999-09,57,57,1.0
+PlayStation,ps1,58,1999-10,54,54,1.0
+PlayStation,ps1,59,1999-11,60,60,1.0
+PlayStation,ps1,60,1999-12,90,90,1.0
+PlayStation,ps1,61,2000-01,36,36,1.0
+PlayStation,ps1,62,2000-02,55,55,1.0
+PlayStation,ps1,63,2000-03,51,51,1.0
+PlayStation,ps1,64,2000-04,37,37,1.0
+PlayStation,ps1,65,2000-05,32,32,1.0
+PlayStation,ps1,66,2000-06,39,39,1.0
+PlayStation,ps1,67,2000-07,41,41,1.0
+PlayStation,ps1,68,2000-08,40,40,1.0
+PlayStation,ps1,69,2000-09,51,51,1.0
+PlayStation,ps1,70,2000-10,37,37,1.0
+PlayStation,ps1,71,2000-11,45,45,1.0
+PlayStation,ps1,72,2000-12,50,50,1.0
+PlayStation,ps1,73,2001-01,19,19,1.0
+PlayStation,ps1,74,2001-02,13,13,1.0
+PlayStation,ps1,75,2001-03,36,36,1.0
+PlayStation,ps1,76,2001-04,18,18,1.0
+PlayStation,ps1,77,2001-05,35,35,1.0
+PlayStation,ps1,78,2001-06,16,16,1.0
+PlayStation,ps1,79,2001-07,19,19,1.0
+PlayStation,ps1,80,2001-08,18,18,1.0
+PlayStation,ps1,81,2001-09,16,16,1.0
+PlayStation,ps1,82,2001-10,17,17,1.0
+PlayStation,ps1,83,2001-11,26,26,1.0
+PlayStation,ps1,84,2001-12,30,30,1.0
+PlayStation,ps1,85,2002-01,22,22,1.0
+PlayStation,ps1,86,2002-02,27,27,1.0
+PlayStation,ps1,87,2002-03,31,31,1.0
+PlayStation,ps1,88,2002-04,15,15,1.0
+PlayStation,ps1,89,2002-05,13,13,1.0
+PlayStation,ps1,90,2002-06,16,16,1.0
+PlayStation,ps1,91,2002-07,14,14,1.0
+PlayStation,ps1,92,2002-08,14,14,1.0
+PlayStation,ps1,93,2002-09,20,20,1.0
+PlayStation,ps1,94,2002-10,19,19,1.0
+PlayStation,ps1,95,2002-11,19,19,1.0
+PlayStation,ps1,96,2002-12,16,16,1.0
+PlayStation,ps1,97,2003-01,8,8,1.0
+PlayStation,ps1,98,2003-02,5,5,1.0
+PlayStation,ps1,99,2003-03,8,8,1.0
+PlayStation,ps1,100,2003-04,6,6,1.0
+PlayStation,ps1,101,2003-05,5,5,1.0
+PlayStation,ps1,102,2003-06,6,6,1.0
+PlayStation,ps1,103,2003-07,0,0,
+PlayStation,ps1,104,2003-08,1,1,1.0
+PlayStation,ps1,105,2003-09,1,1,1.0
+PlayStation,ps1,106,2003-10,3,3,1.0
+PlayStation,ps1,107,2003-11,2,2,1.0
+PlayStation,ps1,108,2003-12,3,3,1.0
+Nintendo 64,n64,0,1996-06,3,3,1.0
+Nintendo 64,n64,1,1996-07,0,0,
+Nintendo 64,n64,2,1996-08,0,0,
+Nintendo 64,n64,3,1996-09,1,1,1.0
+Nintendo 64,n64,4,1996-10,0,0,
+Nintendo 64,n64,5,1996-11,2,2,1.0
+Nintendo 64,n64,6,1996-12,4,4,1.0
+Nintendo 64,n64,7,1997-01,0,0,
+Nintendo 64,n64,8,1997-02,0,0,
+Nintendo 64,n64,9,1997-03,5,5,1.0
+Nintendo 64,n64,10,1997-04,2,2,1.0
+Nintendo 64,n64,11,1997-05,1,1,1.0
+Nintendo 64,n64,12,1997-06,2,2,1.0
+Nintendo 64,n64,13,1997-07,4,4,1.0
+Nintendo 64,n64,14,1997-08,5,5,1.0
+Nintendo 64,n64,15,1997-09,3,3,1.0
+Nintendo 64,n64,16,1997-10,2,2,1.0
+Nintendo 64,n64,17,1997-11,6,6,1.0
+Nintendo 64,n64,18,1997-12,13,13,1.0
+Nintendo 64,n64,19,1998-01,3,3,1.0
+Nintendo 64,n64,20,1998-02,2,2,1.0
+Nintendo 64,n64,21,1998-03,6,6,1.0
+Nintendo 64,n64,22,1998-04,3,3,1.0
+Nintendo 64,n64,23,1998-05,3,3,1.0
+Nintendo 64,n64,24,1998-06,2,2,1.0
+Nintendo 64,n64,25,1998-07,7,7,1.0
+Nintendo 64,n64,26,1998-08,3,3,1.0
+Nintendo 64,n64,27,1998-09,0,0,
+Nintendo 64,n64,28,1998-10,3,3,1.0
+Nintendo 64,n64,29,1998-11,6,6,1.0
+Nintendo 64,n64,30,1998-12,16,16,1.0
+Nintendo 64,n64,31,1999-01,4,4,1.0
+Nintendo 64,n64,32,1999-02,2,2,1.0
+Nintendo 64,n64,33,1999-03,9,9,1.0
+Nintendo 64,n64,34,1999-04,3,3,1.0
+Nintendo 64,n64,35,1999-05,1,1,1.0
+Nintendo 64,n64,36,1999-06,5,5,1.0
+Nintendo 64,n64,37,1999-07,7,7,1.0
+Nintendo 64,n64,38,1999-08,5,5,1.0
+Nintendo 64,n64,39,1999-09,3,3,1.0
+Nintendo 64,n64,40,1999-10,4,4,1.0
+Nintendo 64,n64,41,1999-11,3,3,1.0
+Nintendo 64,n64,42,1999-12,12,12,1.0
+Nintendo 64,n64,43,2000-01,2,2,1.0
+Nintendo 64,n64,44,2000-02,3,3,1.0
+Nintendo 64,n64,45,2000-03,3,3,1.0
+Nintendo 64,n64,46,2000-04,8,8,1.0
+Nintendo 64,n64,47,2000-05,3,3,1.0
+Nintendo 64,n64,48,2000-06,2,2,1.0
+Nintendo 64,n64,49,2000-07,3,3,1.0
+Nintendo 64,n64,50,2000-08,2,2,1.0
+Nintendo 64,n64,51,2000-09,2,2,1.0
+Nintendo 64,n64,52,2000-10,1,1,1.0
+Nintendo 64,n64,53,2000-11,5,5,1.0
+Nintendo 64,n64,54,2000-12,2,2,1.0
+Nintendo 64,n64,55,2001-01,1,1,1.0
+Nintendo 64,n64,56,2001-02,0,0,
+Nintendo 64,n64,57,2001-03,1,1,1.0
+Nintendo 64,n64,58,2001-04,2,2,1.0
+Nintendo 64,n64,59,2001-05,0,0,
+Nintendo 64,n64,60,2001-06,0,0,
+Nintendo 64,n64,61,2001-07,0,0,
+Nintendo 64,n64,62,2001-08,1,1,1.0
+Nintendo 64,n64,63,2001-09,0,0,
+Nintendo 64,n64,64,2001-10,0,0,
+Nintendo 64,n64,65,2001-11,0,0,
+Nintendo 64,n64,66,2001-12,1,1,1.0
+Neo Geo Pocket,ngp,0,1998-10,5,5,1.0
+Neo Geo Pocket,ngp,1,1998-11,2,2,1.0
+Neo Geo Pocket,ngp,2,1998-12,2,2,1.0
+Neo Geo Pocket,ngp,3,1999-01,0,0,
+Neo Geo Pocket,ngp,4,1999-02,0,0,
+Neo Geo Pocket,ngp,5,1999-03,9,9,1.0
+Neo Geo Pocket,ngp,6,1999-04,5,5,1.0
+Neo Geo Pocket,ngp,7,1999-05,3,3,1.0
+Neo Geo Pocket,ngp,8,1999-06,2,2,1.0
+Neo Geo Pocket,ngp,9,1999-07,3,3,1.0
+Neo Geo Pocket,ngp,10,1999-08,3,3,1.0
+Neo Geo Pocket,ngp,11,1999-09,0,0,
+Neo Geo Pocket,ngp,12,1999-10,6,6,1.0
+Neo Geo Pocket,ngp,13,1999-11,2,2,1.0
+Neo Geo Pocket,ngp,14,1999-12,6,6,1.0
+Neo Geo Pocket,ngp,15,2000-01,4,4,1.0
+Neo Geo Pocket,ngp,16,2000-02,3,3,1.0
+Neo Geo Pocket,ngp,17,2000-03,6,6,1.0
+Neo Geo Pocket,ngp,18,2000-04,2,2,1.0
+Neo Geo Pocket,ngp,19,2000-05,2,2,1.0
+Neo Geo Pocket,ngp,20,2000-06,3,3,1.0
+Neo Geo Pocket,ngp,21,2000-07,3,3,1.0
+Neo Geo Pocket,ngp,22,2000-08,2,2,1.0
+Neo Geo Pocket,ngp,23,2000-09,0,0,
+Neo Geo Pocket,ngp,24,2000-10,1,1,1.0
+Neo Geo Pocket,ngp,25,2000-11,3,3,1.0
+Neo Geo Pocket,ngp,26,2000-12,1,1,1.0
+Neo Geo Pocket,ngp,27,2001-01,0,0,
+Neo Geo Pocket,ngp,28,2001-02,0,0,
+Neo Geo Pocket,ngp,29,2001-03,2,2,1.0
+Neo Geo Pocket,ngp,30,2001-04,0,0,
+Neo Geo Pocket,ngp,31,2001-05,0,0,
+Neo Geo Pocket,ngp,32,2001-06,0,0,
+Neo Geo Pocket,ngp,33,2001-07,0,0,
+Neo Geo Pocket,ngp,34,2001-08,0,0,
+Neo Geo Pocket,ngp,35,2001-09,1,1,1.0
+Dreamcast,dc,0,1998-11,4,4,1.0
+Dreamcast,dc,1,1998-12,4,4,1.0
+Dreamcast,dc,2,1999-01,3,3,1.0
+Dreamcast,dc,3,1999-02,2,2,1.0
+Dreamcast,dc,4,1999-03,14,14,1.0
+Dreamcast,dc,5,1999-04,6,6,1.0
+Dreamcast,dc,6,1999-05,2,2,1.0
+Dreamcast,dc,7,1999-06,4,4,1.0
+Dreamcast,dc,8,1999-07,13,13,1.0
+Dreamcast,dc,9,1999-08,6,6,1.0
+Dreamcast,dc,10,1999-09,12,12,1.0
+Dreamcast,dc,11,1999-10,5,5,1.0
+Dreamcast,dc,12,1999-11,18,18,1.0
+Dreamcast,dc,13,1999-12,28,28,1.0
+Dreamcast,dc,14,2000-01,13,13,1.0
+Dreamcast,dc,15,2000-02,11,11,1.0
+Dreamcast,dc,16,2000-03,19,19,1.0
+Dreamcast,dc,17,2000-04,9,9,1.0
+Dreamcast,dc,18,2000-05,8,8,1.0
+Dreamcast,dc,19,2000-06,13,13,1.0
+Dreamcast,dc,20,2000-07,10,10,1.0
+Dreamcast,dc,21,2000-08,16,16,1.0
+Dreamcast,dc,22,2000-09,12,12,1.0
+Dreamcast,dc,23,2000-10,14,14,1.0
+Dreamcast,dc,24,2000-11,13,13,1.0
+Dreamcast,dc,25,2000-12,21,21,1.0
+Dreamcast,dc,26,2001-01,8,8,1.0
+Dreamcast,dc,27,2001-02,9,9,1.0
+Dreamcast,dc,28,2001-03,14,14,1.0
+Dreamcast,dc,29,2001-04,12,12,1.0
+Dreamcast,dc,30,2001-05,11,11,1.0
+Dreamcast,dc,31,2001-06,13,13,1.0
+Dreamcast,dc,32,2001-07,10,10,1.0
+Dreamcast,dc,33,2001-08,13,13,1.0
+Dreamcast,dc,34,2001-09,13,13,1.0
+Dreamcast,dc,35,2001-10,5,5,1.0
+Dreamcast,dc,36,2001-11,5,5,1.0
+Dreamcast,dc,37,2001-12,5,5,1.0
+Dreamcast,dc,38,2002-01,4,4,1.0
+Dreamcast,dc,39,2002-02,6,6,1.0
+Dreamcast,dc,40,2002-03,8,8,1.0
+Dreamcast,dc,41,2002-04,4,4,1.0
+Dreamcast,dc,42,2002-05,2,2,1.0
+Dreamcast,dc,43,2002-06,2,2,1.0
+Dreamcast,dc,44,2002-07,4,4,1.0
+Dreamcast,dc,45,2002-08,4,4,1.0
+Dreamcast,dc,46,2002-09,7,7,1.0
+Dreamcast,dc,47,2002-10,2,2,1.0
+Dreamcast,dc,48,2002-11,3,3,1.0
+Dreamcast,dc,49,2002-12,3,3,1.0
+Dreamcast,dc,50,2003-01,1,1,1.0
+Dreamcast,dc,51,2003-02,2,2,1.0
+Dreamcast,dc,52,2003-03,3,3,1.0
+Dreamcast,dc,53,2003-04,0,0,
+Dreamcast,dc,54,2003-05,2,2,1.0
+Dreamcast,dc,55,2003-06,4,4,1.0
+Dreamcast,dc,56,2003-07,4,4,1.0
+Dreamcast,dc,57,2003-08,3,3,1.0
+Dreamcast,dc,58,2003-09,2,2,1.0
+Dreamcast,dc,59,2003-10,1,1,1.0
+Dreamcast,dc,60,2003-11,2,2,1.0
+Dreamcast,dc,61,2003-12,3,3,1.0
+Dreamcast,dc,62,2004-01,2,2,1.0
+Dreamcast,dc,63,2004-02,3,3,1.0
+Dreamcast,dc,64,2004-03,2,2,1.0
+Dreamcast,dc,65,2004-04,3,3,1.0
+Dreamcast,dc,66,2004-05,0,0,
+Dreamcast,dc,67,2004-06,3,3,1.0
+Dreamcast,dc,68,2004-07,0,0,
+Dreamcast,dc,69,2004-08,0,0,
+Dreamcast,dc,70,2004-09,1,1,1.0
+Dreamcast,dc,71,2004-10,2,2,1.0
+Dreamcast,dc,72,2004-11,0,0,
+Dreamcast,dc,73,2004-12,1,1,1.0
+Dreamcast,dc,74,2005-01,0,0,
+Dreamcast,dc,75,2005-02,1,1,1.0
+Dreamcast,dc,76,2005-03,0,0,
+Dreamcast,dc,77,2005-04,1,1,1.0
+Dreamcast,dc,78,2005-05,0,0,
+Dreamcast,dc,79,2005-06,0,0,
+Dreamcast,dc,80,2005-07,0,0,
+Dreamcast,dc,81,2005-08,0,0,
+Dreamcast,dc,82,2005-09,0,0,
+Dreamcast,dc,83,2005-10,0,0,
+Dreamcast,dc,84,2005-11,0,0,
+Dreamcast,dc,85,2005-12,0,0,
+Dreamcast,dc,86,2006-01,0,0,
+Dreamcast,dc,87,2006-02,1,1,1.0
+Dreamcast,dc,88,2006-03,1,1,1.0
+Dreamcast,dc,89,2006-04,0,0,
+Dreamcast,dc,90,2006-05,0,0,
+Dreamcast,dc,91,2006-06,0,0,
+Dreamcast,dc,92,2006-07,0,0,
+Dreamcast,dc,93,2006-08,0,0,
+Dreamcast,dc,94,2006-09,0,0,
+Dreamcast,dc,95,2006-10,0,0,
+Dreamcast,dc,96,2006-11,0,0,
+Dreamcast,dc,97,2006-12,0,0,
+Dreamcast,dc,98,2007-01,0,0,
+Dreamcast,dc,99,2007-02,1,1,1.0
+Dreamcast,dc,100,2007-03,1,1,1.0
+WonderSwan,ws,0,1999-03,9,9,1.0
+WonderSwan,ws,1,1999-04,9,9,1.0
+WonderSwan,ws,2,1999-05,7,7,1.0
+WonderSwan,ws,3,1999-06,4,4,1.0
+WonderSwan,ws,4,1999-07,6,6,1.0
+WonderSwan,ws,5,1999-08,4,4,1.0
+WonderSwan,ws,6,1999-09,3,3,1.0
+WonderSwan,ws,7,1999-10,7,7,1.0
+WonderSwan,ws,8,1999-11,6,6,1.0
+WonderSwan,ws,9,1999-12,14,14,1.0
+WonderSwan,ws,10,2000-01,4,4,1.0
+WonderSwan,ws,11,2000-02,7,7,1.0
+WonderSwan,ws,12,2000-03,8,8,1.0
+WonderSwan,ws,13,2000-04,6,6,1.0
+WonderSwan,ws,14,2000-05,1,1,1.0
+WonderSwan,ws,15,2000-06,3,3,1.0
+WonderSwan,ws,16,2000-07,3,3,1.0
+WonderSwan,ws,17,2000-08,3,3,1.0
+WonderSwan,ws,18,2000-09,3,3,1.0
+WonderSwan,ws,19,2000-10,1,1,1.0
+WonderSwan,ws,20,2000-11,0,0,
+WonderSwan,ws,21,2000-12,10,10,1.0
+WonderSwan,ws,22,2001-01,4,4,1.0
+WonderSwan,ws,23,2001-02,2,2,1.0
+WonderSwan,ws,24,2001-03,6,6,1.0
+WonderSwan,ws,25,2001-04,4,4,1.0
+WonderSwan,ws,26,2001-05,3,3,1.0
+WonderSwan,ws,27,2001-06,5,5,1.0
+WonderSwan,ws,28,2001-07,3,3,1.0
+WonderSwan,ws,29,2001-08,2,2,1.0
+WonderSwan,ws,30,2001-09,3,3,1.0
+WonderSwan,ws,31,2001-10,2,2,1.0
+WonderSwan,ws,32,2001-11,2,2,1.0
+WonderSwan,ws,33,2001-12,4,4,1.0
+WonderSwan,ws,34,2002-01,1,1,1.0
+WonderSwan,ws,35,2002-02,4,4,1.0
+WonderSwan,ws,36,2002-03,4,4,1.0
+WonderSwan,ws,37,2002-04,2,2,1.0
+WonderSwan,ws,38,2002-05,1,1,1.0
+WonderSwan,ws,39,2002-06,2,2,1.0
+WonderSwan,ws,40,2002-07,5,5,1.0
+WonderSwan,ws,41,2002-08,3,3,1.0
+WonderSwan,ws,42,2002-09,1,1,1.0
+WonderSwan,ws,43,2002-10,1,1,1.0
+WonderSwan,ws,44,2002-11,2,2,1.0
+WonderSwan,ws,45,2002-12,2,2,1.0
+WonderSwan,ws,46,2003-01,1,1,1.0
+WonderSwan,ws,47,2003-02,1,1,1.0
+WonderSwan,ws,48,2003-03,2,2,1.0
+WonderSwan,ws,49,2003-04,1,1,1.0
+WonderSwan,ws,50,2003-05,1,1,1.0
+WonderSwan,ws,51,2003-06,0,0,
+WonderSwan,ws,52,2003-07,2,2,1.0
+WonderSwan,ws,53,2003-08,1,1,1.0
+WonderSwan,ws,54,2003-09,0,0,
+WonderSwan,ws,55,2003-10,1,1,1.0
+WonderSwan,ws,56,2003-11,1,1,1.0
+WonderSwan,ws,57,2003-12,0,0,
+WonderSwan,ws,58,2004-01,0,0,
+WonderSwan,ws,59,2004-02,1,1,1.0
+WonderSwan,ws,60,2004-03,0,0,
+WonderSwan,ws,61,2004-04,0,0,
+WonderSwan,ws,62,2004-05,1,1,1.0
+PlayStation 2,ps2,0,2000-03,17,17,1.0
+PlayStation 2,ps2,1,2000-04,7,7,1.0
+PlayStation 2,ps2,2,2000-05,1,1,1.0
+PlayStation 2,ps2,3,2000-06,7,7,1.0
+PlayStation 2,ps2,4,2000-07,3,3,1.0
+PlayStation 2,ps2,5,2000-08,15,15,1.0
+PlayStation 2,ps2,6,2000-09,14,14,1.0
+PlayStation 2,ps2,7,2000-10,4,4,1.0
+PlayStation 2,ps2,8,2000-11,13,13,1.0
+PlayStation 2,ps2,9,2000-12,41,41,1.0
+PlayStation 2,ps2,10,2001-01,8,8,1.0
+PlayStation 2,ps2,11,2001-02,10,10,1.0
+PlayStation 2,ps2,12,2001-03,30,30,1.0
+PlayStation 2,ps2,13,2001-04,12,12,1.0
+PlayStation 2,ps2,14,2001-05,11,11,1.0
+PlayStation 2,ps2,15,2001-06,18,18,1.0
+PlayStation 2,ps2,16,2001-07,16,16,1.0
+PlayStation 2,ps2,17,2001-08,23,23,1.0
+PlayStation 2,ps2,18,2001-09,19,19,1.0
+PlayStation 2,ps2,19,2001-10,14,14,1.0
+PlayStation 2,ps2,20,2001-11,27,27,1.0
+PlayStation 2,ps2,21,2001-12,40,40,1.0
+PlayStation 2,ps2,22,2002-01,23,23,1.0
+PlayStation 2,ps2,23,2002-02,24,24,1.0
+PlayStation 2,ps2,24,2002-03,31,31,1.0
+PlayStation 2,ps2,25,2002-04,22,22,1.0
+PlayStation 2,ps2,26,2002-05,22,22,1.0
+PlayStation 2,ps2,27,2002-06,32,32,1.0
+PlayStation 2,ps2,28,2002-07,33,33,1.0
+PlayStation 2,ps2,29,2002-08,25,25,1.0
+PlayStation 2,ps2,30,2002-09,25,25,1.0
+PlayStation 2,ps2,31,2002-10,24,24,1.0
+PlayStation 2,ps2,32,2002-11,31,31,1.0
+PlayStation 2,ps2,33,2002-12,54,54,1.0
+PlayStation 2,ps2,34,2003-01,19,19,1.0
+PlayStation 2,ps2,35,2003-02,37,37,1.0
+PlayStation 2,ps2,36,2003-03,39,39,1.0
+PlayStation 2,ps2,37,2003-04,36,36,1.0
+PlayStation 2,ps2,38,2003-05,25,25,1.0
+PlayStation 2,ps2,39,2003-06,26,26,1.0
+PlayStation 2,ps2,40,2003-07,43,43,1.0
+PlayStation 2,ps2,41,2003-08,32,32,1.0
+PlayStation 2,ps2,42,2003-09,33,33,1.0
+PlayStation 2,ps2,43,2003-10,38,38,1.0
+PlayStation 2,ps2,44,2003-11,57,57,1.0
+PlayStation 2,ps2,45,2003-12,69,69,1.0
+PlayStation 2,ps2,46,2004-01,28,28,1.0
+PlayStation 2,ps2,47,2004-02,41,41,1.0
+PlayStation 2,ps2,48,2004-03,53,53,1.0
+PlayStation 2,ps2,49,2004-04,32,32,1.0
+PlayStation 2,ps2,50,2004-05,36,36,1.0
+PlayStation 2,ps2,51,2004-06,26,26,1.0
+PlayStation 2,ps2,52,2004-07,44,44,1.0
+PlayStation 2,ps2,53,2004-08,32,32,1.0
+PlayStation 2,ps2,54,2004-09,45,45,1.0
+PlayStation 2,ps2,55,2004-10,41,41,1.0
+PlayStation 2,ps2,56,2004-11,35,35,1.0
+PlayStation 2,ps2,57,2004-12,51,51,1.0
+PlayStation 2,ps2,58,2005-01,31,31,1.0
+PlayStation 2,ps2,59,2005-02,40,40,1.0
+PlayStation 2,ps2,60,2005-03,51,51,1.0
+PlayStation 2,ps2,61,2005-04,35,35,1.0
+PlayStation 2,ps2,62,2005-05,22,22,1.0
+PlayStation 2,ps2,63,2005-06,42,42,1.0
+PlayStation 2,ps2,64,2005-07,49,49,1.0
+PlayStation 2,ps2,65,2005-08,35,35,1.0
+PlayStation 2,ps2,66,2005-09,32,32,1.0
+PlayStation 2,ps2,67,2005-10,33,33,1.0
+PlayStation 2,ps2,68,2005-11,36,36,1.0
+PlayStation 2,ps2,69,2005-12,54,54,1.0
+PlayStation 2,ps2,70,2006-01,24,24,1.0
+PlayStation 2,ps2,71,2006-02,31,31,1.0
+PlayStation 2,ps2,72,2006-03,46,46,1.0
+PlayStation 2,ps2,73,2006-04,31,31,1.0
+PlayStation 2,ps2,74,2006-05,22,22,1.0
+PlayStation 2,ps2,75,2006-06,26,26,1.0
+PlayStation 2,ps2,76,2006-07,30,30,1.0
+PlayStation 2,ps2,77,2006-08,24,24,1.0
+PlayStation 2,ps2,78,2006-09,31,31,1.0
+PlayStation 2,ps2,79,2006-10,21,21,1.0
+PlayStation 2,ps2,80,2006-11,28,28,1.0
+PlayStation 2,ps2,81,2006-12,24,24,1.0
+PlayStation 2,ps2,82,2007-01,18,18,1.0
+PlayStation 2,ps2,83,2007-02,24,24,1.0
+PlayStation 2,ps2,84,2007-03,27,27,1.0
+PlayStation 2,ps2,85,2007-04,21,21,1.0
+PlayStation 2,ps2,86,2007-05,16,16,1.0
+PlayStation 2,ps2,87,2007-06,19,19,1.0
+PlayStation 2,ps2,88,2007-07,15,15,1.0
+PlayStation 2,ps2,89,2007-08,17,17,1.0
+PlayStation 2,ps2,90,2007-09,21,21,1.0
+PlayStation 2,ps2,91,2007-10,24,24,1.0
+PlayStation 2,ps2,92,2007-11,23,23,1.0
+PlayStation 2,ps2,93,2007-12,16,16,1.0
+PlayStation 2,ps2,94,2008-01,11,11,1.0
+PlayStation 2,ps2,95,2008-02,19,19,1.0
+PlayStation 2,ps2,96,2008-03,14,14,1.0
+PlayStation 2,ps2,97,2008-04,8,8,1.0
+PlayStation 2,ps2,98,2008-05,11,11,1.0
+PlayStation 2,ps2,99,2008-06,9,9,1.0
+PlayStation 2,ps2,100,2008-07,12,12,1.0
+PlayStation 2,ps2,101,2008-08,10,10,1.0
+PlayStation 2,ps2,102,2008-09,14,14,1.0
+PlayStation 2,ps2,103,2008-10,16,16,1.0
+PlayStation 2,ps2,104,2008-11,12,12,1.0
+PlayStation 2,ps2,105,2008-12,13,13,1.0
+PlayStation 2,ps2,106,2009-01,7,7,1.0
+PlayStation 2,ps2,107,2009-02,6,6,1.0
+PlayStation 2,ps2,108,2009-03,9,9,1.0
+PlayStation 2,ps2,109,2009-04,11,11,1.0
+PlayStation 2,ps2,110,2009-05,5,5,1.0
+PlayStation 2,ps2,111,2009-06,4,4,1.0
+PlayStation 2,ps2,112,2009-07,7,7,1.0
+PlayStation 2,ps2,113,2009-08,9,9,1.0
+PlayStation 2,ps2,114,2009-09,4,4,1.0
+PlayStation 2,ps2,115,2009-10,10,10,1.0
+PlayStation 2,ps2,116,2009-11,3,3,1.0
+PlayStation 2,ps2,117,2009-12,3,3,1.0
+PlayStation 2,ps2,118,2010-01,1,1,1.0
+PlayStation 2,ps2,119,2010-02,4,4,1.0
+PlayStation 2,ps2,120,2010-03,3,3,1.0
+PlayStation 2,ps2,121,2010-04,7,7,1.0
+PlayStation 2,ps2,122,2010-05,7,7,1.0
+PlayStation 2,ps2,123,2010-06,2,2,1.0
+PlayStation 2,ps2,124,2010-07,3,3,1.0
+PlayStation 2,ps2,125,2010-08,2,2,1.0
+PlayStation 2,ps2,126,2010-09,0,0,
+PlayStation 2,ps2,127,2010-10,2,2,1.0
+PlayStation 2,ps2,128,2010-11,4,4,1.0
+PlayStation 2,ps2,129,2010-12,5,5,1.0
+PlayStation 2,ps2,130,2011-01,0,0,
+PlayStation 2,ps2,131,2011-02,1,1,1.0
+PlayStation 2,ps2,132,2011-03,1,1,1.0
+PlayStation 2,ps2,133,2011-04,0,0,
+PlayStation 2,ps2,134,2011-05,0,0,
+PlayStation 2,ps2,135,2011-06,2,2,1.0
+PlayStation 2,ps2,136,2011-07,0,0,
+PlayStation 2,ps2,137,2011-08,0,0,
+PlayStation 2,ps2,138,2011-09,0,0,
+PlayStation 2,ps2,139,2011-10,0,0,
+PlayStation 2,ps2,140,2011-11,2,2,1.0
+PlayStation 2,ps2,141,2011-12,0,0,
+PlayStation 2,ps2,142,2012-01,0,0,
+PlayStation 2,ps2,143,2012-02,0,0,
+PlayStation 2,ps2,144,2012-03,0,0,
+PlayStation 2,ps2,145,2012-04,0,0,
+PlayStation 2,ps2,146,2012-05,0,0,
+PlayStation 2,ps2,147,2012-06,0,0,
+PlayStation 2,ps2,148,2012-07,0,0,
+PlayStation 2,ps2,149,2012-08,0,0,
+PlayStation 2,ps2,150,2012-09,0,0,
+PlayStation 2,ps2,151,2012-10,0,0,
+PlayStation 2,ps2,152,2012-11,0,0,
+PlayStation 2,ps2,153,2012-12,0,0,
+PlayStation 2,ps2,154,2013-01,0,0,
+PlayStation 2,ps2,155,2013-02,0,0,
+PlayStation 2,ps2,156,2013-03,1,1,1.0
+Game Boy Advance,gba,0,2001-03,30,30,1.0
+Game Boy Advance,gba,1,2001-04,5,5,1.0
+Game Boy Advance,gba,2,2001-05,1,1,1.0
+Game Boy Advance,gba,3,2001-06,4,4,1.0
+Game Boy Advance,gba,4,2001-07,14,14,1.0
+Game Boy Advance,gba,5,2001-08,11,11,1.0
+Game Boy Advance,gba,6,2001-09,11,11,1.0
+Game Boy Advance,gba,7,2001-10,12,12,1.0
+Game Boy Advance,gba,8,2001-11,9,9,1.0
+Game Boy Advance,gba,9,2001-12,35,35,1.0
+Game Boy Advance,gba,10,2002-01,10,10,1.0
+Game Boy Advance,gba,11,2002-02,9,9,1.0
+Game Boy Advance,gba,12,2002-03,21,21,1.0
+Game Boy Advance,gba,13,2002-04,21,21,1.0
+Game Boy Advance,gba,14,2002-05,6,6,1.0
+Game Boy Advance,gba,15,2002-06,11,11,1.0
+Game Boy Advance,gba,16,2002-07,31,31,1.0
+Game Boy Advance,gba,17,2002-08,13,13,1.0
+Game Boy Advance,gba,18,2002-09,13,13,1.0
+Game Boy Advance,gba,19,2002-10,16,16,1.0
+Game Boy Advance,gba,20,2002-11,17,17,1.0
+Game Boy Advance,gba,21,2002-12,41,41,1.0
+Game Boy Advance,gba,22,2003-01,10,10,1.0
+Game Boy Advance,gba,23,2003-02,9,9,1.0
+Game Boy Advance,gba,24,2003-03,16,16,1.0
+Game Boy Advance,gba,25,2003-04,15,15,1.0
+Game Boy Advance,gba,26,2003-05,5,5,1.0
+Game Boy Advance,gba,27,2003-06,5,5,1.0
+Game Boy Advance,gba,28,2003-07,19,19,1.0
+Game Boy Advance,gba,29,2003-08,12,12,1.0
+Game Boy Advance,gba,30,2003-09,13,13,1.0
+Game Boy Advance,gba,31,2003-10,8,8,1.0
+Game Boy Advance,gba,32,2003-11,12,12,1.0
+Game Boy Advance,gba,33,2003-12,31,31,1.0
+Game Boy Advance,gba,34,2004-01,5,5,1.0
+Game Boy Advance,gba,35,2004-02,13,13,1.0
+Game Boy Advance,gba,36,2004-03,19,19,1.0
+Game Boy Advance,gba,37,2004-04,16,16,1.0
+Game Boy Advance,gba,38,2004-05,13,13,1.0
+Game Boy Advance,gba,39,2004-06,8,8,1.0
+Game Boy Advance,gba,40,2004-07,22,22,1.0
+Game Boy Advance,gba,41,2004-08,22,22,1.0
+Game Boy Advance,gba,42,2004-09,6,6,1.0
+Game Boy Advance,gba,43,2004-10,9,9,1.0
+Game Boy Advance,gba,44,2004-11,16,16,1.0
+Game Boy Advance,gba,45,2004-12,36,36,1.0
+Game Boy Advance,gba,46,2005-01,9,9,1.0
+Game Boy Advance,gba,47,2005-02,4,4,1.0
+Game Boy Advance,gba,48,2005-03,6,6,1.0
+Game Boy Advance,gba,49,2005-04,7,7,1.0
+Game Boy Advance,gba,50,2005-05,4,4,1.0
+Game Boy Advance,gba,51,2005-06,5,5,1.0
+Game Boy Advance,gba,52,2005-07,11,11,1.0
+Game Boy Advance,gba,53,2005-08,5,5,1.0
+Game Boy Advance,gba,54,2005-09,7,7,1.0
+Game Boy Advance,gba,55,2005-10,5,5,1.0
+Game Boy Advance,gba,56,2005-11,5,5,1.0
+Game Boy Advance,gba,57,2005-12,13,13,1.0
+Game Boy Advance,gba,58,2006-01,5,5,1.0
+Game Boy Advance,gba,59,2006-02,4,4,1.0
+Game Boy Advance,gba,60,2006-03,6,6,1.0
+Game Boy Advance,gba,61,2006-04,3,3,1.0
+Game Boy Advance,gba,62,2006-05,2,2,1.0
+Game Boy Advance,gba,63,2006-06,0,0,
+Game Boy Advance,gba,64,2006-07,8,8,1.0
+Game Boy Advance,gba,65,2006-08,1,1,1.0
+Game Boy Advance,gba,66,2006-09,0,0,
+Game Boy Advance,gba,67,2006-10,1,1,1.0
+Game Boy Advance,gba,68,2006-11,1,1,1.0
+GameCube,gc,0,2001-09,3,3,1.0
+GameCube,gc,1,2001-10,1,1,1.0
+GameCube,gc,2,2001-11,2,2,1.0
+GameCube,gc,3,2001-12,4,4,1.0
+GameCube,gc,4,2002-01,1,1,1.0
+GameCube,gc,5,2002-02,2,2,1.0
+GameCube,gc,6,2002-03,9,9,1.0
+GameCube,gc,7,2002-04,2,2,1.0
+GameCube,gc,8,2002-05,2,2,1.0
+GameCube,gc,9,2002-06,1,1,1.0
+GameCube,gc,10,2002-07,7,7,1.0
+GameCube,gc,11,2002-08,5,5,1.0
+GameCube,gc,12,2002-09,11,11,1.0
+GameCube,gc,13,2002-10,3,3,1.0
+GameCube,gc,14,2002-11,8,8,1.0
+GameCube,gc,15,2002-12,17,17,1.0
+GameCube,gc,16,2003-01,5,5,1.0
+GameCube,gc,17,2003-02,6,6,1.0
+GameCube,gc,18,2003-03,10,10,1.0
+GameCube,gc,19,2003-04,4,4,1.0
+GameCube,gc,20,2003-05,4,4,1.0
+GameCube,gc,21,2003-06,8,8,1.0
+GameCube,gc,22,2003-07,14,14,1.0
+GameCube,gc,23,2003-08,5,5,1.0
+GameCube,gc,24,2003-09,5,5,1.0
+GameCube,gc,25,2003-10,4,4,1.0
+GameCube,gc,26,2003-11,12,12,1.0
+GameCube,gc,27,2003-12,20,20,1.0
+GameCube,gc,28,2004-01,5,5,1.0
+GameCube,gc,29,2004-02,2,2,1.0
+GameCube,gc,30,2004-03,7,7,1.0
+GameCube,gc,31,2004-04,1,1,1.0
+GameCube,gc,32,2004-05,1,1,1.0
+GameCube,gc,33,2004-06,2,2,1.0
+GameCube,gc,34,2004-07,9,9,1.0
+GameCube,gc,35,2004-08,2,2,1.0
+GameCube,gc,36,2004-09,1,1,1.0
+GameCube,gc,37,2004-10,2,2,1.0
+GameCube,gc,38,2004-11,2,2,1.0
+GameCube,gc,39,2004-12,9,9,1.0
+GameCube,gc,40,2005-01,6,6,1.0
+GameCube,gc,41,2005-02,2,2,1.0
+GameCube,gc,42,2005-03,6,6,1.0
+GameCube,gc,43,2005-04,2,2,1.0
+GameCube,gc,44,2005-05,2,2,1.0
+GameCube,gc,45,2005-06,2,2,1.0
+GameCube,gc,46,2005-07,4,4,1.0
+GameCube,gc,47,2005-08,4,4,1.0
+GameCube,gc,48,2005-09,2,2,1.0
+GameCube,gc,49,2005-10,2,2,1.0
+GameCube,gc,50,2005-11,6,6,1.0
+GameCube,gc,51,2005-12,9,9,1.0
+GameCube,gc,52,2006-01,1,1,1.0
+GameCube,gc,53,2006-02,3,3,1.0
+GameCube,gc,54,2006-03,0,0,
+GameCube,gc,55,2006-04,1,1,1.0
+GameCube,gc,56,2006-05,2,2,1.0
+GameCube,gc,57,2006-06,1,1,1.0
+GameCube,gc,58,2006-07,2,2,1.0
+GameCube,gc,59,2006-08,0,0,
+GameCube,gc,60,2006-09,0,0,
+GameCube,gc,61,2006-10,0,0,
+GameCube,gc,62,2006-11,0,0,
+GameCube,gc,63,2006-12,1,1,1.0
+Xbox,xbox,0,2002-02,14,14,1.0
+Xbox,xbox,1,2002-03,4,4,1.0
+Xbox,xbox,2,2002-04,5,5,1.0
+Xbox,xbox,3,2002-05,5,5,1.0
+Xbox,xbox,4,2002-06,8,8,1.0
+Xbox,xbox,5,2002-07,5,5,1.0
+Xbox,xbox,6,2002-08,3,3,1.0
+Xbox,xbox,7,2002-09,6,6,1.0
+Xbox,xbox,8,2002-10,4,4,1.0
+Xbox,xbox,9,2002-11,4,4,1.0
+Xbox,xbox,10,2002-12,11,11,1.0
+Xbox,xbox,11,2003-01,8,8,1.0
+Xbox,xbox,12,2003-02,3,3,1.0
+Xbox,xbox,13,2003-03,4,4,1.0
+Xbox,xbox,14,2003-04,3,3,1.0
+Xbox,xbox,15,2003-05,3,3,1.0
+Xbox,xbox,16,2003-06,4,4,1.0
+Xbox,xbox,17,2003-07,4,4,1.0
+Xbox,xbox,18,2003-08,4,4,1.0
+Xbox,xbox,19,2003-09,4,4,1.0
+Xbox,xbox,20,2003-10,6,6,1.0
+Xbox,xbox,21,2003-11,4,4,1.0
+Xbox,xbox,22,2003-12,8,8,1.0
+Xbox,xbox,23,2004-01,6,6,1.0
+Xbox,xbox,24,2004-02,3,3,1.0
+Xbox,xbox,25,2004-03,5,5,1.0
+Xbox,xbox,26,2004-04,5,5,1.0
+Xbox,xbox,27,2004-05,5,5,1.0
+Xbox,xbox,28,2004-06,3,3,1.0
+Xbox,xbox,29,2004-07,8,8,1.0
+Xbox,xbox,30,2004-08,1,1,1.0
+Xbox,xbox,31,2004-09,4,4,1.0
+Xbox,xbox,32,2004-10,6,6,1.0
+Xbox,xbox,33,2004-11,4,4,1.0
+Xbox,xbox,34,2004-12,7,7,1.0
+Xbox,xbox,35,2005-01,7,7,1.0
+Xbox,xbox,36,2005-02,2,2,1.0
+Xbox,xbox,37,2005-03,5,5,1.0
+Xbox,xbox,38,2005-04,2,2,1.0
+Xbox,xbox,39,2005-05,2,2,1.0
+Xbox,xbox,40,2005-06,4,4,1.0
+Xbox,xbox,41,2005-07,3,3,1.0
+Xbox,xbox,42,2005-08,5,5,1.0
+Xbox,xbox,43,2005-09,3,3,1.0
+Xbox,xbox,44,2005-10,3,3,1.0
+Xbox,xbox,45,2005-11,2,2,1.0
+Xbox,xbox,46,2005-12,1,1,1.0
+Xbox,xbox,47,2006-01,0,0,
+Xbox,xbox,48,2006-02,1,1,1.0
+Xbox,xbox,49,2006-03,1,1,1.0
+Nintendo DS,ds,0,2004-12,14,14,1.0
+Nintendo DS,ds,1,2005-01,2,2,1.0
+Nintendo DS,ds,2,2005-02,2,2,1.0
+Nintendo DS,ds,3,2005-03,8,8,1.0
+Nintendo DS,ds,4,2005-04,8,8,1.0
+Nintendo DS,ds,5,2005-05,3,3,1.0
+Nintendo DS,ds,6,2005-06,11,11,1.0
+Nintendo DS,ds,7,2005-07,8,8,1.0
+Nintendo DS,ds,8,2005-08,9,9,1.0
+Nintendo DS,ds,9,2005-09,6,6,1.0
+Nintendo DS,ds,10,2005-10,8,8,1.0
+Nintendo DS,ds,11,2005-11,19,19,1.0
+Nintendo DS,ds,12,2005-12,28,28,1.0
+Nintendo DS,ds,13,2006-01,10,10,1.0
+Nintendo DS,ds,14,2006-02,10,10,1.0
+Nintendo DS,ds,15,2006-03,27,27,1.0
+Nintendo DS,ds,16,2006-04,20,20,1.0
+Nintendo DS,ds,17,2006-05,8,8,1.0
+Nintendo DS,ds,18,2006-06,12,12,1.0
+Nintendo DS,ds,19,2006-07,21,21,1.0
+Nintendo DS,ds,20,2006-08,19,19,1.0
+Nintendo DS,ds,21,2006-09,21,21,1.0
+Nintendo DS,ds,22,2006-10,16,16,1.0
+Nintendo DS,ds,23,2006-11,26,26,1.0
+Nintendo DS,ds,24,2006-12,49,49,1.0
+Nintendo DS,ds,25,2007-01,9,9,1.0
+Nintendo DS,ds,26,2007-02,16,16,1.0
+Nintendo DS,ds,27,2007-03,56,56,1.0
+Nintendo DS,ds,28,2007-04,37,37,1.0
+Nintendo DS,ds,29,2007-05,24,24,1.0
+Nintendo DS,ds,30,2007-06,31,31,1.0
+Nintendo DS,ds,31,2007-07,47,47,1.0
+Nintendo DS,ds,32,2007-08,42,42,1.0
+Nintendo DS,ds,33,2007-09,27,27,1.0
+Nintendo DS,ds,34,2007-10,41,41,1.0
+Nintendo DS,ds,35,2007-11,48,48,1.0
+Nintendo DS,ds,36,2007-12,48,48,1.0
+Nintendo DS,ds,37,2008-01,35,35,1.0
+Nintendo DS,ds,38,2008-02,26,26,1.0
+Nintendo DS,ds,39,2008-03,48,48,1.0
+Nintendo DS,ds,40,2008-04,38,38,1.0
+Nintendo DS,ds,41,2008-05,29,29,1.0
+Nintendo DS,ds,42,2008-06,33,33,1.0
+Nintendo DS,ds,43,2008-07,56,56,1.0
+Nintendo DS,ds,44,2008-08,32,32,1.0
+Nintendo DS,ds,45,2008-09,26,26,1.0
+Nintendo DS,ds,46,2008-10,28,28,1.0
+Nintendo DS,ds,47,2008-11,37,37,1.0
+Nintendo DS,ds,48,2008-12,54,54,1.0
+Nintendo DS,ds,49,2009-01,17,17,1.0
+Nintendo DS,ds,50,2009-02,26,26,1.0
+Nintendo DS,ds,51,2009-03,44,44,1.0
+Nintendo DS,ds,52,2009-04,27,27,1.0
+Nintendo DS,ds,53,2009-05,18,18,1.0
+Nintendo DS,ds,54,2009-06,21,21,1.0
+Nintendo DS,ds,55,2009-07,20,20,1.0
+Nintendo DS,ds,56,2009-08,21,21,1.0
+Nintendo DS,ds,57,2009-09,14,14,1.0
+Nintendo DS,ds,58,2009-10,23,23,1.0
+Nintendo DS,ds,59,2009-11,27,27,1.0
+Nintendo DS,ds,60,2009-12,41,41,1.0
+Nintendo DS,ds,61,2010-01,10,10,1.0
+Nintendo DS,ds,62,2010-02,27,27,1.0
+Nintendo DS,ds,63,2010-03,20,20,1.0
+Nintendo DS,ds,64,2010-04,18,18,1.0
+Nintendo DS,ds,65,2010-05,12,12,1.0
+Nintendo DS,ds,66,2010-06,13,13,1.0
+Nintendo DS,ds,67,2010-07,21,21,1.0
+Nintendo DS,ds,68,2010-08,10,10,1.0
+Nintendo DS,ds,69,2010-09,13,13,1.0
+Nintendo DS,ds,70,2010-10,13,13,1.0
+Nintendo DS,ds,71,2010-11,18,18,1.0
+Nintendo DS,ds,72,2010-12,21,21,1.0
+Nintendo DS,ds,73,2011-01,7,7,1.0
+Nintendo DS,ds,74,2011-02,7,7,1.0
+Nintendo DS,ds,75,2011-03,10,10,1.0
+Nintendo DS,ds,76,2011-04,10,10,1.0
+Nintendo DS,ds,77,2011-05,3,3,1.0
+Nintendo DS,ds,78,2011-06,8,8,1.0
+Nintendo DS,ds,79,2011-07,7,7,1.0
+Nintendo DS,ds,80,2011-08,7,7,1.0
+Nintendo DS,ds,81,2011-09,1,1,1.0
+Nintendo DS,ds,82,2011-10,2,2,1.0
+Nintendo DS,ds,83,2011-11,8,8,1.0
+Nintendo DS,ds,84,2011-12,8,8,1.0
+Nintendo DS,ds,85,2012-01,1,1,1.0
+Nintendo DS,ds,86,2012-02,4,4,1.0
+Nintendo DS,ds,87,2012-03,2,2,1.0
+Nintendo DS,ds,88,2012-04,3,3,1.0
+Nintendo DS,ds,89,2012-05,0,0,
+Nintendo DS,ds,90,2012-06,3,3,1.0
+Nintendo DS,ds,91,2012-07,1,1,1.0
+Nintendo DS,ds,92,2012-08,3,3,1.0
+Nintendo DS,ds,93,2012-09,2,2,1.0
+PSP,psp,0,2004-12,18,9,0.5
+PSP,psp,1,2005-01,3,1,0.333
+PSP,psp,2,2005-02,4,2,0.5
+PSP,psp,3,2005-03,4,,0.0
+PSP,psp,4,2005-04,7,3,0.429
+PSP,psp,5,2005-05,2,1,0.5
+PSP,psp,6,2005-06,7,1,0.143
+PSP,psp,7,2005-07,11,3,0.273
+PSP,psp,8,2005-08,7,2,0.286
+PSP,psp,9,2005-09,14,3,0.214
+PSP,psp,10,2005-10,4,2,0.5
+PSP,psp,11,2005-11,8,3,0.375
+PSP,psp,12,2005-12,23,12,0.522
+PSP,psp,13,2006-01,8,2,0.25
+PSP,psp,14,2006-02,20,3,0.15
+PSP,psp,15,2006-03,29,9,0.31
+PSP,psp,16,2006-04,15,2,0.133
+PSP,psp,17,2006-05,7,,0.0
+PSP,psp,18,2006-06,14,2,0.143
+PSP,psp,19,2006-07,16,1,0.063
+PSP,psp,20,2006-08,20,2,0.1
+PSP,psp,21,2006-09,20,5,0.25
+PSP,psp,22,2006-10,12,3,0.25
+PSP,psp,23,2006-11,10,2,0.2
+PSP,psp,24,2006-12,17,5,0.294
+PSP,psp,25,2007-01,12,,0.0
+PSP,psp,26,2007-02,13,4,0.308
+PSP,psp,27,2007-03,3,1,0.333
+PSP,psp,28,2007-04,6,2,0.333
+PSP,psp,29,2007-05,5,2,0.4
+PSP,psp,30,2007-06,10,5,0.5
+PSP,psp,31,2007-07,6,2,0.333
+PSP,psp,32,2007-08,10,4,0.4
+PSP,psp,33,2007-09,11,4,0.364
+PSP,psp,34,2007-10,4,1,0.25
+PSP,psp,35,2007-11,7,2,0.286
+PSP,psp,36,2007-12,15,6,0.4
+PSP,psp,37,2008-01,5,3,0.6
+PSP,psp,38,2008-02,6,3,0.5
+PSP,psp,39,2008-03,8,3,0.375
+PSP,psp,40,2008-04,6,1,0.167
+PSP,psp,41,2008-05,10,4,0.4
+PSP,psp,42,2008-06,7,4,0.571
+PSP,psp,43,2008-07,13,4,0.308
+PSP,psp,44,2008-08,5,4,0.8
+PSP,psp,45,2008-09,7,3,0.429
+PSP,psp,46,2008-10,12,5,0.417
+PSP,psp,47,2008-11,14,6,0.429
+PSP,psp,48,2008-12,13,6,0.462
+PSP,psp,49,2009-01,6,2,0.333
+PSP,psp,50,2009-02,16,5,0.313
+PSP,psp,51,2009-03,19,9,0.474
+PSP,psp,52,2009-04,16,7,0.438
+PSP,psp,53,2009-05,10,3,0.3
+PSP,psp,54,2009-06,14,5,0.357
+PSP,psp,55,2009-07,13,4,0.308
+PSP,psp,56,2009-08,12,1,0.083
+PSP,psp,57,2009-09,14,7,0.5
+PSP,psp,58,2009-10,23,6,0.261
+PSP,psp,59,2009-11,31,11,0.355
+PSP,psp,60,2009-12,23,11,0.478
+PSP,psp,61,2010-01,19,5,0.263
+PSP,psp,62,2010-02,30,12,0.4
+PSP,psp,63,2010-03,25,11,0.44
+PSP,psp,64,2010-04,29,9,0.31
+PSP,psp,65,2010-05,16,2,0.125
+PSP,psp,66,2010-06,20,4,0.2
+PSP,psp,67,2010-07,31,11,0.355
+PSP,psp,68,2010-08,24,7,0.292
+PSP,psp,69,2010-09,30,5,0.167
+PSP,psp,70,2010-10,23,10,0.435
+PSP,psp,71,2010-11,18,6,0.333
+PSP,psp,72,2010-12,19,5,0.263
+PSP,psp,73,2011-01,13,1,0.077
+PSP,psp,74,2011-02,19,5,0.263
+PSP,psp,75,2011-03,16,4,0.25
+PSP,psp,76,2011-04,18,7,0.389
+PSP,psp,77,2011-05,9,3,0.333
+PSP,psp,78,2011-06,12,3,0.25
+PSP,psp,79,2011-07,20,2,0.1
+PSP,psp,80,2011-08,20,5,0.25
+PSP,psp,81,2011-09,18,5,0.278
+PSP,psp,82,2011-10,25,7,0.28
+PSP,psp,83,2011-11,24,4,0.167
+PSP,psp,84,2011-12,20,2,0.1
+PSP,psp,85,2012-01,11,,0.0
+PSP,psp,86,2012-02,20,3,0.15
+PSP,psp,87,2012-03,20,2,0.1
+PSP,psp,88,2012-04,17,1,0.059
+PSP,psp,89,2012-05,17,1,0.059
+PSP,psp,90,2012-06,11,2,0.182
+PSP,psp,91,2012-07,19,1,0.053
+PSP,psp,92,2012-08,21,1,0.048
+PSP,psp,93,2012-09,14,,0.0
+PSP,psp,94,2012-10,15,1,0.067
+PSP,psp,95,2012-11,13,1,0.077
+PSP,psp,96,2012-12,14,1,0.071
+PSP,psp,97,2013-01,12,2,0.167
+PSP,psp,98,2013-02,12,1,0.083
+PSP,psp,99,2013-03,19,1,0.053
+PSP,psp,100,2013-04,9,1,0.111
+PSP,psp,101,2013-05,6,,0.0
+PSP,psp,102,2013-06,9,,0.0
+PSP,psp,103,2013-07,6,,0.0
+PSP,psp,104,2013-08,5,1,0.2
+PSP,psp,105,2013-09,8,,0.0
+PSP,psp,106,2013-10,9,,0.0
+PSP,psp,107,2013-11,9,,0.0
+PSP,psp,108,2013-12,4,,0.0
+PSP,psp,109,2014-01,8,,0.0
+PSP,psp,110,2014-02,8,,0.0
+PSP,psp,111,2014-03,4,,0.0
+PSP,psp,112,2014-04,5,,0.0
+PSP,psp,113,2014-05,3,,0.0
+PSP,psp,114,2014-06,1,,0.0
+PSP,psp,115,2014-07,3,,0.0
+PSP,psp,116,2014-08,2,,0.0
+PSP,psp,117,2014-09,3,,0.0
+PSP,psp,118,2014-10,5,,0.0
+PSP,psp,119,2014-11,2,,0.0
+PSP,psp,120,2014-12,3,,0.0
+PSP,psp,121,2015-01,3,,0.0
+PSP,psp,122,2015-02,0,,
+PSP,psp,123,2015-03,3,,0.0
+PSP,psp,124,2015-04,2,,0.0
+PSP,psp,125,2015-05,0,,
+PSP,psp,126,2015-06,0,,
+PSP,psp,127,2015-07,0,,
+PSP,psp,128,2015-08,0,,
+PSP,psp,129,2015-09,0,,
+PSP,psp,130,2015-10,1,,0.0
+PSP,psp,131,2015-11,0,,
+PSP,psp,132,2015-12,2,,0.0
+PSP,psp,133,2016-01,0,,
+PSP,psp,134,2016-02,1,,0.0
+PSP,psp,135,2016-03,0,,
+PSP,psp,136,2016-04,1,,0.0
+Xbox 360,xbox360,0,2005-12,10,10,1.0
+Xbox 360,xbox360,1,2006-01,4,4,1.0
+Xbox 360,xbox360,2,2006-02,2,2,1.0
+Xbox 360,xbox360,3,2006-03,8,8,1.0
+Xbox 360,xbox360,4,2006-04,5,5,1.0
+Xbox 360,xbox360,5,2006-05,1,1,1.0
+Xbox 360,xbox360,6,2006-06,4,4,1.0
+Xbox 360,xbox360,7,2006-07,5,5,1.0
+Xbox 360,xbox360,8,2006-08,4,4,1.0
+Xbox 360,xbox360,9,2006-09,5,5,1.0
+Xbox 360,xbox360,10,2006-10,4,4,1.0
+Xbox 360,xbox360,11,2006-11,6,6,1.0
+Xbox 360,xbox360,12,2006-12,12,12,1.0
+Xbox 360,xbox360,13,2007-01,6,6,1.0
+Xbox 360,xbox360,14,2007-02,4,4,1.0
+Xbox 360,xbox360,15,2007-03,3,3,1.0
+Xbox 360,xbox360,16,2007-04,2,2,1.0
+Xbox 360,xbox360,17,2007-05,2,2,1.0
+Xbox 360,xbox360,18,2007-06,4,4,1.0
+Xbox 360,xbox360,19,2007-07,2,2,1.0
+Xbox 360,xbox360,20,2007-08,1,1,1.0
+Xbox 360,xbox360,21,2007-09,4,4,1.0
+Xbox 360,xbox360,22,2007-10,5,5,1.0
+Xbox 360,xbox360,23,2007-11,15,15,1.0
+Xbox 360,xbox360,24,2007-12,12,12,1.0
+Xbox 360,xbox360,25,2008-01,3,3,1.0
+Xbox 360,xbox360,26,2008-02,7,7,1.0
+Xbox 360,xbox360,27,2008-03,9,9,1.0
+Xbox 360,xbox360,28,2008-04,3,3,1.0
+Xbox 360,xbox360,29,2008-05,6,6,1.0
+Xbox 360,xbox360,30,2008-06,6,6,1.0
+Xbox 360,xbox360,31,2008-07,6,6,1.0
+Xbox 360,xbox360,32,2008-08,4,4,1.0
+Xbox 360,xbox360,33,2008-09,8,8,1.0
+Xbox 360,xbox360,34,2008-10,7,7,1.0
+Xbox 360,xbox360,35,2008-11,8,8,1.0
+Xbox 360,xbox360,36,2008-12,11,11,1.0
+Xbox 360,xbox360,37,2009-01,5,5,1.0
+Xbox 360,xbox360,38,2009-02,11,11,1.0
+Xbox 360,xbox360,39,2009-03,3,3,1.0
+Xbox 360,xbox360,40,2009-04,7,7,1.0
+Xbox 360,xbox360,41,2009-05,3,3,1.0
+Xbox 360,xbox360,42,2009-06,6,6,1.0
+Xbox 360,xbox360,43,2009-07,7,7,1.0
+Xbox 360,xbox360,44,2009-08,6,6,1.0
+Xbox 360,xbox360,45,2009-09,4,4,1.0
+Xbox 360,xbox360,46,2009-10,10,10,1.0
+Xbox 360,xbox360,47,2009-11,10,10,1.0
+Xbox 360,xbox360,48,2009-12,4,4,1.0
+Xbox 360,xbox360,49,2010-01,7,7,1.0
+Xbox 360,xbox360,50,2010-02,6,6,1.0
+Xbox 360,xbox360,51,2010-03,10,10,1.0
+Xbox 360,xbox360,52,2010-04,7,7,1.0
+Xbox 360,xbox360,53,2010-05,7,7,1.0
+Xbox 360,xbox360,54,2010-06,8,8,1.0
+Xbox 360,xbox360,55,2010-07,10,10,1.0
+Xbox 360,xbox360,56,2010-08,2,2,1.0
+Xbox 360,xbox360,57,2010-09,9,9,1.0
+Xbox 360,xbox360,58,2010-10,16,16,1.0
+Xbox 360,xbox360,59,2010-11,14,14,1.0
+Xbox 360,xbox360,60,2010-12,10,10,1.0
+Xbox 360,xbox360,61,2011-01,11,11,1.0
+Xbox 360,xbox360,62,2011-02,11,11,1.0
+Xbox 360,xbox360,63,2011-03,2,2,1.0
+Xbox 360,xbox360,64,2011-04,12,12,1.0
+Xbox 360,xbox360,65,2011-05,6,6,1.0
+Xbox 360,xbox360,66,2011-06,8,8,1.0
+Xbox 360,xbox360,67,2011-07,7,7,1.0
+Xbox 360,xbox360,68,2011-08,3,3,1.0
+Xbox 360,xbox360,69,2011-09,8,8,1.0
+Xbox 360,xbox360,70,2011-10,19,19,1.0
+Xbox 360,xbox360,71,2011-11,14,14,1.0
+Xbox 360,xbox360,72,2011-12,14,14,1.0
+Xbox 360,xbox360,73,2012-01,6,6,1.0
+Xbox 360,xbox360,74,2012-02,10,10,1.0
+Xbox 360,xbox360,75,2012-03,12,12,1.0
+Xbox 360,xbox360,76,2012-04,5,5,1.0
+Xbox 360,xbox360,77,2012-05,3,3,1.0
+Xbox 360,xbox360,78,2012-06,5,5,1.0
+Xbox 360,xbox360,79,2012-07,3,3,1.0
+Xbox 360,xbox360,80,2012-08,5,5,1.0
+Xbox 360,xbox360,81,2012-09,8,8,1.0
+Xbox 360,xbox360,82,2012-10,12,12,1.0
+Xbox 360,xbox360,83,2012-11,11,11,1.0
+Xbox 360,xbox360,84,2012-12,2,2,1.0
+Xbox 360,xbox360,85,2013-01,4,4,1.0
+Xbox 360,xbox360,86,2013-02,3,3,1.0
+Xbox 360,xbox360,87,2013-03,9,9,1.0
+Xbox 360,xbox360,88,2013-04,8,8,1.0
+Xbox 360,xbox360,89,2013-05,4,4,1.0
+Xbox 360,xbox360,90,2013-06,4,4,1.0
+Xbox 360,xbox360,91,2013-07,4,4,1.0
+Xbox 360,xbox360,92,2013-08,5,5,1.0
+Xbox 360,xbox360,93,2013-09,7,7,1.0
+Xbox 360,xbox360,94,2013-10,4,4,1.0
+Xbox 360,xbox360,95,2013-11,7,7,1.0
+Xbox 360,xbox360,96,2013-12,4,4,1.0
+Xbox 360,xbox360,97,2014-01,2,2,1.0
+Xbox 360,xbox360,98,2014-02,3,3,1.0
+Xbox 360,xbox360,99,2014-03,4,4,1.0
+Xbox 360,xbox360,100,2014-04,5,5,1.0
+Xbox 360,xbox360,101,2014-05,2,2,1.0
+Xbox 360,xbox360,102,2014-06,4,4,1.0
+Xbox 360,xbox360,103,2014-07,1,1,1.0
+Xbox 360,xbox360,104,2014-08,3,3,1.0
+Xbox 360,xbox360,105,2014-09,4,4,1.0
+Xbox 360,xbox360,106,2014-10,5,5,1.0
+Xbox 360,xbox360,107,2014-11,6,6,1.0
+Xbox 360,xbox360,108,2014-12,2,2,1.0
+Xbox 360,xbox360,109,2015-01,0,,
+Xbox 360,xbox360,110,2015-02,3,3,1.0
+Xbox 360,xbox360,111,2015-03,3,3,1.0
+Xbox 360,xbox360,112,2015-04,3,3,1.0
+Xbox 360,xbox360,113,2015-05,0,,
+Xbox 360,xbox360,114,2015-06,2,2,1.0
+Xbox 360,xbox360,115,2015-07,1,1,1.0
+Xbox 360,xbox360,116,2015-08,0,,
+Xbox 360,xbox360,117,2015-09,1,1,1.0
+Xbox 360,xbox360,118,2015-10,2,2,1.0
+Xbox 360,xbox360,119,2015-11,3,3,1.0
+Xbox 360,xbox360,120,2015-12,0,,
+Xbox 360,xbox360,121,2016-01,1,1,1.0
+Xbox 360,xbox360,122,2016-02,0,,
+Xbox 360,xbox360,123,2016-03,0,,
+Xbox 360,xbox360,124,2016-04,1,1,1.0
+Xbox 360,xbox360,125,2016-05,0,,
+Xbox 360,xbox360,126,2016-06,1,1,1.0
+Xbox 360,xbox360,127,2016-07,0,,
+Xbox 360,xbox360,128,2016-08,0,,
+Xbox 360,xbox360,129,2016-09,1,1,1.0
+Xbox 360,xbox360,130,2016-10,1,1,1.0
+Xbox 360,xbox360,131,2016-11,1,1,1.0
+Xbox 360,xbox360,132,2016-12,0,,
+Xbox 360,xbox360,133,2017-01,0,,
+Xbox 360,xbox360,134,2017-02,0,,
+Xbox 360,xbox360,135,2017-03,0,,
+Xbox 360,xbox360,136,2017-04,0,,
+Xbox 360,xbox360,137,2017-05,0,,
+Xbox 360,xbox360,138,2017-06,0,,
+Xbox 360,xbox360,139,2017-07,0,,
+Xbox 360,xbox360,140,2017-08,0,,
+Xbox 360,xbox360,141,2017-09,2,2,1.0
+Xbox 360,xbox360,142,2017-10,0,,
+Xbox 360,xbox360,143,2017-11,0,,
+Xbox 360,xbox360,144,2017-12,0,,
+Xbox 360,xbox360,145,2018-01,0,,
+Xbox 360,xbox360,146,2018-02,0,,
+Xbox 360,xbox360,147,2018-03,0,,
+Xbox 360,xbox360,148,2018-04,0,,
+Xbox 360,xbox360,149,2018-05,0,,
+Xbox 360,xbox360,150,2018-06,0,,
+Xbox 360,xbox360,151,2018-07,0,,
+Xbox 360,xbox360,152,2018-08,0,,
+Xbox 360,xbox360,153,2018-09,2,2,1.0
+Xbox 360,xbox360,154,2018-10,0,,
+Xbox 360,xbox360,155,2018-11,0,,
+Xbox 360,xbox360,156,2018-12,0,,
+Xbox 360,xbox360,157,2019-01,0,,
+Xbox 360,xbox360,158,2019-02,0,,
+Xbox 360,xbox360,159,2019-03,0,,
+Xbox 360,xbox360,160,2019-04,0,,
+Xbox 360,xbox360,161,2019-05,0,,
+Xbox 360,xbox360,162,2019-06,0,,
+Xbox 360,xbox360,163,2019-07,0,,
+Xbox 360,xbox360,164,2019-08,0,,
+Xbox 360,xbox360,165,2019-09,0,,
+Xbox 360,xbox360,166,2019-10,0,,
+Xbox 360,xbox360,167,2019-11,2,2,1.0
+Xbox 360,xbox360,168,2019-12,0,,
+Xbox 360,xbox360,169,2020-01,0,,
+Xbox 360,xbox360,170,2020-02,0,,
+Xbox 360,xbox360,171,2020-03,0,,
+Xbox 360,xbox360,172,2020-04,0,,
+Xbox 360,xbox360,173,2020-05,0,,
+Xbox 360,xbox360,174,2020-06,0,,
+Xbox 360,xbox360,175,2020-07,0,,
+Xbox 360,xbox360,176,2020-08,0,,
+Xbox 360,xbox360,177,2020-09,0,,
+Xbox 360,xbox360,178,2020-10,0,,
+Xbox 360,xbox360,179,2020-11,1,1,1.0
+Xbox 360,xbox360,180,2020-12,0,,
+Xbox 360,xbox360,181,2021-01,0,,
+Xbox 360,xbox360,182,2021-02,0,,
+Xbox 360,xbox360,183,2021-03,0,,
+Xbox 360,xbox360,184,2021-04,0,,
+Xbox 360,xbox360,185,2021-05,0,,
+Xbox 360,xbox360,186,2021-06,0,,
+Xbox 360,xbox360,187,2021-07,0,,
+Xbox 360,xbox360,188,2021-08,0,,
+Xbox 360,xbox360,189,2021-09,0,,
+Xbox 360,xbox360,190,2021-10,1,1,1.0
+Xbox 360,xbox360,191,2021-11,1,1,1.0
+PlayStation 3,ps3,0,2006-11,7,,0.0
+PlayStation 3,ps3,1,2006-12,6,,0.0
+PlayStation 3,ps3,2,2007-01,2,,0.0
+PlayStation 3,ps3,3,2007-02,2,,0.0
+PlayStation 3,ps3,4,2007-03,5,,0.0
+PlayStation 3,ps3,5,2007-04,2,,0.0
+PlayStation 3,ps3,6,2007-05,1,,0.0
+PlayStation 3,ps3,7,2007-06,6,,0.0
+PlayStation 3,ps3,8,2007-07,5,,0.0
+PlayStation 3,ps3,9,2007-08,1,,0.0
+PlayStation 3,ps3,10,2007-09,4,,0.0
+PlayStation 3,ps3,11,2007-10,5,,0.0
+PlayStation 3,ps3,12,2007-11,11,,0.0
+PlayStation 3,ps3,13,2007-12,8,,0.0
+PlayStation 3,ps3,14,2008-01,6,,0.0
+PlayStation 3,ps3,15,2008-02,5,,0.0
+PlayStation 3,ps3,16,2008-03,9,,0.0
+PlayStation 3,ps3,17,2008-04,2,,0.0
+PlayStation 3,ps3,18,2008-05,5,,0.0
+PlayStation 3,ps3,19,2008-06,5,,0.0
+PlayStation 3,ps3,20,2008-07,8,,0.0
+PlayStation 3,ps3,21,2008-08,4,,0.0
+PlayStation 3,ps3,22,2008-09,9,,0.0
+PlayStation 3,ps3,23,2008-10,9,,0.0
+PlayStation 3,ps3,24,2008-11,9,,0.0
+PlayStation 3,ps3,25,2008-12,12,,0.0
+PlayStation 3,ps3,26,2009-01,6,,0.0
+PlayStation 3,ps3,27,2009-02,8,,0.0
+PlayStation 3,ps3,28,2009-03,4,,0.0
+PlayStation 3,ps3,29,2009-04,6,,0.0
+PlayStation 3,ps3,30,2009-05,2,,0.0
+PlayStation 3,ps3,31,2009-06,6,,0.0
+PlayStation 3,ps3,32,2009-07,9,,0.0
+PlayStation 3,ps3,33,2009-08,3,,0.0
+PlayStation 3,ps3,34,2009-09,8,,0.0
+PlayStation 3,ps3,35,2009-10,11,,0.0
+PlayStation 3,ps3,36,2009-11,8,,0.0
+PlayStation 3,ps3,37,2009-12,4,,0.0
+PlayStation 3,ps3,38,2010-01,9,,0.0
+PlayStation 3,ps3,39,2010-02,8,,0.0
+PlayStation 3,ps3,40,2010-03,12,,0.0
+PlayStation 3,ps3,41,2010-04,6,,0.0
+PlayStation 3,ps3,42,2010-05,3,,0.0
+PlayStation 3,ps3,43,2010-06,7,,0.0
+PlayStation 3,ps3,44,2010-07,8,,0.0
+PlayStation 3,ps3,45,2010-08,5,,0.0
+PlayStation 3,ps3,46,2010-09,8,,0.0
+PlayStation 3,ps3,47,2010-10,18,,0.0
+PlayStation 3,ps3,48,2010-11,16,,0.0
+PlayStation 3,ps3,49,2010-12,15,,0.0
+PlayStation 3,ps3,50,2011-01,7,,0.0
+PlayStation 3,ps3,51,2011-02,16,,0.0
+PlayStation 3,ps3,52,2011-03,7,,0.0
+PlayStation 3,ps3,53,2011-04,12,,0.0
+PlayStation 3,ps3,54,2011-05,6,,0.0
+PlayStation 3,ps3,55,2011-06,10,,0.0
+PlayStation 3,ps3,56,2011-07,14,,0.0
+PlayStation 3,ps3,57,2011-08,7,,0.0
+PlayStation 3,ps3,58,2011-09,12,,0.0
+PlayStation 3,ps3,59,2011-10,17,,0.0
+PlayStation 3,ps3,60,2011-11,17,,0.0
+PlayStation 3,ps3,61,2011-12,23,,0.0
+PlayStation 3,ps3,62,2012-01,6,,0.0
+PlayStation 3,ps3,63,2012-02,15,,0.0
+PlayStation 3,ps3,64,2012-03,23,,0.0
+PlayStation 3,ps3,65,2012-04,8,,0.0
+PlayStation 3,ps3,66,2012-05,6,,0.0
+PlayStation 3,ps3,67,2012-06,12,,0.0
+PlayStation 3,ps3,68,2012-07,8,,0.0
+PlayStation 3,ps3,69,2012-08,8,,0.0
+PlayStation 3,ps3,70,2012-09,11,,0.0
+PlayStation 3,ps3,71,2012-10,13,,0.0
+PlayStation 3,ps3,72,2012-11,22,,0.0
+PlayStation 3,ps3,73,2012-12,11,,0.0
+PlayStation 3,ps3,74,2013-01,9,,0.0
+PlayStation 3,ps3,75,2013-02,7,,0.0
+PlayStation 3,ps3,76,2013-03,13,,0.0
+PlayStation 3,ps3,77,2013-04,9,,0.0
+PlayStation 3,ps3,78,2013-05,5,,0.0
+PlayStation 3,ps3,79,2013-06,11,,0.0
+PlayStation 3,ps3,80,2013-07,11,,0.0
+PlayStation 3,ps3,81,2013-08,10,,0.0
+PlayStation 3,ps3,82,2013-09,16,,0.0
+PlayStation 3,ps3,83,2013-10,15,,0.0
+PlayStation 3,ps3,84,2013-11,16,,0.0
+PlayStation 3,ps3,85,2013-12,16,,0.0
+PlayStation 3,ps3,86,2014-01,8,,0.0
+PlayStation 3,ps3,87,2014-02,10,,0.0
+PlayStation 3,ps3,88,2014-03,11,,0.0
+PlayStation 3,ps3,89,2014-04,8,,0.0
+PlayStation 3,ps3,90,2014-05,5,,0.0
+PlayStation 3,ps3,91,2014-06,10,,0.0
+PlayStation 3,ps3,92,2014-07,6,,0.0
+PlayStation 3,ps3,93,2014-08,12,,0.0
+PlayStation 3,ps3,94,2014-09,7,,0.0
+PlayStation 3,ps3,95,2014-10,7,,0.0
+PlayStation 3,ps3,96,2014-11,8,,0.0
+PlayStation 3,ps3,97,2014-12,11,,0.0
+PlayStation 3,ps3,98,2015-01,6,,0.0
+PlayStation 3,ps3,99,2015-02,6,,0.0
+PlayStation 3,ps3,100,2015-03,13,,0.0
+PlayStation 3,ps3,101,2015-04,6,,0.0
+PlayStation 3,ps3,102,2015-05,0,,
+PlayStation 3,ps3,103,2015-06,5,,0.0
+PlayStation 3,ps3,104,2015-07,4,,0.0
+PlayStation 3,ps3,105,2015-08,2,,0.0
+PlayStation 3,ps3,106,2015-09,7,,0.0
+PlayStation 3,ps3,107,2015-10,6,,0.0
+PlayStation 3,ps3,108,2015-11,8,,0.0
+PlayStation 3,ps3,109,2015-12,6,,0.0
+PlayStation 3,ps3,110,2016-01,7,,0.0
+PlayStation 3,ps3,111,2016-02,3,,0.0
+PlayStation 3,ps3,112,2016-03,3,,0.0
+PlayStation 3,ps3,113,2016-04,4,,0.0
+PlayStation 3,ps3,114,2016-05,2,,0.0
+PlayStation 3,ps3,115,2016-06,2,,0.0
+PlayStation 3,ps3,116,2016-07,3,,0.0
+PlayStation 3,ps3,117,2016-08,3,,0.0
+PlayStation 3,ps3,118,2016-09,4,,0.0
+PlayStation 3,ps3,119,2016-10,3,,0.0
+PlayStation 3,ps3,120,2016-11,1,,0.0
+PlayStation 3,ps3,121,2016-12,1,,0.0
+PlayStation 3,ps3,122,2017-01,0,,
+PlayStation 3,ps3,123,2017-02,1,,0.0
+PlayStation 3,ps3,124,2017-03,1,,0.0
+PlayStation 3,ps3,125,2017-04,0,,
+PlayStation 3,ps3,126,2017-05,0,,
+PlayStation 3,ps3,127,2017-06,0,,
+PlayStation 3,ps3,128,2017-07,0,,
+PlayStation 3,ps3,129,2017-08,0,,
+PlayStation 3,ps3,130,2017-09,3,,0.0
+PlayStation 3,ps3,131,2017-10,0,,
+PlayStation 3,ps3,132,2017-11,0,,
+PlayStation 3,ps3,133,2017-12,0,,
+PlayStation 3,ps3,134,2018-01,0,,
+PlayStation 3,ps3,135,2018-02,0,,
+PlayStation 3,ps3,136,2018-03,0,,
+PlayStation 3,ps3,137,2018-04,0,,
+PlayStation 3,ps3,138,2018-05,0,,
+PlayStation 3,ps3,139,2018-06,0,,
+PlayStation 3,ps3,140,2018-07,0,,
+PlayStation 3,ps3,141,2018-08,0,,
+PlayStation 3,ps3,142,2018-09,1,,0.0
+Wii,wii,0,2006-12,21,21,1.0
+Wii,wii,1,2007-01,4,4,1.0
+Wii,wii,2,2007-02,3,3,1.0
+Wii,wii,3,2007-03,10,10,1.0
+Wii,wii,4,2007-04,6,6,1.0
+Wii,wii,5,2007-05,4,4,1.0
+Wii,wii,6,2007-06,6,6,1.0
+Wii,wii,7,2007-07,9,9,1.0
+Wii,wii,8,2007-08,4,4,1.0
+Wii,wii,9,2007-09,7,7,1.0
+Wii,wii,10,2007-10,8,8,1.0
+Wii,wii,11,2007-11,10,10,1.0
+Wii,wii,12,2007-12,30,30,1.0
+Wii,wii,13,2008-01,6,6,1.0
+Wii,wii,14,2008-02,11,11,1.0
+Wii,wii,15,2008-03,15,15,1.0
+Wii,wii,16,2008-04,3,3,1.0
+Wii,wii,17,2008-05,7,7,1.0
+Wii,wii,18,2008-06,6,6,1.0
+Wii,wii,19,2008-07,14,14,1.0
+Wii,wii,20,2008-08,4,4,1.0
+Wii,wii,21,2008-09,8,8,1.0
+Wii,wii,22,2008-10,14,14,1.0
+Wii,wii,23,2008-11,13,13,1.0
+Wii,wii,24,2008-12,21,21,1.0
+Wii,wii,25,2009-01,6,6,1.0
+Wii,wii,26,2009-02,7,7,1.0
+Wii,wii,27,2009-03,14,14,1.0
+Wii,wii,28,2009-04,12,12,1.0
+Wii,wii,29,2009-05,3,3,1.0
+Wii,wii,30,2009-06,5,5,1.0
+Wii,wii,31,2009-07,6,6,1.0
+Wii,wii,32,2009-08,7,7,1.0
+Wii,wii,33,2009-09,5,5,1.0
+Wii,wii,34,2009-10,11,11,1.0
+Wii,wii,35,2009-11,12,12,1.0
+Wii,wii,36,2009-12,16,16,1.0
+Wii,wii,37,2010-01,3,3,1.0
+Wii,wii,38,2010-02,6,6,1.0
+Wii,wii,39,2010-03,2,2,1.0
+Wii,wii,40,2010-04,7,7,1.0
+Wii,wii,41,2010-05,4,4,1.0
+Wii,wii,42,2010-06,6,6,1.0
+Wii,wii,43,2010-07,5,5,1.0
+Wii,wii,44,2010-08,2,2,1.0
+Wii,wii,45,2010-09,2,2,1.0
+Wii,wii,46,2010-10,4,4,1.0
+Wii,wii,47,2010-11,7,7,1.0
+Wii,wii,48,2010-12,12,12,1.0
+Wii,wii,49,2011-01,2,2,1.0
+Wii,wii,50,2011-02,3,3,1.0
+Wii,wii,51,2011-03,1,1,1.0
+Wii,wii,52,2011-04,2,2,1.0
+Wii,wii,53,2011-05,1,1,1.0
+Wii,wii,54,2011-06,2,2,1.0
+Wii,wii,55,2011-07,4,4,1.0
+Wii,wii,56,2011-08,2,2,1.0
+Wii,wii,57,2011-09,4,4,1.0
+Wii,wii,58,2011-10,3,3,1.0
+Wii,wii,59,2011-11,5,5,1.0
+Wii,wii,60,2011-12,8,8,1.0
+Wii,wii,61,2012-01,1,1,1.0
+Wii,wii,62,2012-02,0,0,
+Wii,wii,63,2012-03,0,0,
+Wii,wii,64,2012-04,1,1,1.0
+Wii,wii,65,2012-05,0,0,
+Wii,wii,66,2012-06,1,1,1.0
+Wii,wii,67,2012-07,2,2,1.0
+Wii,wii,68,2012-08,1,1,1.0
+Wii,wii,69,2012-09,0,0,
+Wii,wii,70,2012-10,0,0,
+Wii,wii,71,2012-11,3,3,1.0
+Wii,wii,72,2012-12,1,1,1.0
+Wii,wii,73,2013-01,0,0,
+Wii,wii,74,2013-02,0,0,
+Wii,wii,75,2013-03,1,1,1.0
+Wii,wii,76,2013-04,0,0,
+Wii,wii,77,2013-05,0,0,
+Wii,wii,78,2013-06,0,0,
+Wii,wii,79,2013-07,1,1,1.0
+Wii,wii,80,2013-08,0,0,
+Wii,wii,81,2013-09,1,1,1.0
+Wii,wii,82,2013-10,0,0,
+Wii,wii,83,2013-11,0,0,
+Wii,wii,84,2013-12,1,1,1.0
+Wii,wii,85,2014-01,0,0,
+Wii,wii,86,2014-02,0,0,
+Wii,wii,87,2014-03,0,0,
+Wii,wii,88,2014-04,0,0,
+Wii,wii,89,2014-05,0,0,
+Wii,wii,90,2014-06,0,0,
+Wii,wii,91,2014-07,0,0,
+Wii,wii,92,2014-08,1,1,1.0
+Wii,wii,93,2014-09,0,0,
+Wii,wii,94,2014-10,0,0,
+Wii,wii,95,2014-11,0,0,
+Wii,wii,96,2014-12,0,0,
+Wii,wii,97,2015-01,0,0,
+Wii,wii,98,2015-02,0,0,
+Wii,wii,99,2015-03,0,0,
+Wii,wii,100,2015-04,1,1,1.0
+Nintendo 3DS,3ds,0,2011-02,10,10,1.0
+Nintendo 3DS,3ds,1,2011-03,11,11,1.0
+Nintendo 3DS,3ds,2,2011-04,6,6,1.0
+Nintendo 3DS,3ds,3,2011-05,5,5,1.0
+Nintendo 3DS,3ds,4,2011-06,19,8,0.421
+Nintendo 3DS,3ds,5,2011-07,10,6,0.6
+Nintendo 3DS,3ds,6,2011-08,11,4,0.364
+Nintendo 3DS,3ds,7,2011-09,10,4,0.4
+Nintendo 3DS,3ds,8,2011-10,11,4,0.364
+Nintendo 3DS,3ds,9,2011-11,16,12,0.75
+Nintendo 3DS,3ds,10,2011-12,22,18,0.818
+Nintendo 3DS,3ds,11,2012-01,11,8,0.727
+Nintendo 3DS,3ds,12,2012-02,12,7,0.583
+Nintendo 3DS,3ds,13,2012-03,11,10,0.909
+Nintendo 3DS,3ds,14,2012-04,18,12,0.667
+Nintendo 3DS,3ds,15,2012-05,12,8,0.667
+Nintendo 3DS,3ds,16,2012-06,8,5,0.625
+Nintendo 3DS,3ds,17,2012-07,19,13,0.684
+Nintendo 3DS,3ds,18,2012-08,14,6,0.429
+Nintendo 3DS,3ds,19,2012-09,15,9,0.6
+Nintendo 3DS,3ds,20,2012-10,9,4,0.444
+Nintendo 3DS,3ds,21,2012-11,19,13,0.684
+Nintendo 3DS,3ds,22,2012-12,29,14,0.483
+Nintendo 3DS,3ds,23,2013-01,3,,0.0
+Nintendo 3DS,3ds,24,2013-02,10,6,0.6
+Nintendo 3DS,3ds,25,2013-03,20,7,0.35
+Nintendo 3DS,3ds,26,2013-04,22,9,0.409
+Nintendo 3DS,3ds,27,2013-05,12,4,0.333
+Nintendo 3DS,3ds,28,2013-06,19,8,0.421
+Nintendo 3DS,3ds,29,2013-07,31,12,0.387
+Nintendo 3DS,3ds,30,2013-08,27,12,0.444
+Nintendo 3DS,3ds,31,2013-09,13,10,0.769
+Nintendo 3DS,3ds,32,2013-10,14,7,0.5
+Nintendo 3DS,3ds,33,2013-11,41,26,0.634
+Nintendo 3DS,3ds,34,2013-12,33,18,0.545
+Nintendo 3DS,3ds,35,2014-01,16,4,0.25
+Nintendo 3DS,3ds,36,2014-02,15,7,0.467
+Nintendo 3DS,3ds,37,2014-03,21,8,0.381
+Nintendo 3DS,3ds,38,2014-04,30,9,0.3
+Nintendo 3DS,3ds,39,2014-05,9,3,0.333
+Nintendo 3DS,3ds,40,2014-06,19,7,0.368
+Nintendo 3DS,3ds,41,2014-07,28,11,0.393
+Nintendo 3DS,3ds,42,2014-08,20,6,0.3
+Nintendo 3DS,3ds,43,2014-09,18,6,0.333
+Nintendo 3DS,3ds,44,2014-10,18,7,0.389
+Nintendo 3DS,3ds,45,2014-11,34,18,0.529
+Nintendo 3DS,3ds,46,2014-12,24,13,0.542
+Nintendo 3DS,3ds,47,2015-01,28,6,0.214
+Nintendo 3DS,3ds,48,2015-02,14,5,0.357
+Nintendo 3DS,3ds,49,2015-03,16,10,0.625
+Nintendo 3DS,3ds,50,2015-04,26,12,0.462
+Nintendo 3DS,3ds,51,2015-05,12,5,0.417
+Nintendo 3DS,3ds,52,2015-06,15,8,0.533
+Nintendo 3DS,3ds,53,2015-07,21,13,0.619
+Nintendo 3DS,3ds,54,2015-08,15,9,0.6
+Nintendo 3DS,3ds,55,2015-09,10,3,0.3
+Nintendo 3DS,3ds,56,2015-10,11,6,0.545
+Nintendo 3DS,3ds,57,2015-11,16,13,0.813
+Nintendo 3DS,3ds,58,2015-12,23,13,0.565
+Nintendo 3DS,3ds,59,2016-01,9,2,0.222
+Nintendo 3DS,3ds,60,2016-02,11,3,0.273
+Nintendo 3DS,3ds,61,2016-03,16,6,0.375
+Nintendo 3DS,3ds,62,2016-04,20,9,0.45
+Nintendo 3DS,3ds,63,2016-05,3,1,0.333
+Nintendo 3DS,3ds,64,2016-06,13,6,0.462
+Nintendo 3DS,3ds,65,2016-07,18,7,0.389
+Nintendo 3DS,3ds,66,2016-08,21,5,0.238
+Nintendo 3DS,3ds,67,2016-09,11,2,0.182
+Nintendo 3DS,3ds,68,2016-10,14,7,0.5
+Nintendo 3DS,3ds,69,2016-11,29,13,0.448
+Nintendo 3DS,3ds,70,2016-12,26,14,0.538
+Nintendo 3DS,3ds,71,2017-01,7,1,0.143
+Nintendo 3DS,3ds,72,2017-02,9,2,0.222
+Nintendo 3DS,3ds,73,2017-03,13,5,0.385
+Nintendo 3DS,3ds,74,2017-04,15,5,0.333
+Nintendo 3DS,3ds,75,2017-05,9,1,0.111
+Nintendo 3DS,3ds,76,2017-06,7,2,0.286
+Nintendo 3DS,3ds,77,2017-07,15,8,0.533
+Nintendo 3DS,3ds,78,2017-08,13,4,0.308
+Nintendo 3DS,3ds,79,2017-09,8,2,0.25
+Nintendo 3DS,3ds,80,2017-10,8,4,0.5
+Nintendo 3DS,3ds,81,2017-11,13,13,1.0
+Nintendo 3DS,3ds,82,2017-12,11,6,0.545
+Nintendo 3DS,3ds,83,2018-01,2,,0.0
+Nintendo 3DS,3ds,84,2018-02,1,,0.0
+Nintendo 3DS,3ds,85,2018-03,8,5,0.625
+Nintendo 3DS,3ds,86,2018-04,5,3,0.6
+Nintendo 3DS,3ds,87,2018-05,1,,0.0
+Nintendo 3DS,3ds,88,2018-06,2,1,0.5
+Nintendo 3DS,3ds,89,2018-07,2,1,0.5
+Nintendo 3DS,3ds,90,2018-08,4,2,0.5
+Nintendo 3DS,3ds,91,2018-09,1,,0.0
+Nintendo 3DS,3ds,92,2018-10,0,,
+Nintendo 3DS,3ds,93,2018-11,4,3,0.75
+Nintendo 3DS,3ds,94,2018-12,1,1,1.0
+Nintendo 3DS,3ds,95,2019-01,0,,
+Nintendo 3DS,3ds,96,2019-02,0,,
+Nintendo 3DS,3ds,97,2019-03,1,1,1.0
+Nintendo 3DS,3ds,98,2019-04,0,,
+Nintendo 3DS,3ds,99,2019-05,1,1,1.0
+Nintendo 3DS,3ds,100,2019-06,0,,
+Nintendo 3DS,3ds,101,2019-07,0,,
+Nintendo 3DS,3ds,102,2019-08,0,,
+Nintendo 3DS,3ds,103,2019-09,0,,
+Nintendo 3DS,3ds,104,2019-10,0,,
+Nintendo 3DS,3ds,105,2019-11,0,,
+Nintendo 3DS,3ds,106,2019-12,1,,0.0
+PlayStation Vita,vita,0,2011-12,23,20,0.87
+PlayStation Vita,vita,1,2012-01,3,2,0.667
+PlayStation Vita,vita,2,2012-02,8,6,0.75
+PlayStation Vita,vita,3,2012-03,11,9,0.818
+PlayStation Vita,vita,4,2012-04,7,5,0.714
+PlayStation Vita,vita,5,2012-05,4,2,0.5
+PlayStation Vita,vita,6,2012-06,14,8,0.571
+PlayStation Vita,vita,7,2012-07,11,6,0.545
+PlayStation Vita,vita,8,2012-08,12,7,0.583
+PlayStation Vita,vita,9,2012-09,11,6,0.545
+PlayStation Vita,vita,10,2012-10,6,5,0.833
+PlayStation Vita,vita,11,2012-11,7,4,0.571
+PlayStation Vita,vita,12,2012-12,7,4,0.571
+PlayStation Vita,vita,13,2013-01,5,5,1.0
+PlayStation Vita,vita,14,2013-02,13,10,0.769
+PlayStation Vita,vita,15,2013-03,12,10,0.833
+PlayStation Vita,vita,16,2013-04,9,6,0.667
+PlayStation Vita,vita,17,2013-05,9,6,0.667
+PlayStation Vita,vita,18,2013-06,10,7,0.7
+PlayStation Vita,vita,19,2013-07,2,2,1.0
+PlayStation Vita,vita,20,2013-08,8,7,0.875
+PlayStation Vita,vita,21,2013-09,9,7,0.778
+PlayStation Vita,vita,22,2013-10,17,9,0.529
+PlayStation Vita,vita,23,2013-11,10,9,0.9
+PlayStation Vita,vita,24,2013-12,19,14,0.737
+PlayStation Vita,vita,25,2014-01,7,5,0.714
+PlayStation Vita,vita,26,2014-02,15,7,0.467
+PlayStation Vita,vita,27,2014-03,19,14,0.737
+PlayStation Vita,vita,28,2014-04,15,8,0.533
+PlayStation Vita,vita,29,2014-05,11,9,0.818
+PlayStation Vita,vita,30,2014-06,12,10,0.833
+PlayStation Vita,vita,31,2014-07,15,11,0.733
+PlayStation Vita,vita,32,2014-08,22,15,0.682
+PlayStation Vita,vita,33,2014-09,15,10,0.667
+PlayStation Vita,vita,34,2014-10,15,13,0.867
+PlayStation Vita,vita,35,2014-11,13,12,0.923
+PlayStation Vita,vita,36,2014-12,18,12,0.667
+PlayStation Vita,vita,37,2015-01,12,9,0.75
+PlayStation Vita,vita,38,2015-02,17,14,0.824
+PlayStation Vita,vita,39,2015-03,19,15,0.789
+PlayStation Vita,vita,40,2015-04,23,14,0.609
+PlayStation Vita,vita,41,2015-05,16,9,0.563
+PlayStation Vita,vita,42,2015-06,15,12,0.8
+PlayStation Vita,vita,43,2015-07,25,18,0.72
+PlayStation Vita,vita,44,2015-08,13,7,0.538
+PlayStation Vita,vita,45,2015-09,16,15,0.938
+PlayStation Vita,vita,46,2015-10,13,10,0.769
+PlayStation Vita,vita,47,2015-11,25,19,0.76
+PlayStation Vita,vita,48,2015-12,30,24,0.8
+PlayStation Vita,vita,49,2016-01,14,9,0.643
+PlayStation Vita,vita,50,2016-02,18,13,0.722
+PlayStation Vita,vita,51,2016-03,27,19,0.704
+PlayStation Vita,vita,52,2016-04,18,12,0.667
+PlayStation Vita,vita,53,2016-05,11,7,0.636
+PlayStation Vita,vita,54,2016-06,12,10,0.833
+PlayStation Vita,vita,55,2016-07,14,11,0.786
+PlayStation Vita,vita,56,2016-08,11,9,0.818
+PlayStation Vita,vita,57,2016-09,15,13,0.867
+PlayStation Vita,vita,58,2016-10,21,16,0.762
+PlayStation Vita,vita,59,2016-11,17,14,0.824
+PlayStation Vita,vita,60,2016-12,20,11,0.55
+PlayStation Vita,vita,61,2017-01,11,9,0.818
+PlayStation Vita,vita,62,2017-02,9,7,0.778
+PlayStation Vita,vita,63,2017-03,15,13,0.867
+PlayStation Vita,vita,64,2017-04,14,10,0.714
+PlayStation Vita,vita,65,2017-05,12,7,0.583
+PlayStation Vita,vita,66,2017-06,13,8,0.615
+PlayStation Vita,vita,67,2017-07,16,10,0.625
+PlayStation Vita,vita,68,2017-08,13,8,0.615
+PlayStation Vita,vita,69,2017-09,12,9,0.75
+PlayStation Vita,vita,70,2017-10,10,8,0.8
+PlayStation Vita,vita,71,2017-11,12,11,0.917
+PlayStation Vita,vita,72,2017-12,12,11,0.917
+PlayStation Vita,vita,73,2018-01,8,5,0.625
+PlayStation Vita,vita,74,2018-02,10,9,0.9
+PlayStation Vita,vita,75,2018-03,17,14,0.824
+PlayStation Vita,vita,76,2018-04,10,7,0.7
+PlayStation Vita,vita,77,2018-05,12,6,0.5
+PlayStation Vita,vita,78,2018-06,4,4,1.0
+PlayStation Vita,vita,79,2018-07,7,4,0.571
+PlayStation Vita,vita,80,2018-08,10,8,0.8
+PlayStation Vita,vita,81,2018-09,9,7,0.778
+PlayStation Vita,vita,82,2018-10,6,3,0.5
+PlayStation Vita,vita,83,2018-11,3,3,1.0
+PlayStation Vita,vita,84,2018-12,4,2,0.5
+PlayStation Vita,vita,85,2019-01,5,2,0.4
+PlayStation Vita,vita,86,2019-02,6,5,0.833
+PlayStation Vita,vita,87,2019-03,7,5,0.714
+PlayStation Vita,vita,88,2019-04,5,2,0.4
+PlayStation Vita,vita,89,2019-05,2,,0.0
+PlayStation Vita,vita,90,2019-06,7,5,0.714
+PlayStation Vita,vita,91,2019-07,7,6,0.857
+PlayStation Vita,vita,92,2019-08,2,1,0.5
+PlayStation Vita,vita,93,2019-09,3,3,1.0
+PlayStation Vita,vita,94,2019-10,2,1,0.5
+PlayStation Vita,vita,95,2019-11,5,1,0.2
+PlayStation Vita,vita,96,2019-12,3,1,0.333
+PlayStation Vita,vita,97,2020-01,4,1,0.25
+PlayStation Vita,vita,98,2020-02,2,2,1.0
+PlayStation Vita,vita,99,2020-03,4,1,0.25
+PlayStation Vita,vita,100,2020-04,2,2,1.0
+PlayStation Vita,vita,101,2020-05,1,,0.0
+PlayStation Vita,vita,102,2020-06,1,,0.0
+PlayStation Vita,vita,103,2020-07,1,,0.0
+PlayStation Vita,vita,104,2020-08,1,,0.0
+PlayStation Vita,vita,105,2020-09,2,2,1.0
+PlayStation Vita,vita,106,2020-10,1,1,1.0
+PlayStation Vita,vita,107,2020-11,1,1,1.0
+PlayStation Vita,vita,108,2020-12,1,1,1.0
+PlayStation Vita,vita,109,2021-01,1,1,1.0
+PlayStation Vita,vita,110,2021-02,1,,0.0
+PlayStation Vita,vita,111,2021-03,0,,
+PlayStation Vita,vita,112,2021-04,0,,
+PlayStation Vita,vita,113,2021-05,0,,
+PlayStation Vita,vita,114,2021-06,1,,0.0
+PlayStation Vita,vita,115,2021-07,1,1,1.0
+Wii U,wiiu,0,2012-12,16,16,1.0
+Wii U,wiiu,1,2013-01,1,1,1.0
+Wii U,wiiu,2,2013-02,1,0,1.0
+Wii U,wiiu,3,2013-03,3,3,1.0
+Wii U,wiiu,4,2013-04,2,0,1.0
+Wii U,wiiu,5,2013-05,1,1,1.0
+Wii U,wiiu,6,2013-06,4,4,1.0
+Wii U,wiiu,7,2013-07,4,4,1.0
+Wii U,wiiu,8,2013-08,5,2,1.0
+Wii U,wiiu,9,2013-09,5,4,1.0
+Wii U,wiiu,10,2013-10,5,4,1.0
+Wii U,wiiu,11,2013-11,5,5,1.0
+Wii U,wiiu,12,2013-12,6,4,1.0
+Wii U,wiiu,13,2014-01,3,0,1.0
+Wii U,wiiu,14,2014-02,4,3,1.0
+Wii U,wiiu,15,2014-03,2,0,1.0
+Wii U,wiiu,16,2014-04,8,3,1.0
+Wii U,wiiu,17,2014-05,2,2,1.0
+Wii U,wiiu,18,2014-06,6,2,1.0
+Wii U,wiiu,19,2014-07,4,1,1.0
+Wii U,wiiu,20,2014-08,4,2,1.0
+Wii U,wiiu,21,2014-09,5,3,1.0
+Wii U,wiiu,22,2014-10,5,1,1.0
+Wii U,wiiu,23,2014-11,7,6,1.0
+Wii U,wiiu,24,2014-12,8,4,1.0
+Wii U,wiiu,25,2015-01,5,2,1.0
+Wii U,wiiu,26,2015-02,1,0,1.0
+Wii U,wiiu,27,2015-03,6,2,1.0
+Wii U,wiiu,28,2015-04,12,5,1.0
+Wii U,wiiu,29,2015-05,1,1,1.0
+Wii U,wiiu,30,2015-06,6,0,1.0
+Wii U,wiiu,31,2015-07,5,2,1.0
+Wii U,wiiu,32,2015-08,4,1,1.0
+Wii U,wiiu,33,2015-09,5,1,1.0
+Wii U,wiiu,34,2015-10,6,0,1.0
+Wii U,wiiu,35,2015-11,13,6,1.0
+Wii U,wiiu,36,2015-12,11,4,1.0
+Wii U,wiiu,37,2016-01,3,1,1.0
+Wii U,wiiu,38,2016-02,3,1,1.0
+Wii U,wiiu,39,2016-03,4,2,1.0
+Wii U,wiiu,40,2016-04,4,3,1.0
+Wii U,wiiu,41,2016-05,0,,
+Wii U,wiiu,42,2016-06,5,1,1.0
+Wii U,wiiu,43,2016-07,3,0,1.0
+Wii U,wiiu,44,2016-08,3,0,1.0
+Wii U,wiiu,45,2016-09,2,1,1.0
+Wii U,wiiu,46,2016-10,2,2,1.0
+Wii U,wiiu,47,2016-11,5,0,1.0
+Wii U,wiiu,48,2016-12,2,0,1.0
+Wii U,wiiu,49,2017-01,1,0,1.0
+Wii U,wiiu,50,2017-02,2,0,1.0
+Wii U,wiiu,51,2017-03,3,1,1.0
+Wii U,wiiu,52,2017-04,3,0,1.0
+Wii U,wiiu,53,2017-05,1,0,1.0
+Wii U,wiiu,54,2017-06,1,0,1.0
+Wii U,wiiu,55,2017-07,0,,
+Wii U,wiiu,56,2017-08,3,0,1.0
+Wii U,wiiu,57,2017-09,1,0,1.0
+Wii U,wiiu,58,2017-10,0,,
+Wii U,wiiu,59,2017-11,1,1,1.0
+Wii U,wiiu,60,2017-12,1,0,1.0
+Wii U,wiiu,61,2018-01,0,,
+Wii U,wiiu,62,2018-02,1,0,1.0
+Wii U,wiiu,63,2018-03,1,0,1.0
+Wii U,wiiu,64,2018-04,0,,
+Wii U,wiiu,65,2018-05,0,,
+Wii U,wiiu,66,2018-06,0,,
+Wii U,wiiu,67,2018-07,1,1,1.0
+Wii U,wiiu,68,2018-08,0,,
+Wii U,wiiu,69,2018-09,0,,
+Wii U,wiiu,70,2018-10,0,,
+Wii U,wiiu,71,2018-11,0,,
+Wii U,wiiu,72,2018-12,0,,
+Wii U,wiiu,73,2019-01,0,,
+Wii U,wiiu,74,2019-02,0,,
+Wii U,wiiu,75,2019-03,0,,
+Wii U,wiiu,76,2019-04,0,,
+Wii U,wiiu,77,2019-05,0,,
+Wii U,wiiu,78,2019-06,0,,
+Wii U,wiiu,79,2019-07,0,,
+Wii U,wiiu,80,2019-08,0,,
+Wii U,wiiu,81,2019-09,0,,
+Wii U,wiiu,82,2019-10,1,0,1.0
+Wii U,wiiu,83,2019-11,0,,
+Wii U,wiiu,84,2019-12,0,,
+Wii U,wiiu,85,2020-01,0,,
+Wii U,wiiu,86,2020-02,0,,
+Wii U,wiiu,87,2020-03,0,,
+Wii U,wiiu,88,2020-04,0,,
+Wii U,wiiu,89,2020-05,0,,
+Wii U,wiiu,90,2020-06,0,,
+Wii U,wiiu,91,2020-07,0,,
+Wii U,wiiu,92,2020-08,0,,
+Wii U,wiiu,93,2020-09,0,,
+Wii U,wiiu,94,2020-10,0,,
+Wii U,wiiu,95,2020-11,0,,
+Wii U,wiiu,96,2020-12,0,,
+Wii U,wiiu,97,2021-01,0,,
+Wii U,wiiu,98,2021-02,0,,
+Wii U,wiiu,99,2021-03,0,,
+Wii U,wiiu,100,2021-04,0,,
+Wii U,wiiu,101,2021-05,0,,
+Wii U,wiiu,102,2021-06,0,,
+Wii U,wiiu,103,2021-07,0,,
+Wii U,wiiu,104,2021-08,0,,
+Wii U,wiiu,105,2021-09,0,,
+Wii U,wiiu,106,2021-10,0,,
+Wii U,wiiu,107,2021-11,1,0,1.0
+PlayStation 4,ps4,0,2014-02,27,12,0.444
+PlayStation 4,ps4,1,2014-03,3,2,0.667
+PlayStation 4,ps4,2,2014-04,2,2,1.0
+PlayStation 4,ps4,3,2014-05,4,2,0.5
+PlayStation 4,ps4,4,2014-06,6,4,0.667
+PlayStation 4,ps4,5,2014-07,7,2,0.286
+PlayStation 4,ps4,6,2014-08,9,3,0.333
+PlayStation 4,ps4,7,2014-09,9,4,0.444
+PlayStation 4,ps4,8,2014-10,11,6,0.545
+PlayStation 4,ps4,9,2014-11,13,9,0.692
+PlayStation 4,ps4,10,2014-12,17,12,0.706
+PlayStation 4,ps4,11,2015-01,6,3,0.5
+PlayStation 4,ps4,12,2015-02,12,9,0.75
+PlayStation 4,ps4,13,2015-03,18,8,0.444
+PlayStation 4,ps4,14,2015-04,15,9,0.6
+PlayStation 4,ps4,15,2015-05,7,3,0.429
+PlayStation 4,ps4,16,2015-06,11,8,0.727
+PlayStation 4,ps4,17,2015-07,13,5,0.385
+PlayStation 4,ps4,18,2015-08,11,4,0.364
+PlayStation 4,ps4,19,2015-09,12,5,0.417
+PlayStation 4,ps4,20,2015-10,15,10,0.667
+PlayStation 4,ps4,21,2015-11,19,12,0.632
+PlayStation 4,ps4,22,2015-12,22,11,0.5
+PlayStation 4,ps4,23,2016-01,14,8,0.571
+PlayStation 4,ps4,24,2016-02,14,8,0.571
+PlayStation 4,ps4,25,2016-03,23,14,0.609
+PlayStation 4,ps4,26,2016-04,20,12,0.6
+PlayStation 4,ps4,27,2016-05,15,8,0.533
+PlayStation 4,ps4,28,2016-06,20,9,0.45
+PlayStation 4,ps4,29,2016-07,10,5,0.5
+PlayStation 4,ps4,30,2016-08,26,9,0.346
+PlayStation 4,ps4,31,2016-09,27,11,0.407
+PlayStation 4,ps4,32,2016-10,36,13,0.361
+PlayStation 4,ps4,33,2016-11,31,10,0.323
+PlayStation 4,ps4,34,2016-12,33,8,0.242
+PlayStation 4,ps4,35,2017-01,14,9,0.643
+PlayStation 4,ps4,36,2017-02,36,15,0.417
+PlayStation 4,ps4,37,2017-03,30,15,0.5
+PlayStation 4,ps4,38,2017-04,27,8,0.296
+PlayStation 4,ps4,39,2017-05,21,7,0.333
+PlayStation 4,ps4,40,2017-06,20,10,0.5
+PlayStation 4,ps4,41,2017-07,25,12,0.48
+PlayStation 4,ps4,42,2017-08,37,16,0.432
+PlayStation 4,ps4,43,2017-09,40,19,0.475
+PlayStation 4,ps4,44,2017-10,39,18,0.462
+PlayStation 4,ps4,45,2017-11,38,16,0.421
+PlayStation 4,ps4,46,2017-12,40,18,0.45
+PlayStation 4,ps4,47,2018-01,22,8,0.364
+PlayStation 4,ps4,48,2018-02,37,15,0.405
+PlayStation 4,ps4,49,2018-03,38,20,0.526
+PlayStation 4,ps4,50,2018-04,30,13,0.433
+PlayStation 4,ps4,51,2018-05,30,15,0.5
+PlayStation 4,ps4,52,2018-06,28,11,0.393
+PlayStation 4,ps4,53,2018-07,30,10,0.333
+PlayStation 4,ps4,54,2018-08,38,21,0.553
+PlayStation 4,ps4,55,2018-09,38,21,0.553
+PlayStation 4,ps4,56,2018-10,33,13,0.394
+PlayStation 4,ps4,57,2018-11,50,16,0.32
+PlayStation 4,ps4,58,2018-12,37,13,0.351
+PlayStation 4,ps4,59,2019-01,27,12,0.444
+PlayStation 4,ps4,60,2019-02,35,24,0.686
+PlayStation 4,ps4,61,2019-03,34,23,0.676
+PlayStation 4,ps4,62,2019-04,31,9,0.29
+PlayStation 4,ps4,63,2019-05,17,5,0.294
+PlayStation 4,ps4,64,2019-06,33,12,0.364
+PlayStation 4,ps4,65,2019-07,31,8,0.258
+PlayStation 4,ps4,66,2019-08,37,16,0.432
+PlayStation 4,ps4,67,2019-09,36,17,0.472
+PlayStation 4,ps4,68,2019-10,56,20,0.357
+PlayStation 4,ps4,69,2019-11,36,14,0.389
+PlayStation 4,ps4,70,2019-12,51,19,0.373
+PlayStation 4,ps4,71,2020-01,25,9,0.36
+PlayStation 4,ps4,72,2020-02,25,13,0.52
+PlayStation 4,ps4,73,2020-03,13,10,0.769
+PlayStation 4,ps4,74,2020-04,16,11,0.688
+PlayStation 4,ps4,75,2020-05,27,7,0.259
+PlayStation 4,ps4,76,2020-06,19,6,0.316
+PlayStation 4,ps4,77,2020-07,47,16,0.34
+PlayStation 4,ps4,78,2020-08,46,11,0.239
+PlayStation 4,ps4,79,2020-09,33,10,0.303
+PlayStation 4,ps4,80,2020-10,14,9,0.643
+PlayStation 4,ps4,81,2020-11,18,13,0.722
+PlayStation 4,ps4,82,2020-12,21,15,0.714
+PlayStation 4,ps4,83,2021-01,11,4,0.364
+PlayStation 4,ps4,84,2021-02,7,2,0.286
+PlayStation 4,ps4,85,2021-03,12,5,0.417
+PlayStation 4,ps4,86,2021-04,17,7,0.412
+PlayStation 4,ps4,87,2021-05,12,5,0.417
+PlayStation 4,ps4,88,2021-06,16,9,0.563
+PlayStation 4,ps4,89,2021-07,9,5,0.556
+PlayStation 4,ps4,90,2021-08,4,4,1.0
+PlayStation 4,ps4,91,2021-09,12,8,0.667
+PlayStation 4,ps4,92,2021-10,17,14,0.824
+PlayStation 4,ps4,93,2021-11,7,6,0.857
+PlayStation 4,ps4,94,2021-12,14,7,0.5
+PlayStation 4,ps4,95,2022-01,7,6,0.857
+PlayStation 4,ps4,96,2022-02,10,8,0.8
+PlayStation 4,ps4,97,2022-03,6,6,1.0
+PlayStation 4,ps4,98,2022-04,11,11,1.0
+PlayStation 4,ps4,99,2022-05,2,2,1.0
+PlayStation 4,ps4,100,2022-06,7,7,1.0
+PlayStation 4,ps4,101,2022-07,11,9,0.818
+PlayStation 4,ps4,102,2022-08,8,5,0.625
+PlayStation 4,ps4,103,2022-09,23,16,0.696
+PlayStation 4,ps4,104,2022-10,5,5,1.0
+PlayStation 4,ps4,105,2022-11,4,4,1.0
+PlayStation 4,ps4,106,2022-12,11,7,0.636
+PlayStation 4,ps4,107,2023-01,11,7,0.636
+PlayStation 4,ps4,108,2023-02,8,8,1.0
+PlayStation 4,ps4,109,2023-03,9,8,0.889
+PlayStation 4,ps4,110,2023-04,12,5,0.417
+PlayStation 4,ps4,111,2023-05,5,4,0.8
+PlayStation 4,ps4,112,2023-06,8,8,1.0
+PlayStation 4,ps4,113,2023-07,7,7,1.0
+PlayStation 4,ps4,114,2023-08,2,2,1.0
+PlayStation 4,ps4,115,2023-09,6,5,0.833
+PlayStation 4,ps4,116,2023-10,5,4,0.8
+PlayStation 4,ps4,117,2023-11,7,5,0.714
+PlayStation 4,ps4,118,2023-12,5,4,0.8
+PlayStation 4,ps4,119,2024-01,5,5,1.0
+PlayStation 4,ps4,120,2024-02,7,4,0.571
+PlayStation 4,ps4,121,2024-03,4,4,1.0
+PlayStation 4,ps4,122,2024-04,6,4,0.667
+PlayStation 4,ps4,123,2024-05,9,3,0.333
+PlayStation 4,ps4,124,2024-06,7,3,0.429
+PlayStation 4,ps4,125,2024-07,4,1,0.25
+PlayStation 4,ps4,126,2024-08,5,3,0.6
+PlayStation 4,ps4,127,2024-09,3,3,1.0
+PlayStation 4,ps4,128,2024-10,5,5,1.0
+PlayStation 4,ps4,129,2024-11,2,2,1.0
+PlayStation 4,ps4,130,2024-12,2,1,0.5
+PlayStation 4,ps4,131,2025-01,5,2,0.4
+PlayStation 4,ps4,132,2025-02,2,1,0.5
+PlayStation 4,ps4,133,2025-03,5,4,0.8
+PlayStation 4,ps4,134,2025-04,2,1,0.5
+PlayStation 4,ps4,135,2025-05,8,2,0.25
+PlayStation 4,ps4,136,2025-06,3,1,0.333
+PlayStation 4,ps4,137,2025-07,3,2,0.667
+PlayStation 4,ps4,138,2025-08,3,1,0.333
+PlayStation 4,ps4,139,2025-09,4,2,0.5
+PlayStation 4,ps4,140,2025-10,1,,0.0
+PlayStation 4,ps4,141,2025-11,1,,0.0
+PlayStation 4,ps4,142,2025-12,1,1,1.0
+PlayStation 4,ps4,143,2026-01,2,,0.0
+PlayStation 4,ps4,144,2026-02,2,2,1.0
+PlayStation 4,ps4,145,2026-03,1,,0.0
+PlayStation 4,ps4,146,2026-04,3,,0.0
+PlayStation 4,ps4,147,2026-05,0,,
+PlayStation 4,ps4,148,2026-06,1,,0.0
+PlayStation 4,ps4,149,2026-07,3,1,0.333
+PlayStation 4,ps4,150,2026-08,1,,0.0
+Xbox One,xboxone,0,2014-09,21,18,0.857
+Xbox One,xboxone,1,2014-10,11,6,0.545
+Xbox One,xboxone,2,2014-11,16,10,0.625
+Xbox One,xboxone,3,2014-12,11,5,0.455
+Xbox One,xboxone,4,2015-01,7,2,0.286
+Xbox One,xboxone,5,2015-02,4,2,0.5
+Xbox One,xboxone,6,2015-03,13,5,0.385
+Xbox One,xboxone,7,2015-04,11,5,0.455
+Xbox One,xboxone,8,2015-05,7,4,0.571
+Xbox One,xboxone,9,2015-06,5,4,0.8
+Xbox One,xboxone,10,2015-07,2,1,0.5
+Xbox One,xboxone,11,2015-08,3,2,0.667
+Xbox One,xboxone,12,2015-09,2,2,1.0
+Xbox One,xboxone,13,2015-10,6,6,1.0
+Xbox One,xboxone,14,2015-11,5,5,1.0
+Xbox One,xboxone,15,2015-12,2,2,1.0
+Xbox One,xboxone,16,2016-01,5,3,0.6
+Xbox One,xboxone,17,2016-02,6,1,0.167
+Xbox One,xboxone,18,2016-03,7,3,0.429
+Xbox One,xboxone,19,2016-04,7,3,0.429
+Xbox One,xboxone,20,2016-05,4,3,0.75
+Xbox One,xboxone,21,2016-06,8,2,0.25
+Xbox One,xboxone,22,2016-07,5,,0.0
+Xbox One,xboxone,23,2016-08,2,,0.0
+Xbox One,xboxone,24,2016-09,11,5,0.455
+Xbox One,xboxone,25,2016-10,4,4,1.0
+Xbox One,xboxone,26,2016-11,4,3,0.75
+Xbox One,xboxone,27,2016-12,8,4,0.5
+Xbox One,xboxone,28,2017-01,2,1,0.5
+Xbox One,xboxone,29,2017-02,6,2,0.333
+Xbox One,xboxone,30,2017-03,11,2,0.182
+Xbox One,xboxone,31,2017-04,6,1,0.167
+Xbox One,xboxone,32,2017-05,10,2,0.2
+Xbox One,xboxone,33,2017-06,8,1,0.125
+Xbox One,xboxone,34,2017-07,5,1,0.2
+Xbox One,xboxone,35,2017-08,11,1,0.091
+Xbox One,xboxone,36,2017-09,19,4,0.211
+Xbox One,xboxone,37,2017-10,16,7,0.438
+Xbox One,xboxone,38,2017-11,13,5,0.385
+Xbox One,xboxone,39,2017-12,11,3,0.273
+Xbox One,xboxone,40,2018-01,5,,0.0
+Xbox One,xboxone,41,2018-02,12,1,0.083
+Xbox One,xboxone,42,2018-03,13,1,0.077
+Xbox One,xboxone,43,2018-04,11,,0.0
+Xbox One,xboxone,44,2018-05,12,1,0.083
+Xbox One,xboxone,45,2018-06,14,,0.0
+Xbox One,xboxone,46,2018-07,12,,0.0
+Xbox One,xboxone,47,2018-08,15,,0.0
+Xbox One,xboxone,48,2018-09,21,1,0.048
+Xbox One,xboxone,49,2018-10,23,3,0.13
+Xbox One,xboxone,50,2018-11,18,1,0.056
+Xbox One,xboxone,51,2018-12,25,,0.0
+Xbox One,xboxone,52,2019-01,24,1,0.042
+Xbox One,xboxone,53,2019-02,26,2,0.077
+Xbox One,xboxone,54,2019-03,34,2,0.059
+Xbox One,xboxone,55,2019-04,30,,0.0
+Xbox One,xboxone,56,2019-05,22,,0.0
+Xbox One,xboxone,57,2019-06,29,1,0.034
+Xbox One,xboxone,58,2019-07,31,,0.0
+Xbox One,xboxone,59,2019-08,45,,0.0
+Xbox One,xboxone,60,2019-09,39,1,0.026
+Xbox One,xboxone,61,2019-10,35,,0.0
+Xbox One,xboxone,62,2019-11,32,,0.0
+Xbox One,xboxone,63,2019-12,27,,0.0
+Xbox One,xboxone,64,2020-01,23,,0.0
+Xbox One,xboxone,65,2020-02,22,,0.0
+Xbox One,xboxone,66,2020-03,22,,0.0
+Xbox One,xboxone,67,2020-04,33,,0.0
+Xbox One,xboxone,68,2020-05,14,,0.0
+Xbox One,xboxone,69,2020-06,14,,0.0
+Xbox One,xboxone,70,2020-07,19,,0.0
+Xbox One,xboxone,71,2020-08,10,1,0.1
+Xbox One,xboxone,72,2020-09,13,1,0.077
+Xbox One,xboxone,73,2020-10,22,1,0.045
+Xbox One,xboxone,74,2020-11,24,,0.0
+Xbox One,xboxone,75,2020-12,29,,0.0
+Xbox One,xboxone,76,2021-01,22,,0.0
+Xbox One,xboxone,77,2021-02,7,,0.0
+Xbox One,xboxone,78,2021-03,12,,0.0
+Xbox One,xboxone,79,2021-04,11,,0.0
+Xbox One,xboxone,80,2021-05,23,,0.0
+Xbox One,xboxone,81,2021-06,26,2,0.077
+Xbox One,xboxone,82,2021-07,27,,0.0
+Xbox One,xboxone,83,2021-08,37,1,0.027
+Xbox One,xboxone,84,2021-09,58,,0.0
+Xbox One,xboxone,85,2021-10,50,1,0.02
+Xbox One,xboxone,86,2021-11,45,1,0.022
+Xbox One,xboxone,87,2021-12,33,1,0.03
+Xbox One,xboxone,88,2022-01,28,,0.0
+Xbox One,xboxone,89,2022-02,31,,0.0
+Xbox One,xboxone,90,2022-03,43,,0.0
+Xbox One,xboxone,91,2022-04,29,,0.0
+Xbox One,xboxone,92,2022-05,36,,0.0
+Xbox One,xboxone,93,2022-06,32,,0.0
+Xbox One,xboxone,94,2022-07,35,,0.0
+Xbox One,xboxone,95,2022-08,32,1,0.031
+Xbox One,xboxone,96,2022-09,50,,0.0
+Xbox One,xboxone,97,2022-10,41,,0.0
+Xbox One,xboxone,98,2022-11,41,1,0.024
+Xbox One,xboxone,99,2022-12,42,,0.0
+Xbox One,xboxone,100,2023-01,24,,0.0
+Xbox One,xboxone,101,2023-02,34,,0.0
+Xbox One,xboxone,102,2023-03,54,,0.0
+Xbox One,xboxone,103,2023-04,35,1,0.029
+Xbox One,xboxone,104,2023-05,32,,0.0
+Xbox One,xboxone,105,2023-06,30,,0.0
+Xbox One,xboxone,106,2023-07,27,,0.0
+Xbox One,xboxone,107,2023-08,42,,0.0
+Xbox One,xboxone,108,2023-09,39,,0.0
+Xbox One,xboxone,109,2023-10,48,1,0.021
+Xbox One,xboxone,110,2023-11,54,,0.0
+Xbox One,xboxone,111,2023-12,30,,0.0
+Xbox One,xboxone,112,2024-01,10,,0.0
+Xbox One,xboxone,113,2024-02,39,,0.0
+Xbox One,xboxone,114,2024-03,40,,0.0
+Xbox One,xboxone,115,2024-04,20,,0.0
+Xbox One,xboxone,116,2024-05,38,,0.0
+Xbox One,xboxone,117,2024-06,34,,0.0
+Xbox One,xboxone,118,2024-07,40,,0.0
+Xbox One,xboxone,119,2024-08,55,,0.0
+Xbox One,xboxone,120,2024-09,25,,0.0
+Xbox One,xboxone,121,2024-10,2,1,0.5
+Xbox One,xboxone,122,2024-11,0,,
+Xbox One,xboxone,123,2024-12,2,,0.0
+Xbox One,xboxone,124,2025-01,35,,0.0
+Xbox One,xboxone,125,2025-02,39,,0.0
+Xbox One,xboxone,126,2025-03,1,,0.0
+Xbox One,xboxone,127,2025-04,0,,
+Xbox One,xboxone,128,2025-05,0,,
+Xbox One,xboxone,129,2025-06,0,,
+Xbox One,xboxone,130,2025-07,0,,
+Xbox One,xboxone,131,2025-08,0,,
+Xbox One,xboxone,132,2025-09,0,,
+Xbox One,xboxone,133,2025-10,1,,0.0
+Xbox One,xboxone,134,2025-11,1,1,1.0
+Nintendo Switch,switch,0,2017-03,16,9,0.563
+Nintendo Switch,switch,1,2017-04,6,2,0.333
+Nintendo Switch,switch,2,2017-05,9,1,0.111
+Nintendo Switch,switch,3,2017-06,13,3,0.231
+Nintendo Switch,switch,4,2017-07,16,3,0.188
+Nintendo Switch,switch,5,2017-08,16,4,0.25
+Nintendo Switch,switch,6,2017-09,24,8,0.333
+Nintendo Switch,switch,7,2017-10,16,3,0.188
+Nintendo Switch,switch,8,2017-11,33,9,0.273
+Nintendo Switch,switch,9,2017-12,43,8,0.186
+Nintendo Switch,switch,10,2018-01,17,1,0.059
+Nintendo Switch,switch,11,2018-02,30,9,0.3
+Nintendo Switch,switch,12,2018-03,50,13,0.26
+Nintendo Switch,switch,13,2018-04,41,8,0.195
+Nintendo Switch,switch,14,2018-05,46,7,0.152
+Nintendo Switch,switch,15,2018-06,46,9,0.196
+Nintendo Switch,switch,16,2018-07,50,12,0.24
+Nintendo Switch,switch,17,2018-08,68,16,0.235
+Nintendo Switch,switch,18,2018-09,65,22,0.338
+Nintendo Switch,switch,19,2018-10,56,13,0.232
+Nintendo Switch,switch,20,2018-11,64,18,0.281
+Nintendo Switch,switch,21,2018-12,78,20,0.256
+Nintendo Switch,switch,22,2019-01,48,7,0.146
+Nintendo Switch,switch,23,2019-02,66,16,0.242
+Nintendo Switch,switch,24,2019-03,56,17,0.304
+Nintendo Switch,switch,25,2019-04,63,19,0.302
+Nintendo Switch,switch,26,2019-05,48,10,0.208
+Nintendo Switch,switch,27,2019-06,59,10,0.169
+Nintendo Switch,switch,28,2019-07,66,19,0.288
+Nintendo Switch,switch,29,2019-08,60,19,0.317
+Nintendo Switch,switch,30,2019-09,60,17,0.283
+Nintendo Switch,switch,31,2019-10,79,24,0.304
+Nintendo Switch,switch,32,2019-11,63,16,0.254
+Nintendo Switch,switch,33,2019-12,89,25,0.281
+Nintendo Switch,switch,34,2020-01,45,9,0.2
+Nintendo Switch,switch,35,2020-02,48,10,0.208
+Nintendo Switch,switch,36,2020-03,58,15,0.259
+Nintendo Switch,switch,37,2020-04,63,15,0.238
+Nintendo Switch,switch,38,2020-05,56,12,0.214
+Nintendo Switch,switch,39,2020-06,51,17,0.333
+Nintendo Switch,switch,40,2020-07,76,17,0.224
+Nintendo Switch,switch,41,2020-08,55,15,0.273
+Nintendo Switch,switch,42,2020-09,68,13,0.191
+Nintendo Switch,switch,43,2020-10,100,15,0.15
+Nintendo Switch,switch,44,2020-11,98,26,0.265
+Nintendo Switch,switch,45,2020-12,114,23,0.202
+Nintendo Switch,switch,46,2021-01,71,12,0.169
+Nintendo Switch,switch,47,2021-02,82,16,0.195
+Nintendo Switch,switch,48,2021-03,135,21,0.156
+Nintendo Switch,switch,49,2021-04,133,19,0.143
+Nintendo Switch,switch,50,2021-05,107,16,0.15
+Nintendo Switch,switch,51,2021-06,131,20,0.153
+Nintendo Switch,switch,52,2021-07,132,26,0.197
+Nintendo Switch,switch,53,2021-08,106,15,0.142
+Nintendo Switch,switch,54,2021-09,141,23,0.163
+Nintendo Switch,switch,55,2021-10,161,22,0.137
+Nintendo Switch,switch,56,2021-11,130,21,0.162
+Nintendo Switch,switch,57,2021-12,137,22,0.161
+Nintendo Switch,switch,58,2022-01,93,14,0.151
+Nintendo Switch,switch,59,2022-02,105,17,0.162
+Nintendo Switch,switch,60,2022-03,150,19,0.127
+Nintendo Switch,switch,61,2022-04,155,21,0.135
+Nintendo Switch,switch,62,2022-05,82,9,0.11
+Nintendo Switch,switch,63,2022-06,134,20,0.149
+Nintendo Switch,switch,64,2022-07,110,19,0.173
+Nintendo Switch,switch,65,2022-08,119,11,0.092
+Nintendo Switch,switch,66,2022-09,166,27,0.163
+Nintendo Switch,switch,67,2022-10,139,20,0.144
+Nintendo Switch,switch,68,2022-11,146,23,0.158
+Nintendo Switch,switch,69,2022-12,170,28,0.165
+Nintendo Switch,switch,70,2023-01,85,9,0.106
+Nintendo Switch,switch,71,2023-02,128,21,0.164
+Nintendo Switch,switch,72,2023-03,197,23,0.117
+Nintendo Switch,switch,73,2023-04,173,25,0.145
+Nintendo Switch,switch,74,2023-05,124,14,0.113
+Nintendo Switch,switch,75,2023-06,150,21,0.14
+Nintendo Switch,switch,76,2023-07,161,24,0.149
+Nintendo Switch,switch,77,2023-08,137,19,0.139
+Nintendo Switch,switch,78,2023-09,160,16,0.1
+Nintendo Switch,switch,79,2023-10,149,21,0.141
+Nintendo Switch,switch,80,2023-11,202,33,0.163
+Nintendo Switch,switch,81,2023-12,154,22,0.143
+Nintendo Switch,switch,82,2024-01,95,12,0.126
+Nintendo Switch,switch,83,2024-02,180,20,0.111
+Nintendo Switch,switch,84,2024-03,169,21,0.124
+Nintendo Switch,switch,85,2024-04,173,19,0.11
+Nintendo Switch,switch,86,2024-05,199,20,0.101
+Nintendo Switch,switch,87,2024-06,143,17,0.119
+Nintendo Switch,switch,88,2024-07,201,34,0.169
+Nintendo Switch,switch,89,2024-08,215,23,0.107
+Nintendo Switch,switch,90,2024-09,191,28,0.147
+Nintendo Switch,switch,91,2024-10,230,24,0.104
+Nintendo Switch,switch,92,2024-11,230,31,0.135
+Nintendo Switch,switch,93,2024-12,198,25,0.126
+Nintendo Switch,switch,94,2025-01,147,15,0.102
+Nintendo Switch,switch,95,2025-02,176,14,0.08
+Nintendo Switch,switch,96,2025-03,199,17,0.085
+Nintendo Switch,switch,97,2025-04,224,16,0.071
+Nintendo Switch,switch,98,2025-05,251,21,0.084
+Nintendo Switch,switch,99,2025-06,227,23,0.101
+Nintendo Switch,switch,100,2025-07,192,21,0.109
+Nintendo Switch,switch,101,2025-08,194,22,0.113
+Nintendo Switch,switch,102,2025-09,227,26,0.115
+Nintendo Switch,switch,103,2025-10,267,24,0.09
+Nintendo Switch,switch,104,2025-11,246,22,0.089
+Nintendo Switch,switch,105,2025-12,242,22,0.091
+Nintendo Switch,switch,106,2026-01,171,12,0.07
+Nintendo Switch,switch,107,2026-02,192,10,0.052
+Nintendo Switch,switch,108,2026-03,256,22,0.086
+Nintendo Switch,switch,109,2026-04,290,11,0.038
+Nintendo Switch,switch,110,2026-05,199,6,0.03
+Nintendo Switch,switch,111,2026-06,150,12,0.08
+Nintendo Switch,switch,112,2026-07,49,25,0.51
+Nintendo Switch,switch,113,2026-08,9,8,0.889
+Nintendo Switch,switch,114,2026-09,6,4,0.667
+Xbox Series X/S,xboxseries,0,2020-11,5,1,0.2
+Xbox Series X/S,xboxseries,1,2020-12,9,,0.0
+Xbox Series X/S,xboxseries,2,2021-01,12,,0.0
+Xbox Series X/S,xboxseries,3,2021-02,7,,0.0
+Xbox Series X/S,xboxseries,4,2021-03,3,,0.0
+Xbox Series X/S,xboxseries,5,2021-04,9,,0.0
+Xbox Series X/S,xboxseries,6,2021-05,14,,0.0
+Xbox Series X/S,xboxseries,7,2021-06,16,2,0.125
+Xbox Series X/S,xboxseries,8,2021-07,16,1,0.063
+Xbox Series X/S,xboxseries,9,2021-08,14,1,0.071
+Xbox Series X/S,xboxseries,10,2021-09,20,,0.0
+Xbox Series X/S,xboxseries,11,2021-10,20,1,0.05
+Xbox Series X/S,xboxseries,12,2021-11,18,1,0.056
+Xbox Series X/S,xboxseries,13,2021-12,15,1,0.067
+Xbox Series X/S,xboxseries,14,2022-01,9,,0.0
+Xbox Series X/S,xboxseries,15,2022-02,14,,0.0
+Xbox Series X/S,xboxseries,16,2022-03,18,,0.0
+Xbox Series X/S,xboxseries,17,2022-04,13,,0.0
+Xbox Series X/S,xboxseries,18,2022-05,15,,0.0
+Xbox Series X/S,xboxseries,19,2022-06,17,,0.0
+Xbox Series X/S,xboxseries,20,2022-07,17,,0.0
+Xbox Series X/S,xboxseries,21,2022-08,16,1,0.063
+Xbox Series X/S,xboxseries,22,2022-09,18,,0.0
+Xbox Series X/S,xboxseries,23,2022-10,15,,0.0
+Xbox Series X/S,xboxseries,24,2022-11,16,1,0.063
+Xbox Series X/S,xboxseries,25,2022-12,16,,0.0
+Xbox Series X/S,xboxseries,26,2023-01,11,,0.0
+Xbox Series X/S,xboxseries,27,2023-02,14,,0.0
+Xbox Series X/S,xboxseries,28,2023-03,18,,0.0
+Xbox Series X/S,xboxseries,29,2023-04,17,1,0.059
+Xbox Series X/S,xboxseries,30,2023-05,12,,0.0
+Xbox Series X/S,xboxseries,31,2023-06,14,,0.0
+Xbox Series X/S,xboxseries,32,2023-07,15,,0.0
+Xbox Series X/S,xboxseries,33,2023-08,18,,0.0
+Xbox Series X/S,xboxseries,34,2023-09,14,1,0.071
+Xbox Series X/S,xboxseries,35,2023-10,18,2,0.111
+Xbox Series X/S,xboxseries,36,2023-11,20,,0.0
+Xbox Series X/S,xboxseries,37,2023-12,11,,0.0
+Xbox Series X/S,xboxseries,38,2024-01,6,,0.0
+Xbox Series X/S,xboxseries,39,2024-02,15,,0.0
+Xbox Series X/S,xboxseries,40,2024-03,18,,0.0
+Xbox Series X/S,xboxseries,41,2024-04,16,,0.0
+Xbox Series X/S,xboxseries,42,2024-05,17,,0.0
+Xbox Series X/S,xboxseries,43,2024-06,20,,0.0
+Xbox Series X/S,xboxseries,44,2024-07,18,,0.0
+Xbox Series X/S,xboxseries,45,2024-08,21,,0.0
+Xbox Series X/S,xboxseries,46,2024-09,13,,0.0
+Xbox Series X/S,xboxseries,47,2024-10,5,1,0.2
+Xbox Series X/S,xboxseries,48,2024-11,3,1,0.333
+Xbox Series X/S,xboxseries,49,2024-12,3,1,0.333
+Xbox Series X/S,xboxseries,50,2025-01,15,,0.0
+Xbox Series X/S,xboxseries,51,2025-02,18,1,0.056
+Xbox Series X/S,xboxseries,52,2025-03,4,,0.0
+Xbox Series X/S,xboxseries,53,2025-04,1,,0.0
+Xbox Series X/S,xboxseries,54,2025-05,1,1,1.0
+Xbox Series X/S,xboxseries,55,2025-06,4,,0.0
+Xbox Series X/S,xboxseries,56,2025-07,0,,
+Xbox Series X/S,xboxseries,57,2025-08,1,,0.0
+Xbox Series X/S,xboxseries,58,2025-09,0,,
+Xbox Series X/S,xboxseries,59,2025-10,3,2,0.667
+Xbox Series X/S,xboxseries,60,2025-11,1,1,1.0
+Xbox Series X/S,xboxseries,61,2025-12,0,,
+Xbox Series X/S,xboxseries,62,2026-01,0,,
+Xbox Series X/S,xboxseries,63,2026-02,0,,
+Xbox Series X/S,xboxseries,64,2026-03,1,,0.0
+Xbox Series X/S,xboxseries,65,2026-04,0,,
+Xbox Series X/S,xboxseries,66,2026-05,1,1,1.0
+Xbox Series X/S,xboxseries,67,2026-06,0,,
+Xbox Series X/S,xboxseries,68,2026-07,1,1,1.0
+PlayStation 5,ps5,0,2020-11,24,12,0.5
+PlayStation 5,ps5,1,2020-12,13,5,0.385
+PlayStation 5,ps5,2,2021-01,4,,0.0
+PlayStation 5,ps5,3,2021-02,9,4,0.444
+PlayStation 5,ps5,4,2021-03,11,3,0.273
+PlayStation 5,ps5,5,2021-04,16,5,0.313
+PlayStation 5,ps5,6,2021-05,16,5,0.313
+PlayStation 5,ps5,7,2021-06,18,8,0.444
+PlayStation 5,ps5,8,2021-07,22,5,0.227
+PlayStation 5,ps5,9,2021-08,19,6,0.316
+PlayStation 5,ps5,10,2021-09,34,14,0.412
+PlayStation 5,ps5,11,2021-10,32,14,0.438
+PlayStation 5,ps5,12,2021-11,29,5,0.172
+PlayStation 5,ps5,13,2021-12,17,2,0.118
+PlayStation 5,ps5,14,2022-01,19,2,0.105
+PlayStation 5,ps5,15,2022-02,26,10,0.385
+PlayStation 5,ps5,16,2022-03,48,12,0.25
+PlayStation 5,ps5,17,2022-04,37,4,0.108
+PlayStation 5,ps5,18,2022-05,53,7,0.132
+PlayStation 5,ps5,19,2022-06,56,5,0.089
+PlayStation 5,ps5,20,2022-07,41,6,0.146
+PlayStation 5,ps5,21,2022-08,64,11,0.172
+PlayStation 5,ps5,22,2022-09,91,12,0.132
+PlayStation 5,ps5,23,2022-10,85,11,0.129
+PlayStation 5,ps5,24,2022-11,103,11,0.107
+PlayStation 5,ps5,25,2022-12,113,5,0.044
+PlayStation 5,ps5,26,2023-01,62,5,0.081
+PlayStation 5,ps5,27,2023-02,86,11,0.128
+PlayStation 5,ps5,28,2023-03,63,14,0.222
+PlayStation 5,ps5,29,2023-04,59,7,0.119
+PlayStation 5,ps5,30,2023-05,72,8,0.111
+PlayStation 5,ps5,31,2023-06,75,14,0.187
+PlayStation 5,ps5,32,2023-07,75,10,0.133
+PlayStation 5,ps5,33,2023-08,71,9,0.127
+PlayStation 5,ps5,34,2023-09,92,10,0.109
+PlayStation 5,ps5,35,2023-10,65,14,0.215
+PlayStation 5,ps5,36,2023-11,24,14,0.583
+PlayStation 5,ps5,37,2023-12,10,8,0.8
+PlayStation 5,ps5,38,2024-01,8,6,0.75
+PlayStation 5,ps5,39,2024-02,19,11,0.579
+PlayStation 5,ps5,40,2024-03,9,7,0.778
+PlayStation 5,ps5,41,2024-04,8,5,0.625
+PlayStation 5,ps5,42,2024-05,11,7,0.636
+PlayStation 5,ps5,43,2024-06,4,2,0.5
+PlayStation 5,ps5,44,2024-07,7,4,0.571
+PlayStation 5,ps5,45,2024-08,10,6,0.6
+PlayStation 5,ps5,46,2024-09,5,3,0.6
+PlayStation 5,ps5,47,2024-10,8,6,0.75
+PlayStation 5,ps5,48,2024-11,0,,
+PlayStation 5,ps5,49,2024-12,1,,0.0
+PlayStation 5,ps5,50,2025-01,7,2,0.286
+PlayStation 5,ps5,51,2025-02,13,3,0.231
+PlayStation 5,ps5,52,2025-03,6,4,0.667
+PlayStation 5,ps5,53,2025-04,6,,0.0
+PlayStation 5,ps5,54,2025-05,4,1,0.25
+PlayStation 5,ps5,55,2025-06,5,2,0.4
+PlayStation 5,ps5,56,2025-07,5,,0.0
+PlayStation 5,ps5,57,2025-08,22,7,0.318
+PlayStation 5,ps5,58,2025-09,24,6,0.25
+PlayStation 5,ps5,59,2025-10,40,9,0.225
+PlayStation 5,ps5,60,2025-11,27,2,0.074
+PlayStation 5,ps5,61,2025-12,15,1,0.067
+PlayStation 5,ps5,62,2026-01,15,,0.0
+PlayStation 5,ps5,63,2026-02,15,1,0.067
+PlayStation 5,ps5,64,2026-03,7,1,0.143
+PlayStation 5,ps5,65,2026-04,12,1,0.083
+PlayStation 5,ps5,66,2026-05,6,3,0.5
+PlayStation 5,ps5,67,2026-06,4,1,0.25
+PlayStation 5,ps5,68,2026-07,10,5,0.5
+PlayStation 5,ps5,69,2026-08,7,2,0.286
+PlayStation 5,ps5,70,2026-09,2,,0.0

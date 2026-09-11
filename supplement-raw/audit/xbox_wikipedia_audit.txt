@@ -1,0 +1,12 @@
+xbox audit (v4: Japan release column only)
+raw Japanese-dated rows: 222
+unique normalized titles: 222
+expected total: 222
+launch 2002-02-22: 12 (expected 12)
+
+year,expected,parsed_raw,unique
+2002,69,69,69
+2003,55,55,55
+2004,57,57,57
+2005,39,39,39
+2006,2,2,2

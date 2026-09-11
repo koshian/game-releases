@@ -1,0 +1,32 @@
+source_id,platform,raw_rows,unique_titles,bad_date_rows,file
+fc,Family Computer,1053,1052,0,fc.csv
+fds,Famicom Disk System,200,200,0,fds.csv
+pce,PC Engine,650,648,0,pce.csv
+md,Mega Drive,555,549,0,md.csv
+gb,Game Boy,1244,1243,0,gb.csv
+gg,Game Gear,196,196,0,gg.csv
+sfc,Super Famicom,1447,1447,0,sfc.csv
+neogeo,Neo Geo,117,106,0,neogeo.csv
+saturn,Sega Saturn,1057,1057,0,saturn.csv
+ps1,PlayStation,3289,3288,0,ps1.csv
+n64,Nintendo 64,207,207,0,n64.csv
+ngp,Neo Geo Pocket,82,81,0,ngp.csv
+dc,Dreamcast,497,497,0,dc.csv
+ws,WonderSwan,199,199,0,ws.csv
+ps2,PlayStation 2,2928,2927,0,ps2.csv
+gba,Game Boy Advance,793,793,0,gba.csv
+gc,GameCube,276,276,0,gc.csv
+xbox,Xbox,222,222,0,xbox.csv
+ds,Nintendo DS,1840,1825,0,ds.csv
+psp,PSP,1564,1563,0,psp.csv
+xbox360,Xbox 360,724,724,0,xbox360.csv
+ps3,PlayStation 3,981,981,0,ps3.csv
+wii,Wii,461,461,0,wii.csv
+3ds,Nintendo 3DS,1369,1365,0,3ds.csv
+vita,PlayStation Vita,1174,1174,0,vita.csv
+wiiu,Wii U,249,249,0,wiiu.csv
+ps4,PlayStation 4,2497,2482,0,ps4.csv
+xboxone,Xbox One,2777,2737,0,xboxone.csv
+switch,Nintendo Switch,13421,13385,0,switch.csv
+xboxseries,Xbox Series X/S,777,750,0,xboxseries.csv
+ps5,PlayStation 5,2152,2096,0,ps5.csv
